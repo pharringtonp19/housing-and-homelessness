@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# [EC970](https://economics.harvard.edu/sophomore-tutorial): Housing and Homelessenss
+# [EC970](https://economics.harvard.edu/sophomore-tutorial): Housing and Homelessness
 
 
 ![Alt text](imgs/hh2.png)
