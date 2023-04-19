@@ -6,7 +6,9 @@ layout: home
 # [EC970](https://economics.harvard.edu/sophomore-tutorial): Housing and Homelessenss
 
 
-![Alt text](/assets/images/hh2.png)
+<!-- -- ![Alt text](/assets/images/hh2.png) -->
+
+<img src="/assets/images/hh2.png" alt="My image">
 
 
 ### **Overview**
