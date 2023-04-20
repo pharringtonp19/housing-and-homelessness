@@ -6,7 +6,7 @@ permalink: /evictions/
 
 <!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->
 
-<img src="../../assets/images/rent.png" alt="Alt text" width="500" height="100">
+<img src="./../assets/images/rent.png" alt="Alt text" width="500" height="100">
 
 
 
