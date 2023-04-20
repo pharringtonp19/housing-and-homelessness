@@ -12,6 +12,8 @@ permalink: /evictions/
 
 # **Papers**
 
+### [The Impact of Legal Counsel on Outcomes for Poor Tenants in New York City's Housing Court: Results of a Randomized Experiment](https://www-jstor-org.ezproxy.bu.edu/stable/3185408) (Carroll Seron)
+
 ### [The Welfare Effects of Eviction and Homelessness Policies](https://boazabramson.github.io/publications) (Boaz Abramson)
 
 
