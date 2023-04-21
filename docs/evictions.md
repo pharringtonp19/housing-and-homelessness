@@ -2,11 +2,12 @@
 title: Evictions
 layout: page
 permalink: /evictions/
+nav_order: 3
 ---
 
 <!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->
 
-<img src="./../assets/images/rent.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
+<img src="./../assets/images/evictions.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
 
 # **Papers**

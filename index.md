@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # [EC970](https://economics.harvard.edu/sophomore-tutorial): Housing and Homelessness
