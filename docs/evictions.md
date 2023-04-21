@@ -12,15 +12,7 @@ nav_order: 3
 
 # **Papers**
 
-### [The Impact of Legal Counsel on Outcomes for Poor Tenants in New York City's Housing Court: Results of a Randomized Experiment](https://www-jstor-org.ezproxy.bu.edu/stable/3185408) (Carroll Seron)
+### [The Impact of Legal Counsel on Outcomes for Poor Tenants in New York City's Housing Court: Results of a Randomized Experiment (Carroll Seron)](https://www-jstor-org.ezproxy.bu.edu/stable/3185408){: .btn .btn-white }
 
-### [The Welfare Effects of Eviction and Homelessness Policies](https://boazabramson.github.io/publications) (Boaz Abramson)
-
-
-# **Books**
-
-### [Evicted](https://evictedbook.com/) (Mathew Desmond)
-
-
-
+### [The Welfare Effects of Eviction and Homelessness Policies (Boaz Abramson)](https://boazabramson.github.io/publications){: .btn .btn-white } 
 
