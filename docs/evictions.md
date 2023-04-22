@@ -2,7 +2,7 @@
 title: Evictions
 layout: page
 permalink: /evictions/
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->

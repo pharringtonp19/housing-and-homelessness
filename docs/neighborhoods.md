@@ -2,7 +2,7 @@
 title: Neighborhoods
 layout: page
 permalink: /neighborhoods/
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->

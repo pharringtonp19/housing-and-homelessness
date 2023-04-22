@@ -8,6 +8,20 @@ url: https://pharringtonp19.github.io/housing-and-homelessness
 
 favicon_ico: "/assets/images/hh2.png"
 
+# External navigation links
+nav_external_links:
+  - title: Intermediate Micro
+    url: https://pharringtonp19.github.io/mecon/
+    hide_icon: false 
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/pharringtonp19/housing-and-homelessness"
+
+# # Makes Aux links open in a new tab. Default is false
+# aux_links_new_tab: true
+
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
