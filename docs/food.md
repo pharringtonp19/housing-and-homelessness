@@ -18,7 +18,7 @@ nav_order: 7
     font-weight: bold;
     font-style: italic;
     margin-right: 10px; /* Add some right margin */
-
+    cursor: pointer; /* Show hand cursor on hover */
     }
   
   .title {

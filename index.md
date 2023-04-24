@@ -27,6 +27,6 @@ This sophmore tutorial will focus on issues related to housing for low-income in
 </style>
 
 <div class="footer">
-  All images for this website generated via <a href="https://openai.com/product/dalle2">Dall-e2</a>
+  All images for this website generated via <a href="https://openai.com/product/dalle2">Dalle2</a>
 
 </div>
