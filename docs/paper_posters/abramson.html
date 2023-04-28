@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<style>
+  body {
+    font-family: 'Times New Roman', serif;
+    max-width: 960px;
+    margin: 0 auto;
+    font-size: 18px;
+  }
+
+  .title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative; /* set position relative to enable absolute positioning of child element */
+}
+
+.summary {
+  color: blue;
+  font-weight: bold;
+  margin-top: 1px; /* adjust the margin to reduce the distance */
+  margin-bottom: 1px; /* adjust the margin to reduce the distance */
+  font-size: 20px;
+  padding: 0 10px; /* add padding to create some space around the text */
+}
+
+.title-image {
+  position: absolute;
+  top: 30px; /* adjust the top value to lower the image */
+  left: -60px;
+}
+
+.title-image img {
+  max-width: 20%; /* set the width of the image */
+  height: auto; /* maintain the aspect ratio of the image */
+}
+
+h1#title {
+  line-height: 1.2em;
+  margin-bottom: 0; /* remove the default margin to reduce the distance */
+}
+
+h1#title span {
+  display: block;
+}
+
+div.subtitle {
+  font-style: italic;
+  margin-top: 5px; /* adjust the margin to reduce the distance */
+  margin-bottom: 10px; /* adjust the margin to reduce the distance */
+}
+
+
+  h4 {
+    text-align: left;
+    display: inline;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+   
+
+  .columns {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    flex: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  .column.left {
+    border-right: 2px solid #ccc;
+  }
+
+  .section, .deep_section {
+    margin-bottom: 2px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+  }
+
+  /* .deep_section {
+    padding: 80px;
+  } */
+
+  h2 {
+    margin: 0;
+    padding: 2px 5px;
+  }
+
+  .section > p, .deep_section > p {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  .figure {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px; /* add padding to create space around the image */
+}
+
+
+.figure .caption {
+  margin-top: 5px;
+  font-size: 0.6em;
+  color: gray;
+}
+
+
+.figure img {
+  max-width: 60%;
+  height: auto;
+  transition: transform 0.2s ease-in-out;
+}
+
+.figure img:hover {
+  transform: scale(2);
+}
+
+
+  .authors {
+    text-align: center; /* center the authors */
+    margin-top: 10px; /* add margin top */
+    margin-bottom: 20px;
+  }
+
+  .authors p {
+    margin: 0 0 10px; /* Add margin to bottom only */
+  }
+
+  .center_math {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    ul {
+  font-size: 16px; /* set initial font size */
+  transition: transform 0.3s ease-in-out; /* add transition effect */
+}
+
+ul:hover {
+  transform: scale(1.2); /* increase font size on hover */
+}
+
+
+.hover-box {
+  position: relative;
+}
+
+.hover-textbox {
+  position: relative;
+  top: 0px; /* adjust the position of the box */
+  left: 0px;
+  background-color: #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  display: none; /* hide the box initially */
+}
+
+.hover-box:hover + .hover-textbox {
+  display: block; /* show the box when hovering over the heading tag */
+}
+
+
+
+</style>
+</head>
+<body>
+
+    <div class="title-container">
+      <div class="summary">A Summary of</div>
+        <h1 id="title">
+            The Welfare Effects of Eviction and Homelessness Policies
+        </h1>
+        <div class="subtitle">
+            Boaz Abramson
+        </div>
+      </div>
+
+  <div class="columns">
+    <div class="column left">
+
+        <div class="section">
+            <h2>Context</h2>
+                <p>There are 3.6 million eviction cases filed each year in the U.S.</p>
+                <p>The negative outcomes associated with housing insecurity has triggered a public debate over policies that address evictions</p>
+                <div class="figure">
+                <img src="./../../assets/images/rent_burden.png" alt="Description of the image">
+            </div>
+        </div>
+        <div class="section">
+            <h2>Policy Tradeoffs</h2>
+            <h5 class="hover-box">Right to Counsel</h5>
+            <div class="hover-textbox">
+            Provide tax-funded legal representation to tenants facing eviction cases
+            </div>
+
+                <p> <label><input type="checkbox" style="display:none"><span style="color:green">&#x2713;</span> Policies that make it harder to evict tenants who default on their rent payments protect renters from evictions in bad times</label></p> 
+                <p>  <label>
+                    <input type="checkbox" style="display:none">
+                    <span style="color:red">&#x2717;</span>
+                    They increase the costs of default for real-estate investors who in turn require higher rents as compensation. If, as a
+                    result, more households are priced out of the rental market, stronger protections against
+                    evictions can exacerbate homelessness
+                  </label></p>
+            <h5>Rental Assistance</h5>
+            <p> <label><input type="checkbox" style="display:none"><span style="color:green">&#x2713;</span> Rental assistance reduces the likelihood that a tenant defaults on rent in the first place</label></p> 
+            <p>  <label>
+                <input type="checkbox" style="display:none">
+                <span style="color:red">&#x2717;</span>
+                They generally require more government funding
+            </label></p>
+            </div>
+            <div class="section">
+                <h2>Open Claims</h2>
+            <ul>
+                <li>A longer eviction process reduces the likelihood that delinquent renters end up being evicted by providing tenants with more time to repay their debt</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+              </ul>
+        </div>
+        <div class="section">
+            <h2>Key Claim</h2>
+            <div style="border: 2px dotted #ccc; padding: 10px; border-radius: 5px;">
+                Because rent delinquencies are driven by persistent shocks to income, policies that make it harder to evict tend to extend the length of the eviction process but are overall ineffective in preventing evictions
+              </div>              
+        </div>
+        <div class="section">
+            <h2>Results</h2>
+            <p>
+                <label>
+                  <input type="checkbox" style="display:none">
+                  <span style="color:blue">&#9632;</span>
+                  “Right-to-Counsel” reform increases homelessness and slightly lowers aggregate welfare                </label>
+              </p>
+        </div>
+    </div>
+    <div class="column right">
+
+      <div class="deep_section">
+        <h2>Key Results</h2>
+        <p>(1) By partialling out the cluster effects in a nonparemtric mannor, the estimator is locally aware of the cluster structure</p>
+        <div class="figure">
+            <img src="./figures/other/results0.png" alt="Description of the image">
+        </div>  
+        <p>(2) Moreover we show that MAML alone does not ensure that the updates occur in the right space</p>
+        <div class="figure">
+            <img src="./figures/other/results1.png" alt="Description of the image">
+        </div>  
+        <p>(3) The overparameterization of the network makes training easier</p>
+        <div class="figure">
+            <img src="./figures/other/overparam.png" alt="Description of the image">
+        </div>  
+      </div>
+      <div class="section">
+        <h2>Limitations</h2>
+        <p> The overall match rate is 36%.</p>
+        <p>Assumes rents are priced in a risk-neutral manner, such that for each lease investors break even in
+            terms of discounted expected profits</p>
+
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>

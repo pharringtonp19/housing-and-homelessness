@@ -36,8 +36,8 @@ nav_order: 8
 
 
 <h1> Articles </h1>
-<a href="https://www.vox.com/policy/2023/4/23/23686130/housing-apartments-family-yimby-nimby-zoning-suburbs" target="_blank">
-  <button><span class="vox">The Atlantic</span><span class="title"> THE TIME TAX
+<a href="https://www.theatlantic.com/politics/archive/2021/07/how-government-learned-waste-your-time-tax/619568/" target="_blank">
+  <button><span class="atlantic">The Atlantic</span><span class="title"> THE TIME TAX
 Why is so much American bureaucracy left to average citizens?</span></button>
 </a>
 
