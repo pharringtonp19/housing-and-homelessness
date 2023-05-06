@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Food 
 layout: page
 permalink: /food/
@@ -39,6 +39,6 @@ nav_order: 7
 
 <a href="https://www.nytimes.com/2023/03/17/world/food-stamps-cuts-rising-prices.html" target="_blank">
  <button><span class="nyt">New York Times</span><span class="title"> Going Hungry in America</span></button>
- </a>
+ </a> -->
 
 

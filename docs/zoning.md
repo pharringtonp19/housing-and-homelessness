@@ -2,7 +2,7 @@
 title: Zoning 
 layout: page
 permalink: /zoning/
-nav_order: 9
+nav_order: 7
 ---
 
 

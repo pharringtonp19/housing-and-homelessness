@@ -184,10 +184,10 @@ ul:hover {
     <div class="title-container">
       <div class="summary">A Summary of</div>
         <h1 id="title">
-            The Welfare Effects of Eviction and Homelessness Policies
+            Eviction and Poverty in American Cities
         </h1>
         <div class="subtitle">
-            Boaz Abramson
+            Robert Collinson, John Eric Humphries, Nicholas Mader, Davin Reed, Daniel Tannenbaum & Winnie van Dijk
         </div>
       </div>
 
@@ -195,13 +195,19 @@ ul:hover {
     <div class="column left">
 
         <div class="section">
-            <h2>Context</h2>
-                <p>There are 3.6 million eviction cases filed each year in the U.S.</p>
-                <p>The negative outcomes associated with housing insecurity has triggered a public debate over policies that address evictions</p>
+            <h2>Motivation</h2>
+                <p>More than 2 million eviction cases are filed each year in the U.S.</p>
+                <p>In recent years, numerous policies at the federal, state, and local level have sought to reduce the number of evictions</p>
+                <p>The consequences of eviction are not well documented or understood</p>
                 <div class="figure">
                 <img src="./../../assets/images/rent_burden.png" alt="Description of the image">
             </div>
         </div>
+        <div class="section">
+          <h2>Contributions</h2>
+          <p>
+            Provides empirical evidence on the effects of eviction on earnings, employment, residential mobility, interactions with homelessness services, financial distress, and health            </p>
+      </div>
         <div class="section">
             <h2>Policy Tradeoffs</h2>
             <h5 class="hover-box">Right to Counsel</h5>
@@ -237,44 +243,34 @@ ul:hover {
             <h2>Key Claim</h2>
             <div style="border: 2px dotted #ccc; padding: 10px; border-radius: 5px;">
                 Because rent delinquencies are driven by persistent shocks to income, policies that make it harder to evict tend to extend the length of the eviction process but are overall ineffective in preventing evictions
-            </div>              
+              </div>              
         </div>
-        <div class="section">
-            <h2>Results</h2>
-            <p>
-                <label>
-                  <input type="checkbox" style="display:none">
-                  <span style="color:blue">&#9632;</span>
-                  “Right-to-Counsel” reform increases homelessness and slightly lowers aggregate welfare                </label>
-              </p>
-        </div>
+
     </div>
     <div class="column right">
 
-      <div class="figure" style="position: relative;">
-        <img src="./../../assets/images/surprising.png" alt="Description of the image" style="width: 5%; height: auto; position: absolute; left: 0; top: 0;">
-        Under a rental subsidy, the average realized rent in the bottom segment is unchanged relative to the baseline economy
-      </div>
-
       <div class="deep_section">
-        <h2>Contribution</h2>
-        <p>Develops a novel structural model of the rental markets that explicitly allows for defaults on rent, evictions, and homelessness in equilibrium</p>
+        <h2>Key Results</h2>
+        <p>Probability of observing the tenant at a new address by 8 percentage points</p>
+        <p> Probability of staying in emergency shelters by 3.4 percentage points</p>
+        <p> Annual income drops by in the first(second) year by $1292($2452)</p>
+        <p> Employment rate drops in the first(second) year by 1.5(1.8) percentage points</p>
+        <p> A Composite index of financial health of roughly 0.1 s.d. in the first and second years after the case filing</p>
+        <div class="figure">
+            <img src="./figures/other/results0.png" alt="Description of the image">
+        </div>  
+        <p>(2) Moreover we show that MAML alone does not ensure that the updates occur in the right space</p>
+        <div class="figure">
+            <img src="./figures/other/results1.png" alt="Description of the image">
+        </div>  
+        <p>(3) The overparameterization of the network makes training easier</p>
+        <div class="figure">
+            <img src="./figures/other/overparam.png" alt="Description of the image">
+        </div>  
       </div>
       <div class="section">
         <h2>Limitations</h2>
-        <p>If you believe the representative of the sample of <a href="https://robcollinson.github.io/RobWebsite/Evictions_CHI_NYC.pdf"> Collinson [2022]</a> the outcomes of eviction
-        orders are noisy (new address rate increases by 8 percentage points)</p>
-        <p> The overall match rate is 36%.</p>
-        <p class="hover-box">Selected Sample: </p>
-        <div  class="hover-textbox">
-          Shriver-Housing-2017: <br> Litigants could be assigned to the comparison group only if they presented at legal aid
-          for assistance with their case. Given the high number of unlawful detainer defendants who
-          default without ever seeking help, the comparison litigants in this study may not be
-          representative of typical unrepresented tenants in unlawful detainer cases.
-        </div>
-
-        <p>Assumes rents are priced in a risk-neutral manner, such that for each lease investors break even in
-            terms of discounted expected profits</p>
+        <p>Because of the data match rate, there's a concern that we're dealing with a selected sample</p>
       </div>
     </div>
   </div>
