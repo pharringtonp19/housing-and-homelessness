@@ -10,9 +10,14 @@ nav_order: 5
 <img src="./../assets/images/evictions.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
 
-# **Papers**
+## **Academic Papers**
 
 ### [The Impact of Legal Counsel on Outcomes for Poor Tenants in New York City's Housing Court: Results of a Randomized Experiment (Carroll Seron)](https://www-jstor-org.ezproxy.bu.edu/stable/3185408){: .btn .btn-white }
 
 ### [The Welfare Effects of Eviction and Homelessness Policies (Boaz Abramson)](https://boazabramson.github.io/publications){: .btn .btn-white } 
 
+
+
+## **Policy Papers**
+
+[Half the Battle is Just Showing Up: Non-Answers and Default Judgments in Non-Payment Eviction Cases Across New York States](https://furmancenter.org/research/publication/half-the-battle-is-just-showing-up){: .btn .btn-white }
