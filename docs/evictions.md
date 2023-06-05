@@ -12,6 +12,10 @@ nav_order: 5
 
 ## **Academic Papers**
 
+
+### [Who gets evicted? Assessing individual, neighborhood, and network factors (Matthew Desmond)](https://scholar.harvard.edu/files/mdesmond/files/desmondgershenson.ssr_.2016.pdf){: .btn .btn-white }
+
+
 ### [The Impact of Legal Counsel on Outcomes for Poor Tenants in New York City's Housing Court: Results of a Randomized Experiment (Carroll Seron)](https://www-jstor-org.ezproxy.bu.edu/stable/3185408){: .btn .btn-white }
 
 ### [The Welfare Effects of Eviction and Homelessness Policies (Boaz Abramson)](https://boazabramson.github.io/publications){: .btn .btn-white } 

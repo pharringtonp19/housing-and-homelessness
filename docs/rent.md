@@ -12,6 +12,7 @@ nav_order: 4
 # **Academic Papers**
 
 [The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco (Rebecca Diamond)](https://www.aeaweb.org/articles?id=10.1257/aer.20181289){: .btn .btn-white }
+    - [Research Brief](https://www.cato.org/research-briefs-economic-policy/effects-rent-control-expansion-tenants-landlords-inequality)
 
 [Housing Market Spillovers: Evidence from the End of Rent Control in Cambridge, Massachusetts (David Autor)](https://www.journals.uchicago.edu/doi/abs/10.1086/675536){: .btn .btn-white }
 

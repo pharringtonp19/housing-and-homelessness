@@ -1,3 +1,23 @@
+---
+title: In-Kind Transfers
+layout: page
+permalink: /in-kind-transfers/
+nav_order: 5
+---
+
+<!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->
+
+<!-- <img src="./../assets/images/evictions.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />-->
+
+
+## **Academic Papers**
+
+
+### [Consumption Responses to In-Kind Transfers: Evidence from the Introduction of the Food Stamp Program (Hilary W. Hoynes)](https://www.aeaweb.org/articles?id=10.1257/app.1.4.109){: .btn .btn-white }
+
+### [The Take-Up of Social Benefits (Janet Currie)](https://www.iza.org/publications/dp/1103/the-take-up-of-social-benefits){: .btn .btn-white }
+
+
 <!-- ---
 title: Food 
 layout: page
