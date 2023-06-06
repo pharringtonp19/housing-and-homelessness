@@ -20,6 +20,8 @@ nav_order: 5
 
 ### [The Welfare Effects of Eviction and Homelessness Policies (Boaz Abramson)](https://boazabramson.github.io/publications){: .btn .btn-white } 
 
+### [The Racially Disparate Influence of Filing Fees on Eviction Rates (Henry Gomory)](https://www.tandfonline.com/doi/abs/10.1080/10511482.2023.2212662){: .btn .btn-white } 
+
 
 
 ## **Policy Papers**
