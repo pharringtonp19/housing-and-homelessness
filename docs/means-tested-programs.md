@@ -12,6 +12,7 @@ nav_order: 5
 
 ## **Academic Papers**
 
+### [Low Income Housing Policy (Robert Collinson)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nber.org/system/files/chapters/c13485/c13485.pdf){: .btn .btn-white }
 
 ### [Consumption Responses to In-Kind Transfers: Evidence from the Introduction of the Food Stamp Program (Hilary W. Hoynes)](https://www.aeaweb.org/articles?id=10.1257/app.1.4.109){: .btn .btn-white }
 
