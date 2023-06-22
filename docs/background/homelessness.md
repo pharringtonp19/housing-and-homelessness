@@ -11,6 +11,12 @@ nav_order: 4
 [Toward a New Understanding: The California Statewide Study
 of People Experiencing Homelessness](https://homelessness.ucsf.edu/our-impact/our-studies/california-statewide-study-people-experiencing-homelessness){: .btn .btn-white }
 
+## **HMIS**
+<li><a href="https://files.hudexchange.info/resources/documents/HMIS-Data-Standards-Manual.pdf">HMIS Data Standards</a></li>
+
+<li><a href="https://files.hudexchange.info/resources/documents/HMIS-Data-Dictionary.pdf">HMIS Data Dictionary</a></li>
+
+
 ## **Articles**
 <li><a href="https://www.wsj.com/articles/homeless-numbers-rise-in-u-s-cities-fd59bc7b">Homeless Numbers Rise in U.S. Cities</a></li>
 
