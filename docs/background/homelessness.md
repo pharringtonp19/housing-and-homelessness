@@ -32,6 +32,10 @@ of People Experiencing Homelessness](https://homelessness.ucsf.edu/our-impact/ou
 
 <li><a href="https://www.nytimes.com/2023/06/20/us/california-homelessness-study.html?action=click&algo=bandit-all-surfaces-time-cutoff-30_impression_cut_3_filter_new_arm_5_1&alpha=0.05&block=more_in_recirc&fellback=false&imp_id=812366931&impression_id=0511d473-1040-11ee-a3d6-45cf94ee6bf8&index=4&pgtype=Article&pool=more_in_pools%2Fus&region=footer&req_id=895183939&surface=eos-more-in&variant=0_bandit-all-surfaces-time-cutoff-30_impression_cut_3_filter_new_arm_5_1">A New Study Paints a Different Picture of Homelessness in California</a></li>
 
+<li><a href="https://www.nytimes.com/2023/06/25/nyregion/mentally-ill-homeless-nyc.html">He Was Handcuffed and Hospitalized. Now He’s on Track for Housing</a></li>
+
+
+
 
 
 
