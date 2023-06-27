@@ -52,6 +52,16 @@ nav_order: 2
             <td>[Date]</td>
             <td><a href="https://davidcard.berkeley.edu/papers/njmin-aer.pdf">Card & Kreuger (1992)</a></td>
         </tr>
+        <tr>
+            <td rowspan="2">3</td>
+            <td>[Date]</td>
+            <td rowspan="2" style="text-align: center;"> Zoning</td>
+            <td>[Paper 1], [Paper 2]</td>
+        </tr>
+        <tr>
+            <td>[Date]</td>
+            <td><a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Stacy (2023)</a></td>
+        </tr>
         <!-- Add more rows as needed, replacing the placeholder text with the actual details -->
     </tbody>
 </table>
