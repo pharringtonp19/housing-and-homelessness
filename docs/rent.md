@@ -22,8 +22,23 @@ nav_order: 4
 
 
 
-
 # **Policy Papers**
 
 [Using Emergency Housing Vouchers to Address Homelessness](https://ternercenter.berkeley.edu/research-and-policy/emergency-housing-vouchers-lessons/){: .btn .btn-white }
+
+# **Rent Control**
+<li><a href="https://www.nytimes.com/2023/06/21/nyregion/rent-stabilized-apartment-homes-rise.html
+">Rents for 2 Million New Yorkers to Rise Again This Year</a></li>
+
+
+
+# **Public Housing**
+
+<li><a href="https://www.nytimes.com/interactive/2018/06/25/nyregion/new-york-city-public-housing-history.html
+">The Rise and Fall of New York Public Housing: An Oral History</a></li>
+
+# **Artilces**
+<li><a href="https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent">Rent Going Up? One Company’s Algorithm Could Be Why</a></li> 
+
+<li><a href="https://www.jchs.harvard.edu/blog/low-cost-rentals-have-decreased-every-state"></a>Low-cost Rentals Have Decreased in Every State</li> 
 

@@ -27,3 +27,10 @@ nav_order: 5
 ## **Policy Papers**
 
 [Half the Battle is Just Showing Up: Non-Answers and Default Judgments in Non-Payment Eviction Cases Across New York States](https://furmancenter.org/research/publication/half-the-battle-is-just-showing-up){: .btn .btn-white }
+
+
+[The Impact of the COVID-19 Pandemic on Low-Income Tenants’ Housing Security in Washington State](https://evans.uw.edu/wp-content/uploads/2020/09/Tenants-Union_Research-Report-Formatted-Fowle-Fyall-v7.19.21.pdf){: .btn .btn-white }
+
+## **Articles**
+
+<a href="https://www.nytimes.com/2021/11/07/us/evictions-crisis-us.html?referringSource=articleShare">With Cases Piling Up, an Eviction Crisis Unfolds Step by Step</a>
