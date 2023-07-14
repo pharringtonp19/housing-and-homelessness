@@ -1,7 +1,7 @@
 ---
-title: Zoning 
+title: Supply 
 layout: page
-permalink: /zoning/
+permalink: /supply/
 nav_order: 7
 ---
 
@@ -40,4 +40,8 @@ nav_order: 7
   <button><span class="vox">Vox</span><span class="title">Where are all the apartments for families?
 </span></button>
 </a>
+
+### **Local Control**
+
+### [Warding O  Development: Local Control, Housing Supply, and NIMBYs (Evan Mast)](https://www.dropbox.com/s/5sevtygz6l3gp2n/mast_ward_voting_restat.pdf?dl=0){: .btn .btn-white }
 

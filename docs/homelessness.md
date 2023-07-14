@@ -13,5 +13,9 @@ nav_order: 11
 
 [The impact of permanent supportive housing on homeless populations](https://www.sciencedirect.com/science/article/pii/S1051137715300474){: .btn .btn-white }
 
+### **Prevention**
+
+[Do homelessness prevention programs prevent homelessness? Evidence from a randomized controlled trial](https://sites.google.com/site/davidcphillipseconomics/research){: .btn .btn-white }
+
 
 
