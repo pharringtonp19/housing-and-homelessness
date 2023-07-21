@@ -22,6 +22,8 @@ nav_order: 5
 
 ### [The Racially Disparate Influence of Filing Fees on Eviction Rates (Henry Gomory)](https://www.tandfonline.com/doi/abs/10.1080/10511482.2023.2212662){: .btn .btn-white } 
 
+[A Little Bit of a Security Blanket”:Renter Experiences with COVID-19–Era Eviction Moratoriums](https://www.journals.uchicago.edu/doi/epdf/10.1086/725320){: .btn .btn-white }
+
 
 
 ## **Policy Papers**
@@ -30,6 +32,7 @@ nav_order: 5
 
 
 [The Impact of the COVID-19 Pandemic on Low-Income Tenants’ Housing Security in Washington State](https://evans.uw.edu/wp-content/uploads/2020/09/Tenants-Union_Research-Report-Formatted-Fowle-Fyall-v7.19.21.pdf){: .btn .btn-white }
+
 
 ## **Articles**
 
