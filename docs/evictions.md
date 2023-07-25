@@ -31,6 +31,10 @@ nav_order: 5
 <a href="https://law.stanford.edu/wp-content/uploads/2020/02/Petersen_Final.pdf">Buidling a House for Gideon: The Right to Counsel in Evictions</a>
 </li>
 
+<li>
+<a href="https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=1456&context=faculty_publications">Housing Defense as the New Gideon</a>
+</li>
+
 
 
 
@@ -47,8 +51,14 @@ nav_order: 5
 
 ### **Articles**
 
+<li>
 <a href="https://www.nytimes.com/2021/11/07/us/evictions-crisis-us.html?referringSource=articleShare">With Cases Piling Up, an Eviction Crisis Unfolds Step by Step</a>
-
+</li>
+<li>
 <a href="https://www.nytimes.com/2023/07/13/headway/philadelphia-tenants-eviction.html?unlocked_article_code=TQGKiuiP2RdN13Sv_1QiVyQzF-YB0Oax8Qz9Zp7C2kitO9OCSkYi5RJKDPEvdF8MVUt_dfAG65ScOND15q1JBxyXmeueOni-TJ8ow3rmvnvFWdqjqBo5KWlFcE8-D4cHY7PMAElZhQcsZe2bNuEsfhCOlasSvHsDY9SboYgc1inxJKC_Y5VNiUpLLr_ncudsArg37DOcYcx5-jYQdW5_qoNBvpJTu9qSQEj43O_HOG-JhOJ4yMztowQprg9H1Y8MGio-uhu5tT4w3VEp4FmzLLi-OfzbnUwbVAAVCO1f9XqNEYmvgck4-zDgEdlTno64QKva2UAudKQ828rTwwHHHqqL7-3D4N4&smid=em-share
 ">How Philadelphia Kept Thousands of Tenants From Being Evicted</a>
+</li>
+<li>
+<a href="https://www.nytimes.com/2015/10/19/opinion/how-to-fight-homelessness.html">How to Fight Homelessness</a>
+</li>
 
