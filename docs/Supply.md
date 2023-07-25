@@ -34,14 +34,37 @@ nav_order: 7
 
 <img src="./../assets/images/zoning.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
+### **Supply**
 
-<h1> Articles </h1>
-<a href="https://www.vox.com/policy/2023/4/23/23686130/housing-apartments-family-yimby-nimby-zoning-suburbs" target="_blank">
-  <button><span class="vox">Vox</span><span class="title">Where are all the apartments for families?
-</span></button>
+<li>
+<a href="https://www.nber.org/system/files/working_papers/w20536/w20536.pdf">Regulation and Housing Supply</a>
+</li>
+
+<li>
+<a href="https://www.lewis.ucla.edu/research/market-rate-development-impacts/">Research Roundup: The Effect of Market-Rate Development on Neighborhood Rents</a>
+</li>
+
+<li>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507532">Supply Shock Versus Demand Shock: The Local Effects of New Housing in Low-Income Areas
 </a>
+</li>
 
-### **Local Control**
+<li>
+<a href="https://furmancenter.org/files/Flexibility_and_Conversions_in_New_York_Citys_Housing_Stock.pdf">Flexibility and Conversations in New York City's Housing Stock: Building for an Era of Rapid Change
+</a>
+</li>
 
-### [Warding O  Development: Local Control, Housing Supply, and NIMBYs (Evan Mast)](https://www.dropbox.com/s/5sevtygz6l3gp2n/mast_ward_voting_restat.pdf?dl=0){: .btn .btn-white }
+<li>
+<a href="https://www.dropbox.com/s/5sevtygz6l3gp2n/mast_ward_voting_restat.pdf?dl=0">Warding O  Development: Local Control, Housing Supply, and NIMBYs
+</a>
+</li>
 
+ 
+
+
+
+
+
+
+
+ 
