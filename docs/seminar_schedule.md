@@ -3,55 +3,49 @@ layout: default
 title: Seminar Schedule
 nav_order: 2
 ---
-
 {% raw %}
-<h1>Seminar Schedule: Fall 2023</h1>
 <style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    th, td {
-        padding: 8px;
-        text-align: left;
-        border: 1px solid #ccc;
-    }
-    th {
-        background-color: #f2f2f2;
-        font-weight: bold;
-    }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+  }
 </style>
-<table>
+
+<h1>Reading List</h1>
+<div style="height: 300px; overflow: auto;">
+  <table>
     <thead>
-        <tr>
-            <th>Week</th>
-            <th>Date</th>
-            <th>Topic</th>
-            <th>Academic Papers</th>
-        </tr>
+      <tr>
+        <th style="width: 20%;">Week</th>
+        <th style="width: 20%;">Date</th>
+        <th style="width: 30%;">Topic</th>
+        <th style="width: 30%;">Academic Papers</th>
+      </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="2">1</td>
             <td>Sept 6</td>
             <td rowspan="2" style="text-align: center;">Introduction</td>
-            <td><a href="https://www.nber.org/papers/w26232">Evans 2019</a></td>
+            <td><a href="https://www.newyorker.com/magazine/2006/02/13/million-dollar-murray">Gladwell 2006</a></td>
         </tr>
         <tr>
             <td>Sept 11</td>
-            <td> <a href="https://robcollinson.github.io/RobWebsite/Evictions_CHI_NYC.pdf">Collinson 2022</a></td>
-        </tr>
-
-        <tr>
-            <td rowspan="2">2</td>
-            <td>Sept 13</td>
-            <td rowspan="2" style="text-align: center;">Causal Inference</td>
-            <td><a href="https://drive.google.com/file/d/1WflmJETZAz3P0muWRTwJJQNeUJ99uxab/view">Dobbie et a. (2017)</a>,  <a href="https://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2015/09/incar.pdf">Mueller-Smith (2015)</a></td>
-        </tr>
-        <tr>
-            <td>Sept 18</td>
-            <td><a href="https://davidcard.berkeley.edu/papers/njmin-aer.pdf">Card & Kreuger (1992)</a>,
-            <a href="https://cega.berkeley.edu/assets/cega_research_projects/1/Identifying-Impacts-on-Education-and-Health-in-the-Presence-of-Treatment-Externalities.pdf">Miguel & Kremer (2004)</a>
+            <td>
+            <a href="https://www.nber.org/papers/w26232">Evans (2019)</a>,
+            <a href="https://econ.columbia.edu/working-paper/homelessness-research-a-guide-for-economists-and-friends/">O’Flaherty (2019)</a>
+            
             </td>
         </tr>
         <tr>
@@ -65,7 +59,10 @@ nav_order: 2
         </tr>
         <tr>
             <td>Sept 25</td>
-            <td><a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Stacy (2023)</a></td>
+            <td>
+            <a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Saiz (2010)</a>,
+            <a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Stacy (2023)</a>
+            </td>
         </tr>
         <tr>
             <td rowspan="2">4</td>
@@ -78,21 +75,40 @@ nav_order: 2
         </tr>
         <tr>
             <td>Oct 2</td>
-            <td><a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/Phillips_and_Sullivan_YFHPI.pdf">Phillips (2022)</a></td>
+            <td><a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/Phillips_and_Sullivan_YFHPI.pdf">Phillips (2022)</a>
+            <a href="https://siepr.stanford.edu/publications/working-paper/homeless-programs-and-social-insurance">Popov (2016)</a></td>
         </tr>
+
+        <tr>
+            <td rowspan="2">4</td>
+            <td>Sept 27</td>
+            <td rowspan="2" style="text-align: center;"> Exiting Homelessness</td>
+            <td>
+            <a href="https://www.iza.org/publications/dp/8495/a-journey-home-what-drives-how-long-people-are-homeless">Cobb-Clark (2014)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Oct 2</td>
+            <td>
+            </td>
+        </tr>
+
+   
 
         <tr>
             <td rowspan="2">5</td>
             <td>Oct 4</td>
-            <td rowspan="2" style="text-align: center;"> Rental Market Regulation</td>
+            <td rowspan="2" style="text-align: center;"> Rental Control & Vouchers</td>
             <td>
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265918">Favilukis (2018)</a>,
+            <a href="https://www.aeaweb.org/articles?id=10.1257/000282803769206188">Glaeser (2003)</a>,
             <a href="https://drive.google.com/file/d/1TQb5a6OGW3o951jYGcrV1xZ0nEIFYqST/view">Diamond (2019)</a>
             </td>
         </tr>
         <tr>
             <td>Oct 11</td>
-            <td><a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/section%208%20discrimination.pdf">Phillips (2016)</a></td>
+            <td>
+             <a href="https://www.huduser.gov/publications/pdf/hsgvouchers_1_2011.pdf">Mills (2006)</a>
+             </td>
         </tr>
 
         <tr>
@@ -100,13 +116,31 @@ nav_order: 2
             <td>Oct 16</td>
             <td rowspan="2" style="text-align: center;"> Evictions</td>
             <td>
-            <a href="https://boazabramson.github.io/assets/evictions_abramson.pdf">Abramson (2023)</a>,
-            <a href="https://drive.google.com/file/d/1TQb5a6OGW3o951jYGcrV1xZ0nEIFYqST/view">Diamond (2019)</a>
+            <a href="https://scholar.harvard.edu/files/mdesmond/files/desmondkimbro.evictions.fallout.sf2015_2.pdf">Desmond (2015)</a>,
+            <a href="https://robcollinson.github.io/RobWebsite/Evictions_CHI_NYC.pdf">Collinson 2022</a>
             </td>
         </tr>
         <tr>
             <td>Oct 18</td>
-            <td><a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/section%208%20discrimination.pdf">Phillips (2016)</a></td>
+           <td>
+            <a href="https://boazabramson.github.io/assets/evictions_abramson.pdf">Abramson (2023)</a>,
+            <a href="https://www.kansascityfed.org/research/research-working-papers/equilibrium-evictions/">Corbae (2023)</a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">6</td>
+            <td>Oct 16</td>
+            <td rowspan="2" style="text-align: center;"> Right to Counsel</td>
+            <td>
+            <a href="https://www.nber.org/system/files/working_papers/w29836/w29836.pdf">Cassidy (2022)</a>, 
+            <a href="https://www.jstor.org/stable/23414787">Greiner (2013)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Oct 18</td>
+            <td><a href="https://pharringtonp19.github.io/research/">Power (2023)</a>, 
+            <a href="https://www.nber.org/conferences/si-2023-real-estate">Collinson (2023)</a>
+        </td>
         </tr>
         <tr>
             <td rowspan="2">7</td>
@@ -132,14 +166,14 @@ nav_order: 2
         </tr>
         <tr>
             <td>Nov 1</td>
-            <td><a href="https://www.aeaweb.org/articles?id=10.1257/jep.32.1.59">Metcalf (2018)</a>, 
-            <a href="https://www.aeaweb.org/articles?id=10.1257/jel.20151292">Ioannides (2017)</a></td>
+            <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824966/">Baum-Snow (2009)</a>, 
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265918">Favilukis (2017)</a></td>
             
         </tr>
 
         <tr>
             <td rowspan="2">9</td>
-            <td>Oct 30</td>
+            <td>Nov 6</td>
             <td rowspan="2" style="text-align: center;"> Discrimination</td>
             <td>
             <a href="https://www.dropbox.com/s/8s9zvd39wk7gzjp/kermani_wong_returns.pdf?dl=0">Kermani (2022)</a>,
@@ -147,8 +181,36 @@ nav_order: 2
             </td>
         </tr>
         <tr>
-            <td>Nov 1</td>
+            <td>Nov 8</td>
             <td><a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/section%208%20discrimination.pdf">Phillips (2016)</a></td>
+        </tr>
+
+        <tr>
+            <td rowspan="2">10</td>
+            <td>Nov 13</td>
+            <td rowspan="2" style="text-align: center;"> Data & NLP</td>
+            <td>
+            <a href="https://www.nber.org/papers/w28861">Meyer (2021)</a>,
+            <a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/measuring%20housing%20stability%20with%20consumer%20reference%20data%20-%20Dec19.pdf">Phillips (2019)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Nov 15</td>
+            <td><a href="https://www.nber.org/papers/w30163">Meyer (2022)</a></td>
+        </tr>
+
+        <tr>
+            <td rowspan="2">11</td>
+            <td>Nov 20</td>
+            <td rowspan="2" style="text-align: center;"> Drug Policy</td>
+            <td>
+            <a href="https://www.nber.org/papers/w28861">Meyer (2021)</a>,
+            <a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/measuring%20housing%20stability%20with%20consumer%20reference%20data%20-%20Dec19.pdf">Phillips (2019)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Nov 22</td>
+            <td><a href="https://www.nber.org/papers/w30163">Meyer (2022)</a></td>
         </tr>
 
         <!-- Add more rows as needed, replacing the placeholder text with the actual details -->
@@ -156,6 +218,75 @@ nav_order: 2
 
 
 </table>
+</div>
+<h1>Assignment Dates</h1>
+<div style="height: 300px; overflow: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 20%;">Due Date</th>
+        <th style="width: 20%;">Problem Set Number</th>
+        <th style="width: 60%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Friday, Sept 22</td>
+        <td>Problem Set #1</td>
+        <td>Stata/R</td>
+      </tr>
+      <tr>
+        <td>Friday, Sept 29</td>
+        <td>N/A</td>
+        <td><a href="https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#where-research-meets-practice">Where Research Meets Practice</a></td>
+      </tr>
+      <tr>
+        <td>Friday, Oct 6</td>
+        <td>Problem Set #2</td>
+        <td>Stata/R</td>
+      </tr>
+      <tr>
+        <td>Friday, Oct 13</td>
+        <td>N/A</td>
+        <td><a href="https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#looking-for-insight">Looking for Insight</a></td>
+      </tr>
+      <tr>
+        <td>Friday, Oct 20</td>
+        <td>Problem Set #3</td>
+        <td>Stata/R</td>
+      </tr>
+      <tr>
+        <td>Friday, Oct 27</td>
+        <td>N/A</td>
+        <td><a href="https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#looking-for-insight">Asking for Data</a></td>
+      </tr>
+      <tr>
+        <td>Friday, Nov 3</td>
+        <td>Problem Set #4</td>
+        <td>Stata/R</td>
+      </tr>
+      <tr>
+        <td>Friday, Nov 10</td>
+        <td>N/A</td>
+        <td><a href="https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#referee-report">Referee Report</a></td>
+      </tr>
+      <tr>
+        <td>Friday, Nov 17</td>
+        <td>N/A</td>
+        <td><a href="https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#how-it-was-made">How It Was Made</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 {% endraw %}
 
-
+<!-- ### **Problem Sets**
+- Friday Sept 22: Stata/R Problem Set # 1 Due 
+- Friday Sept 29: [Where Research Meets Practice](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#where-research-meets-practice)
+- Friday Oct  6: Stata/R Problem Set # 2 Due 
+- Friday Oct 13: [Looking for Insight](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#looking-for-insight)
+- Friday Oct  20: Stata/R Problem Set # 3 Due 
+- Friday Oct 27: [Asking for Data](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#looking-for-insight)
+- Friday Nov  3: Stata/R Problem Set # 4 Due
+- Friday Nov 10: [Referee Report](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#referee-report)
+- Friday Nov 17: [How It Was Made](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#how-it-was-made) -->
