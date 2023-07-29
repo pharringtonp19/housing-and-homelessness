@@ -32,6 +32,13 @@ nav_order: 9
   }
 </style>
 
+### **Foreclosures
+
+<li>
+<a href="https://ideas.repec.org/p/nbr/nberwo/26216.html">How Do Foreclosures Exacerbate Housing Downturns? </a>
+</li>
+
+
 <h1> Articles </h1>
 <a href="https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3?mod=hp_lead_pos7" target="_blank">
   <button><span class="wsj">Wall Street Journal</span><span class="title"> A Housing Bust Comes for Thousands of Small-Time Investors</span></button>

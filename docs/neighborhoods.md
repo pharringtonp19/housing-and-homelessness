@@ -9,20 +9,26 @@ nav_order: 4
 
 <img src="./../assets/images/neighborhoods.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
+<li>
+<a href="https://academic.oup.com/qje/article/133/3/1107/4850660">The Effects of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects</a>
+</li>
 
-# **Papers**
+<li>
+<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572">The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment</a>
+</li>
 
-[The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment (Raj Chetty)](https://www.aeaweb.org/articles?id=10.1257/aer.20150572){: .btn .btn-white }
-- An import clarification that this paper makes is about the interpretation of treatment effect heterogeneity in an instrumental variable specification. With this setup, you cannot be sure whether the differential effect is due to the difference in the observed covariate or an unobserved difference of who is a complier. (page 4)
+<li>
+<a href="https://robcollinson.github.io/RobWebsite/CCS_Gautreaux.pdf">The Long-Run Effects of Residential Racial Desegregation Programs: Evidence from Gautreaux</a>
+</li>
+
+<li>
+<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20161352">Moved to Opportunity: The Long-Run Effects of Public Housing Demolitions on
+Children</a>
+</li>
 
 
-<!-- ### [The Welfare Effects of Eviction and Homelessness Policies](https://boazabramson.github.io/publications) (Boaz Abramson) -->
 
-<!-- 
-# **Books**
 
-### [Evicted](https://evictedbook.com/) (Mathew Desmond)
- -->
 
 
 
