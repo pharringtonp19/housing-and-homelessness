@@ -38,7 +38,9 @@ nav_order: 2
             <td rowspan="2">1</td>
             <td>Sept 6</td>
             <td rowspan="2" style="text-align: center;">Introduction</td>
-            <td><a href="https://www.newyorker.com/magazine/2006/02/13/million-dollar-murray">Gladwell 2006</a></td>
+            <td><a href="http://www.stat.columbia.edu/~gelman/research/unpublished/reversecausal_13oct05.pdf">Gladwell (2006)</a>, 
+            <a href="https://www.newyorker.com/magazine/2006/02/13/million-dollar-murray">Gelman (2013)</a>
+            </td>
         </tr>
         <tr>
             <td>Sept 11</td>
@@ -53,6 +55,7 @@ nav_order: 2
             <td>Sept 20</td>
             <td rowspan="2" style="text-align: center;"> Zoning</td>
             <td>
+            < a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.1.59"> Metcalfe 2018 </a>,
             <a href="https://static1.squarespace.com/static/6160e89a75cba2217fc14866/t/61a3f4ea1898562e22cf38d8/1638135020614/Jaehee_Song_JMP_share.pdf">Song (2021)</a>,
             <a href="https://www.nber.org/papers/w29440">Anagol (2021)</a>
             </td>

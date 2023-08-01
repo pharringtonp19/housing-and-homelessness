@@ -18,6 +18,11 @@ nav_order: 13
 <a href="https://furmancenter.org/files/publications/The_Role_of_421-a_Final.pdf">The Role of 421-a during a Decade of Market Rate and Affordable Housing Development</a>
 </li>
 
+<li>
+<a href="https://youtu.be/JkC4BACJ0hE">Connecticut Round Table</a>
+</li>
+
+
 
  
 
