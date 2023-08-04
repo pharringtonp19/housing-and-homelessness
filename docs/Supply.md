@@ -34,7 +34,22 @@ nav_order: 7
 
 <img src="./../assets/images/zoning.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
-### **Supply**
+## **Financial Risk**
+
+<ul>
+<li> <a href="https://sites.bu.edu/kleinstein/files/2017/09/EinsteinPalmerGlick_ZoningPartic.pdf">Homeownership 2.0 - Fennell (2007)</a>
+</li>
+</li>
+<li> <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://depot.som.yale.edu/icf/papers/fileuploads/2362/original/03-12.pdf"> Home Equity Insurance: A Pilot Project" - Caplin et al. (2003)</a></li>
+</ul>
+
+## **The Political Process**
+<ul>
+<li> <a href="https://sites.bu.edu/kleinstein/files/2017/09/EinsteinPalmerGlick_ZoningPartic.pdf">Who Participates in Local Government? Evidence from Meeting Minutes - Einstein et al. (2017)</a>
+
+</ul>
+
+
 
 <li>
 <a href="https://www.nber.org/system/files/working_papers/w20536/w20536.pdf">Regulation and Housing Supply</a>
@@ -58,6 +73,11 @@ nav_order: 7
 <a href="https://www.dropbox.com/s/5sevtygz6l3gp2n/mast_ward_voting_restat.pdf?dl=0">Warding O  Development: Local Control, Housing Supply, and NIMBYs
 </a>
 </li>
+
+## **Articles**
+<ul>
+<li> <a href="https://www.nytimes.com/2002/10/04/us/texas-home-insurance-crisis-roils-residents-and-top-race.html"> Texas Home Insurance Crisis Roils Residents and Top Race </a> </li>
+</ul>
 
  
 

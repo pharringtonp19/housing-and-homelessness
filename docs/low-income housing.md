@@ -23,6 +23,11 @@ nav_order: 13
 </li>
 
 
+### **Articles**
+<ul>
+<li> <a href="https://www.wsj.com/articles/striking-l-a-workers-want-hotels-to-help-build-affordable-housing-442181d6">Striking L.A. Workers Want Hotels to Help Build Affordable Housing </a> </li>
+</ul>
+
 
  
 

@@ -17,6 +17,11 @@ reinforcement learning from human feedback  (Bai et al.)</a> </li>
 Reinforcement Learning from Human Feedback (Casper et al.) </a> </li>
 </ul>
 
+### **Machine Unlearning**
+<ul>
+<li> <a href="https://github.com/jjbrophy47/machine_unlearning#2023"> Machine Unlearning </a> </li>
+</ul>
+
 # **Econometrics**
 
 ### **Difference-in-Difference**
