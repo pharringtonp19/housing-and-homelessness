@@ -216,6 +216,20 @@ nav_order: 2
             <td><a href="https://www.nber.org/papers/w30163">Meyer (2022)</a></td>
         </tr>
 
+       <tr>
+            <td rowspan="2">12</td>
+            <td>Nov 20</td>
+            <td rowspan="2" style="text-align: center;"> Drug Policy</td>
+            <td>
+            <a href="https://www.urban.org/policy-centers/metropolitan-housing-and-communities-policy-center/projects/denver-supportive-housing-social-impact-bond-initiative">The Urban Institute (2020)</a>,
+            <a href="https://www.urban.org/sites/default/files/publication/25716/412632-Supportive-Housing-for-Returning-Prisoners-Outcomes-and-Impacts-of-the-Returning-Home-Ohio-Pilot-Project.PDF">The Urban Institute (2012)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Nov 22</td>
+            <td><a href="https://www.nber.org/papers/w30163">Meyer (2022)</a></td>
+        </tr>
+
         <!-- Add more rows as needed, replacing the placeholder text with the actual details -->
     </tbody>
 

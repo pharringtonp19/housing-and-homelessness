@@ -1,27 +1,29 @@
 ---
 title: Homelessness
 layout: page
-permalink: /hehavioral/
+permalink: /homelessness/
 nav_order: 11
 ---
 
-### **Overview**
+## **Overview**
+<ul>
+  <li><a href="https://www.nber.org/papers/w26232">Reducing and Preventing Homelessness: A Review of the Evidence and Charting a Research Agenda</a></li>
+</ul>
 
-[Reducing and Preventing Homelessness: A Review of the Evidence and Charting a Research Agenda](https://www.nber.org/papers/w26232){: .btn .btn-white }
+## **Permanent Supportive Housing**
+<ul>
+  <li><a href="https://leo.nd.edu/assets/393331/hud_vash_and_veterans_homelessness_journal_article.pdf">Housing and Urban Development–Veterans Affairs Supportive Housing Vouchers and Veterans’ Homelessness,2007–2017</a></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S1051137715300474">The impact of permanent supportive housing on homeless populations</a></li>
+</ul>
 
-### **Permanent Supportive Housing**
+## **Prevention**
+<ul>
+  <li><a href="https://sites.google.com/site/davidcphillipseconomics/research">Do homelessness prevention programs prevent homelessness? Evidence from a randomized controlled trial</a></li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aag0833">The impact of homelessness prevention programs on homelessness</a></li>
+  <li><a href="https://www.abtassociates.com/insights/publications/report/evaluation-of-the-homebase-community-prevention-program-final-report">Evaluation of the Homebase Community Prevention Program: Final Report</a></li>
+</ul>
 
-[Housing and Urban Development–Veterans Affairs Supportive Housing Vouchers and Veterans’ Homelessness,2007–2017](https://leo.nd.edu/assets/393331/hud_vash_and_veterans_homelessness_journal_article.pdf){: .btn .btn-white }
-
-[The impact of permanent supportive housing on homeless populations](https://www.sciencedirect.com/science/article/pii/S1051137715300474){: .btn .btn-white }
-
-### **Prevention**
-
-[Do homelessness prevention programs prevent homelessness? Evidence from a randomized controlled trial](https://sites.google.com/site/davidcphillipseconomics/research){: .btn .btn-white }
-
-[The impact of homelessness prevention programs on homelessness](https://www.science.org/doi/10.1126/science.aag0833){: .btn .btn-white }
-
-[Evaluation of the Homebase Community Prevention Program: Final Report](https://www.abtassociates.com/insights/publications/report/evaluation-of-the-homebase-community-prevention-program-final-report){: .btn .btn-white }
-
-
-
+## **Articles**
+<ul>
+<li> <a href="https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97?mod=opinion_lead_pos3">Why San Francisco Is a Homeless Mecca </a> </li>
+</ul>
