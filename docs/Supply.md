@@ -29,9 +29,10 @@ nav_order: 7
 <li> <a href="https://www.theatlantic.com/ideas/archive/2023/08/rural-montana-housing-crisis-supply/674950/">The Anti-California: How Montana performed a housing miracle - Lowrey (2023)</a> </li>
 </ul>
 
-## **Articles**
+
+## **Private Equity**
 <ul>
-<li> <a href="https://www.nytimes.com/2002/10/04/us/texas-home-insurance-crisis-roils-residents-and-top-race.html"> Texas Home Insurance Crisis Roils Residents and Top Race </a> </li>
+<li> <a href="https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html"> A $60 Billion Housing Grab by Wall Street - Mari (2020)</a> </li>
 </ul>
 
  

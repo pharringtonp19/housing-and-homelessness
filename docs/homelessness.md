@@ -14,6 +14,8 @@ nav_order: 11
 <ul>
   <li><a href="https://leo.nd.edu/assets/393331/hud_vash_and_veterans_homelessness_journal_article.pdf">Housing and Urban Development–Veterans Affairs Supportive Housing Vouchers and Veterans’ Homelessness,2007–2017</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/pii/S1051137715300474">The impact of permanent supportive housing on homeless populations</a></li>
+  <li> <a href="https://www.npr.org/2015/12/10/459100751/utah-reduced-chronic-homelessness-by-91-percent-heres-how"> Utah Reduced Chronic Homelessness By 91 Percent; Here's How
+ - McEvers (2015)</a> </li>
 </ul>
 
 ## **Prevention**
