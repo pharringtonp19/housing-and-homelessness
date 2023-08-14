@@ -55,14 +55,15 @@ nav_order: 2
             <td>Sept 20</td>
             <td rowspan="2" style="text-align: center;"> Zoning</td>
             <td>
-            <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.1.59"> Metcalfe 2018 </a>,
-            <a href="https://static1.squarespace.com/static/6160e89a75cba2217fc14866/t/61a3f4ea1898562e22cf38d8/1638135020614/Jaehee_Song_JMP_share.pdf">Song (2021)</a>,
-            <a href="https://www.nber.org/papers/w29440">Anagol (2021)</a>
+            <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.1.59"> Metcalfe (2018) </a>,
+            Krimmel and Wang (2023),
+            <a href="https://papers.hsilingliao.com/Upzoning_Liao_JMP.pdf"> Liao (2023) </a>
             </td>
         </tr>
         <tr>
             <td>Sept 25</td>
             <td>
+            <a href="https://www.nber.org/system/files/working_papers/w28351/w28351.pdf">Shertzer et al. (2021) </a>
             <a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Saiz (2010)</a>,
             <a href="https://www.urban.org/research/publication/land-use-reforms-and-housing-costs">Stacy (2023)</a>
             </td>
@@ -179,6 +180,7 @@ nav_order: 2
             <td>Nov 6</td>
             <td rowspan="2" style="text-align: center;"> Discrimination</td>
             <td>
+            <a href="https://direct-mit-edu.ezproxy.bu.edu/rest/article/doi/10.1162/rest_a_01276/113772/Racial-Segregation-in-Housing-Markets-and-the"> Akbar et al. (2022) </a>
             <a href="https://www.dropbox.com/s/8s9zvd39wk7gzjp/kermani_wong_returns.pdf?dl=0">Kermani (2022)</a>,
             <a href="https://higginsbrian.github.io/research/Higgins_JMP_RacialSegmentation.pdf">Higgins (2023)</a>
             </td>
