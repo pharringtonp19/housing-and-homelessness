@@ -21,6 +21,8 @@ nav_order: 5
 ### [Can Landlords Be Paid to Stop Avoiding Voucher Tenants? (Dionissi Aliprantis)](https://www.clevelandfed.org/en/publications/working-paper/2019/wp-1902-can-landlords-be-paid-to-stop-avoiding-voucher-tenants){: .btn .btn-white }
 
 
+[Using Emergency Housing Vouchers to Address Homelessness](https://ternercenter.berkeley.edu/research-and-policy/emergency-housing-vouchers-lessons/){: .btn .btn-white }
+
 <!-- ---
 title: Food 
 layout: page
