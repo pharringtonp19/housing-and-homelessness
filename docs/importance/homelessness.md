@@ -3,7 +3,7 @@ title: Homelessness
 layout: page
 permalink: /importance/homelessness/
 parent: Importance
-nav_order: 1
+nav_order: 2
 ---
 
 ## **Policy Papers**
