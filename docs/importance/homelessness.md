@@ -6,6 +6,11 @@ parent: Importance
 nav_order: 2
 ---
 
+## **Differences Across Cities**
+<ul>
+<li> <a href="https://www.latimes.com/homeless-housing/story/2023-08-14/homelessness-los-angeles-vs-detroit?utm_id=108278&sfmc_id=4959603&skey_id=070feea221b3a0c42a2dc01e8f50459ead7677f19f81ab7ef9017ded4125fd15"> Why Detroit, America’s poorest city, doesn’t have an L.A.-sized homeless problem - Bierman and Orr (2023)</a></li>
+</ul>
+
 ## **Policy Papers**
 
 [Toward a New Understanding: The California Statewide Study

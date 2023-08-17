@@ -1,9 +1,9 @@
 ---
 title: Discrimination
 layout: page
-permalink: /discrimination/evictions/
-parent: Insecurity
-nav_order: 3
+permalink: /challenges/discrimination/
+parent: Challenges
+nav_order: 1
 ---
 
 # **Discrimination**
