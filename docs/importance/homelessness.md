@@ -21,6 +21,12 @@ of People Experiencing Homelessness](https://homelessness.ucsf.edu/our-impact/ou
 
 <li><a href="https://files.hudexchange.info/resources/documents/HMIS-Data-Dictionary.pdf">HMIS Data Dictionary</a></li>
 
+## **Accessing Housing**
+<ul>
+<li> <a href="https://www.latimes.com/california/story/2023-08-16/los-angeles-mayor-karen-bass-scores-a-us-policy-shift-to-expedite-homeless-housing" >Los Angeles Mayor Karen Bass scores a U.S. policy shift to expedite homeless housing - Smith (2023) </a> </li>
+<li> <a href="https://www.latimes.com/california/story/2020-07-24/the-apartment-was-vacated-in-february-after-a-four-month-wait-the-homeless-man-finally-moved-in"> The apartment was ready in February. Four months later, the homeless man moved in - Smith (2020)</a></li>
+</ul>
+
 
 ## **Articles**
 <li><a href="https://www.wsj.com/articles/homeless-numbers-rise-in-u-s-cities-fd59bc7b">Homeless Numbers Rise in U.S. Cities</a></li>
