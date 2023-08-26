@@ -1,8 +1,4 @@
----
-layout: default
-title: Seminar Schedule
-nav_order: 2
----
+<!-- 
 {% raw %}
 <style>
   table {
@@ -308,4 +304,4 @@ nav_order: 2
 - Friday Oct 27: [Asking for Data](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#looking-for-insight)
 - Friday Nov  3: Stata/R Problem Set # 4 Due
 - Friday Nov 10: [Referee Report](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#referee-report)
-- Friday Nov 17: [How It Was Made](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#how-it-was-made) -->
+- Friday Nov 17: [How It Was Made](https://pharringtonp19.github.io/housing-and-homelessness/assignments.html#how-it-was-made) --> -->

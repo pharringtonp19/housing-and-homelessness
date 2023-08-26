@@ -1,8 +1,4 @@
----
-layout: default
-title: Written Assignments
-nav_order: 3
----
+
 
 ## **Two Referee Reports (10%)**
 Write a referee report on a paper of your choosing. **Note**: this should be an opportunity for you to start to figure out which aspect of this course primarily interests you! 

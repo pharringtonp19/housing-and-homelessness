@@ -8,6 +8,8 @@ nav_order: 2
 
 # **Econometrics**
 
+<li> <a href="https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf"> Literature on Recent Advances in Applied Micro Methods - Cali (2023)</a></li>
+
 ##  **Difference-in-Difference**
 <ul>
 <li> <a href="https://arxiv.org/pdf/2201.01194.pdf">What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature (Roth et al.)</a></li>
