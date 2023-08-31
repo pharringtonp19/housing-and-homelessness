@@ -3,7 +3,7 @@ title: Evictions
 layout: page
 permalink: /insecurity/evictions/
 parent: Insecurity
-nav_order: 1
+nav_order: 2
 ---
 
 <!-- ![Alt text](/imgs/rent.png "The Rent is too High") -->

@@ -3,7 +3,7 @@ title: Homelessness
 layout: page
 permalink: /insecurity/homelessness/
 parent: Insecurity
-nav_order: 3
+nav_order: 4
 ---
 
 <img src="./../../assets/images/homeless_encampment.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
