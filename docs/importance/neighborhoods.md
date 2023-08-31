@@ -10,6 +10,8 @@ nav_order: 3
 
 <img src="./../../assets/images/neighborhoods.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
+<iframe src="https://slides.com/pharringtonp19/housing-homelessness-lecture-three/embed" width="576" height="420" title="Copy of Housing & Homelessness Lecture Three" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <li>
 <a href="https://academic.oup.com/qje/article/133/3/1107/4850660">The Effects of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects</a>
 </li>
