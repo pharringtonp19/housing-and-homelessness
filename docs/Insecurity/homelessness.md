@@ -27,6 +27,7 @@ nav_order: 3
   <li><a href="https://sites.google.com/site/davidcphillipseconomics/research">Do homelessness prevention programs prevent homelessness? Evidence from a randomized controlled trial - Phillips and Sullivan (2023)</a></li>
   <li><a href="https://www.science.org/doi/10.1126/science.aag0833">The impact of homelessness prevention programs on homelessness - Evans et al. (2016)</a></li>
   <li><a href="https://www.abtassociates.com/insights/publications/report/evaluation-of-the-homebase-community-prevention-program-final-report">Evaluation of the Homebase Community Prevention Program: Final Report</a></li>
+  <li> <a href="https://www.pnas.org/doi/10.1073/pnas.2222103120"> Unconditional cash transfers reduce homelessness - Dwyer et al. </a> </li>
 </ul>
 
 ## **Articles**
