@@ -10,6 +10,8 @@ nav_order: 3
 
 <img src="./../../assets/images/neighborhoods.png" alt="Alt text" style="width: 100%; max-width: 100%; height: auto;" />
 
+# **Neighborhoods**
+
 <iframe src="https://slides.com/pharringtonp19/housing-homelessness-lecture-three/embed" width="576" height="420" title="Copy of Housing & Homelessness Lecture Three" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <li>
