@@ -21,6 +21,9 @@ nav_order: 2
 
 
 ## **Right to Counsel**
+
+<iframe src="https://slides.com/pharringtonp19/housing-homelessness-lecture-four-y/embed" width="576" height="420" title="Housing & Homelessness Lecture `Y`" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <ul>
 <li> <a href="https://hrlr.law.columbia.edu/hrlr-online/the-right-to-counsel-in-eviction-proceedings-a-fundamental-rights-approach/">The Right to Counsel in Eviction Proceedings: a Fundamental Rights Approach</a> </li>
 <li> <a href="https://law.stanford.edu/wp-content/uploads/2020/02/Petersen_Final.pdf">Buidling a House for Gideon: The Right to Counsel in Evictions</a> </li>
@@ -30,4 +33,6 @@ nav_order: 2
 <li> <a href="https://boazabramson.github.io/publications"> The Welfare Effects of Eviction and Homelessness Policies - Abramson (2022) </a></li>
 <li> <a href="https://robcollinson.github.io/RobWebsite/Evictions_CHI_NYC.pdf">  Eviction and Poverty in American Cities - Collinson et al. (2022) </a></li>
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0047272723000269"> The effects of legal representation on tenant outcomes in housing court: Evidence from New York City’s Universal Access program</a> </li>
+<li> <a href="https://ir.lawnet.fordham.edu/ulj/vol31/iss6/6/"> Housing Gideon: The Right to Counsel In Eviction Cases - Rachel Kleinman (2004)</a> </li>
+<li> <a href="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?article=1910&context=fac_articles_chapters"> Gideon's Shelter: The Need to Reorganize a Right to Counsel for Gideon's Shelter: The Need to Reorganize a Right to Counsel for Indigent Defendants in Eviction Proceedings Indigent Defendants in Eviction Proceedings - Andrew Scherer  (1988)</a> </li>
 </ul>

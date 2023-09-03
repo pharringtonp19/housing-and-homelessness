@@ -29,6 +29,7 @@ nav_order: 4
   <li><a href="https://www.science.org/doi/10.1126/science.aag0833">The impact of homelessness prevention programs on homelessness - Evans et al. (2016)</a></li>
   <li><a href="https://www.abtassociates.com/insights/publications/report/evaluation-of-the-homebase-community-prevention-program-final-report">Evaluation of the Homebase Community Prevention Program: Final Report</a></li>
   <li> <a href="https://www.pnas.org/doi/10.1073/pnas.2222103120"> Unconditional cash transfers reduce homelessness - Dwyer et al. </a> </li>
+  <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3943462/pdf/nihms551450.pdf"> How Effective Homelessness Prevention Impacts the Length of Shelter Spells - Goodman et al. (2014) </a> </li>
 </ul>
 
 ## **Articles**
