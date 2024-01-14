@@ -17,6 +17,7 @@ nav_order: 2
 <li><a href="https://www.tandfonline.com/doi/abs/10.1080/10511482.2023.2212662">The Racially Disparate Influence of Filing Fees on Eviction Rates </a> </li>
 <li> <a href="https://furmancenter.org/research/publication/half-the-battle-is-just-showing-up">Half the Battle is Just Showing Up: Non-Answers and Default Judgments in Non-Payment Eviction Cases Across New York States</a> </li>
 <li> <a href="https://homelesslaw.org/wp-content/uploads/2018/10/ProtectTenants2018.pdf"> Protect Tenants, Prevent Homelessness - National Law Center on Homelessness & Poverty (2018)</a></li>
+<li> <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2305860120"> A Comprehensive Demographic Profile of the US Evicted Population - Graetz et al. (2023)</a></li>
 </ul>
 
 

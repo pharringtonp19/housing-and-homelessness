@@ -24,4 +24,6 @@ nav_order: 1
 <li> <a href="https://ideas.repec.org/a/sae/urbstu/v41y2004i2p317-340.html"> An Economic History of Zoning and a Cure for its Exclusionary Effects - Fischel (2004) </a> </li>
 
 <li> <a href="https://scholar.harvard.edu/files/glaeser/files/the_causes_and_consequences_of_land_use_regulation_evidence_from_greater_boston_2009.pdf">The Causes and Consequences of Land Use Regulation: Evidence From Greater Boston - Glaeser and Ward (2008)  </a></li>
+<li> <a href="https://papers.tinbergen.nl/21022.pdf"> The option value of vacant land: Don't build when demand for housing is booming - Lange and Teulings (2021) </a></li>
+<li> <a href="https://jacobin.com/2023/09/yimby-housing-supply-land-monopoly-rent-prices/"> The Problem With YIMBY Economics - Seth Ackerman (2023) </a></li>
 </ul>

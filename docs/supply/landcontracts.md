@@ -1,0 +1,1 @@
+https://www.bridgemi.com/urban-affairs/how-cash-crappy-home-step-one-find-sucker-sign-land-contract
