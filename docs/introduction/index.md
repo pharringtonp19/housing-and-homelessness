@@ -1,7 +1,7 @@
 ---
-title: Importance
+title: Introduction
 layout: default
-permalink: /importance/
+permalink: /introduction/
 nav_order: 4
 ---
 
@@ -46,6 +46,19 @@ We focus on two recent literature reviews on the Economics of Homelessness. Read
     </a>
   </div>
 
+</div>
+
+### **Class # 3**
+After an introduction to the Economics of Homelessness, we exapnd our focus to consider federal housing policy more broadly. Glaeser and Gyourko (2008) provide a pointed discussion about the fundamental issues concerning housing policy. It emphasises a certain way to define affordable housing, argues for supply-side interventions for middle income housing and cash/vouchers for low-income housing. Given its broad coverage and confident language, it's a fruitful starting point for conversation. 
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: 50%; margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Rethinking Federal Housing Policy</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf" style="display: block;">
+    <img src="./../assets/images/rethinking.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
 </div>
 
 
