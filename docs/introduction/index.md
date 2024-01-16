@@ -53,11 +53,25 @@ After an introduction to the Economics of Homelessness, we exapnd our focus to c
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: 50%; margin: 0 auto;">
   <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Rethinking Federal Housing Policy</div>
+  <div style="font-weight: bold;">Glaeser and Gyourko (2008)</div>
   
   <!-- PNG Image -->
   <a href="https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf" style="display: block;">
     <img src="./../assets/images/rethinking.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+### **Class # 4**
+We wrap up our section on introductory classes with Collinson et al. (2015) who provides an overview of low-income housing policy in the United States upto 2015. The paper covers a number of federal housing programs (e.g. Public Housing, Housing Choice Vouchers, Low-Income Housing Tax Credit), introduces the basic trade-offs of in-kind housing support, and highlights open questions in the literature.
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: 50%; margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Collinson et al. (2015)
+</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.nber.org/system/files/working_papers/w21071/w21071.pdf" style="display: block;">
+    <img src="./../assets/images/lip.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
 
