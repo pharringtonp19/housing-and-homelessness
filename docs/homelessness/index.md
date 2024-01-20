@@ -5,7 +5,7 @@ permalink: /homelessness/
 nav_order: 8
 ---
 
-### **Class # 1**
+### **Permanent Supportive Housing**
 We focus on work concerning Housing First. Using survival analysis techniques, Tsemeberis and Eisenberg (2000) illustrate that a Housing First approach improves housing stability relative to a linear contiuum of care.[^1] Tsemberis et al. (2004) is a helpful read in that it highlights some of the challenges of conducting empirical work in this setting - the need to oversample the control group in the design of the randomized control trial because they are expected to be more likely to remain homeless and therefore more difficult to track - interpreting reported alcohol and drug use. 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; border: 2px solid black; padding: 10px;">
@@ -36,5 +36,29 @@ We focus on work concerning Housing First. Using survival analysis techniques, T
 
 </div>
 
+### **Supportive Services**
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Phillips and Sullivan (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://sites.google.com/site/davidcphillipseconomics/research" style="display: block;">
+    <img src="./../assets/images/phillips_personal.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
+### **Prevention Strategies**
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Burt et al. (2006)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://sites.google.com/site/davidcphillipseconomics/research" style="display: block;">
+    <img src="./../assets/images/strategies.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 [^1]: A key question for this paper is how much work went into ensuring that clients in a Housing First program were able to maintain housing. The authors note that "The program will also use any means possible to reduce the risk of eviction that often results from drug use." We're tenants being relocated to different units if they were evicted? To really understand the effectiveness of the Housing First approach, it's important to understand how the resources were deployed.

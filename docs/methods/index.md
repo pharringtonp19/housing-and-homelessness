@@ -22,9 +22,9 @@ Bengio et al. (2003) highlight the challenge of learning probability distributio
 
   <!-- Second PDF and its title -->
   <div style="width: calc(33.33% - 1%); border-right: 2px solid gray;">
-    <div style="text-align: center; font-weight: bold;">TBD</div>
-    <a href="https://www.jstor.org/stable/40239446" style="display: block;">
-      <img src="./../assets/images/tsem2.png" alt="Alt text" style="width: 100%; height: auto;" />
+    <div style="text-align: center; font-weight: bold;">Sanseviero (2024)</div>
+    <a href="https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/" style="display: block;">
+      <img src="./../assets/images/hackerllama.png" alt="Alt text" style="width: 100%; height: auto;" />
     </a>
   </div>
 
