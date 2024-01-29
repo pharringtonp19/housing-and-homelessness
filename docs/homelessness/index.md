@@ -56,7 +56,7 @@ We focus on work concerning Housing First. Using survival analysis techniques, T
   <div style="font-weight: bold;">Burt et al. (2006)</div>
   
   <!-- PNG Image -->
-  <a href="https://sites.google.com/site/davidcphillipseconomics/research" style="display: block;">
+  <a href="https://www.huduser.gov/publications/pdf/strategies_for_preventing_homelessness.pdf" style="display: block;">
     <img src="./../assets/images/strategies.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
