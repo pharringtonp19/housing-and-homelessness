@@ -18,8 +18,9 @@ In this class we focus on the relationship between low-income housing and the re
   </a>
 </div>
 
-### **Class # 6**
-In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work. 
+### **Class # 6** 
+
+In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -30,6 +31,8 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
     <img src="./../assets/images/diamond.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+
 
 
 
