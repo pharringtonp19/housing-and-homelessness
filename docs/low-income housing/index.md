@@ -13,7 +13,7 @@ In this class we focus on the relationship between low-income housing and the re
   <div style="font-weight: bold;">Mast (2021)</div>
   
   <!-- PNG Image -->
-  <a href="https://www.huduser.gov/publications/pdf/strategies_for_preventing_homelessness.pdf" style="display: block;">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094119021000656" style="display: block;">
     <img src="./../assets/images/mast_migration_chains_jue.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
