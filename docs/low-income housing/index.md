@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 ### **Class # 5**
-In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. 
+In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
