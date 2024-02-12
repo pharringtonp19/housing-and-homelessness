@@ -62,7 +62,7 @@ After an introduction to the Economics of Homelessness, we exapnd our focus to c
 </div>
 
 ### **Class # 4**
-We wrap up our section on introductory classes with Collinson et al. (2015) who provides an overview of low-income housing policy in the United States upto 2015. The paper covers a number of federal housing programs (e.g. Public Housing, Housing Choice Vouchers, Low-Income Housing Tax Credit), introduces the basic trade-offs of in-kind housing support, and highlights open questions in the literature. Importantly, it also touches on the idea that non-experimental studies in this area tend to find more sweeping effects than experimental studies. 
+We wrap up our section on introductory classes with Collinson et al. (2015) who provides an overview of low-income housing policy in the United States upto 2015. The paper covers a number of federal housing programs (e.g. Public Housing, Housing Choice Vouchers, Low-Income Housing Tax Credit), introduces the basic trade-offs of in-kind housing support, and highlights open questions in the literature. Importantly, it also touches on the idea that non-experimental studies in this area tend to find more sweeping effects than experimental studies. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2015/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: 50%; margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -76,6 +76,10 @@ We wrap up our section on introductory classes with Collinson et al. (2015) who 
 </div>
 
  <div style="width: calc(33.33% - 1%);">
+
+    <h4>Articles:</h4>
+   <a href="https://www.nytimes.com/2018/07/27/us/politics/hud-affordable-housing-crisis.html">Ben Carson</a>, 
+<a href="https://www.wsj.com/articles/a-plan-to-get-americans-back-to-work-urban-development-family-housing-workforce-wages-income-11655653948">Rick Scott</a> 
 
 
 

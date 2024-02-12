@@ -32,6 +32,30 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
   </a>
 </div>
 
+Articles:  
+[Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article)
+
+
+### **Class # 7** 
+
+In this class we examine the impact of providing tenants in public housing with the opportunity to move to low-income neighborhoods. Focused on Chetty 2016, we examine the relative impacts of younger and older children across a range of outcome (employment, eduction, marriage, and neighborhood). [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-ebd393/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Chetty et al. (2016)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
+    <img src="./../assets/images/chetty2016.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+Articles 
+[Baltimore MTO 1995](https://www.nytimes.com/1995/03/28/us/housing-voucher-test-in-maryland-is-scuttled-by-a-political-firestorm.html)
+
+### **Class # 8** 
+Articles:  
+[5 Year Time Limits](https://www.wsj.com/articles/SB10001424127887323820304578410382522144560), [Time Limits](https://www.wsj.com/articles/time-limits-for-public-housing-get-boost-1437522257)
 
 
 
