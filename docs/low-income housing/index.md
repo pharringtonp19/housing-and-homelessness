@@ -55,7 +55,12 @@ Articles
 
 ### **Class # 8** 
 Articles:  
-[5 Year Time Limits](https://www.wsj.com/articles/SB10001424127887323820304578410382522144560), [Time Limits](https://www.wsj.com/articles/time-limits-for-public-housing-get-boost-1437522257)
+[5 Year Time Limits](https://www.wsj.com/articles/SB10001424127887323820304578410382522144560), [Time Limits](https://www.wsj.com/articles/time-limits-for-public-housing-get-boost-1437522257), [New Public Housing](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
+
+
+
+### **Class # 9**
+[A County in Maryland Came up With a New Way of Building Affordable Homes](https://podcasts.apple.com/us/podcast/a-county-in-maryland-came-up-with-a-new/id1056200096?i=1000638915229)
 
 
 
