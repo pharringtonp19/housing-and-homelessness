@@ -49,6 +49,7 @@ We focus on work concerning Housing First. Using survival analysis techniques, T
   </div>
 
 </div>
+Articles: [PSH Denver 1](https://www.denverpost.com/2017/10/30/denver-initiative-chronically-homeless-people-housing-promising/), [PSH Denver 2](https://www.denverpost.com/2016/01/24/denver-homelessness-program-funded-by-bank-large-foundations-among-others/)
 
 ### **Supportive Services**
 
