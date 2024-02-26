@@ -70,8 +70,18 @@ Articles:
 
 
 
-### **Class # 9**
-[A County in Maryland Came up With a New Way of Building Affordable Homes](https://podcasts.apple.com/us/podcast/a-county-in-maryland-came-up-with-a-new/id1056200096?i=1000638915229)
+### **Class # 9** 
+We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-and-ganong-2018-654047/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Bergman et al. (2023) </div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
+    <img src="./../assets/images/cmto_paper.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 
 
