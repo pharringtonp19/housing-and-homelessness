@@ -71,7 +71,7 @@ Articles:
 
 
 ### **Class # 9** 
-We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-and-ganong-2018-654047/fullscreen)
+We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-bergman-et-al-2023-7ae585/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
