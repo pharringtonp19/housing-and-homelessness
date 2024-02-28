@@ -83,10 +83,23 @@ We continue to dive deeper into the topic of vouchers and the importance of neig
   </a>
 </div>
 
+### **Class # 10** 
+Sticking with the notion of moving to opportunity, we turn our attention in this class into a deep dive on supply side initiatives with particular attention on the Low-income Housing Tax Credit (LIHTC). We focus on the recent work of Cook et a. (2024) which explores how the demand of low-income housing responds to the spatial location of the unit in ways which potentially make it harder for policy makers to target need. [Slides](https://slides.com/pharringtonp19/presentation-of-cook-et-al-2024/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Cook et al. (2024) </div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.cody-cook.com/papers/Cook_JMP.pdf" style="display: block;">
+    <img src="./../assets/images/Cook_JMP.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 
 
 
+<!-- 
 ### **LIHTC**
 **Housing Policy in the United States; Fourth Edition**  
 _Author:_ Alex F. Schwartz
@@ -98,4 +111,4 @@ _Specific Chapter:_ Chapter 4
 **Housing Policy in the United States; Fourth Edition**  
 _Author:_ Alex F. Schwartz
 _Publication Year:_ 2021  
-_Specific Chapter:_ Chapter 5
+_Specific Chapter:_ Chapter 5 -->
