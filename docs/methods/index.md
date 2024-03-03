@@ -34,17 +34,17 @@ Bengio et al. (2003) highlight the challenge of learning probability distributio
 
   <!-- Second PDF and its title -->
   <div style="width: calc(33.33% - 1%); border-right: 2px solid gray;">
-    <div style="text-align: center; font-weight: bold;">Sanseviero (2024)</div>
-    <a href="https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/" style="display: block;">
-      <img src="./../assets/images/hackerllama.png" alt="Alt text" style="width: 100%; height: auto;" />
+    <div style="text-align: center; font-weight: bold;">Radford et al. (2018)</div>
+    <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" style="display: block;">
+      <img src="./../assets/images/gpt2.png" alt="Alt text" style="width: 100%; height: auto;" />
     </a>
   </div>
 
-  <!-- Third PDF and its title -->
-  <div style="width: calc(33.33% - 1%);">
-    <div style="text-align: center; font-weight: bold;">TBD</div>
-    <a href="https://drive.google.com/file/d/1RRSAgfsPlRxxsi9rYVtgiAbFyFFDhJCq/view" style="display: block;">
-      <img src="./../assets/images/elior.png" alt="Alt text" style="width: 100%; height: auto;" />
+  <!-- Second PDF and its title -->
+  <div style="width: calc(33.33% - 1%); ">
+    <div style="text-align: center; font-weight: bold;">Sanseviero (2024)</div>
+    <a href="https://osanseviero.github.io/hackerllama/blog/posts/sentence_embeddings/" style="display: block;">
+      <img src="./../assets/images/hackerllama.png" alt="Alt text" style="width: 100%; height: auto;" />
     </a>
   </div>
 
