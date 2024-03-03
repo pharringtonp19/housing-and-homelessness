@@ -2,7 +2,7 @@
 title: Homelessness
 layout: default
 permalink: /homelessness/
-nav_order: 8
+nav_order: 5
 ---
 
 ### **Population Overview**

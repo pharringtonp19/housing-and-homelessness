@@ -2,7 +2,7 @@
 title: Low-income Housing
 layout: default
 permalink: /low-income-housing/
-nav_order: 6
+nav_order: 3
 ---
 
 ### **Class # 5**

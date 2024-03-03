@@ -2,7 +2,7 @@
 title: Methods
 layout: default
 permalink: /methods/
-nav_order: 8
+nav_order: 6
 has_children: false
 ---
 ### **Randomized Control Trials**
@@ -20,7 +20,7 @@ In this class we discuss the ethics and responsabilities around Randomized Contr
 
 ### **Language Models**
 
-Bengio et al. (2003) highlight the challenge of learning probability distributions over high dimensional discrete spaces and the **need** to generalize. It emphasizes how the task of gernalization is equivalent to transfering probability mass.
+Bengio et al. (2003) highlight the challenge of learning probability distributions over high dimensional discrete spaces and the **need** to generalize. It emphasizes how the task of gernalization is equivalent to transfering probability mass. Randford et al. (2018) describe how the curse of dimensionality at that the task level (dataset, objective), make an explicit multi-task approach infeasible. 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; border: 2px solid black; padding: 10px;">
 
