@@ -1,7 +1,7 @@
 ---
-title: Insecurity
+title: Housing Insecurity
 layout: default
-permalink: /insecurity/
+permalink: /housing-insecurity/
 nav_order: 7
 ---
 
