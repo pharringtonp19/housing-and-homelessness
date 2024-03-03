@@ -2,7 +2,7 @@
 title: Methods
 layout: default
 permalink: /methods/
-nav_order: 6
+nav_order: 7
 has_children: false
 ---
 ### **Randomized Control Trials**
