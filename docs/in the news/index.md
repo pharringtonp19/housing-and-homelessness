@@ -11,6 +11,7 @@ has_children: false
 - [America’s Apartment Buildings Are Getting Bigger and Taller
 Rising construction, other costs mean developers are adding more units to be profitable](https://www.wsj.com/real-estate/americas-apartment-buildings-are-getting-bigger-and-taller-e0d67136?mod=hp_lead_pos10)
 - [U.S. Drug Agency Has New Target in Fentanyl Fight: Sellers of Pill Presses](https://www.wsj.com/business/logistics/u-s-drug-agency-has-new-target-in-fentanyl-fight-sellers-of-pill-presses-5fc943d6?mod=panda_wsj_author_alert)
+- [NYCB Woes Offer Lessons Beyond Real Estate](https://www.bloomberg.com/opinion/articles/2024-03-04/nycb-woes-offer-lessons-beyond-office-and-apartment-loans?srnd=homepage-americas)
 
 ### **March 3, 2024**
 
@@ -39,3 +40,7 @@ Rising construction, other costs mean developers are adding more units to be pro
 # **2020**
 
 - [Governments are rethinking the provision of public housing](https://www.economist.com/special-report/2020/01/16/governments-are-rethinking-the-provision-of-public-housing?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU75nCwPIg76Vy91F9oY9Jo9uQxVqIlmlNqlZbcEkRdQcRO33ZDQBnbxoCRVoQAvD_BwE&gclsrc=aw.ds)
+
+# **2019**
+
+- [NYC Tenants Get a Rent-Law Blessing That Landlords See as Curse](https://www.bloomberg.com/news/articles/2019-06-12/nyc-tenants-get-a-rent-law-blessing-that-landlords-see-as-curse)
