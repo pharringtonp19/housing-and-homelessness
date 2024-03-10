@@ -64,18 +64,6 @@ We focus on work concerning Housing First. Using survival analysis techniques, T
 </div>
 Articles: [PSH Denver 1](https://www.denverpost.com/2017/10/30/denver-initiative-chronically-homeless-people-housing-promising/), [PSH Denver 2](https://www.denverpost.com/2016/01/24/denver-homelessness-program-funded-by-bank-large-foundations-among-others/)
 
-### **Supportive Services**
-
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Phillips and Sullivan (2022)</div>
-  
-  <!-- PNG Image -->
-  <a href="https://sites.google.com/site/davidcphillipseconomics/research" style="display: block;">
-    <img src="./../assets/images/phillips_personal.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
-
 
 ### **Prevention Strategies**
 
