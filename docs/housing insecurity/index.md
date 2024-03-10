@@ -31,6 +31,9 @@ In this class, we examine the costs of foreclosure to home owners, landlords and
   </a>
 </div>
 
+Articles:  
+[The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
+
 ### **Class # 14**
 In this class, we discuss the negative impacts the eviction has both on housing instability and employment. 
 
@@ -43,6 +46,9 @@ In this class, we discuss the negative impacts the eviction has both on housing 
     <img src="./../assets/images/winnie.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+Articles:  
+[Massachusetts’ Highly Touted Push to “Significantly Reduce” Affordable Housing Vacancies Barely Made a Dent](https://www.propublica.org/article/massachusetts-affordable-housing-vacancies)
+
 
 ### **Class # 15**
 In this class, we discuss both the impact of eviction prevention policies as well as the challenges of empirically estimating the causal effects of policy at scale.

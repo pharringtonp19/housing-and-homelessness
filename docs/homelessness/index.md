@@ -4,6 +4,19 @@ layout: default
 permalink: /homelessness/
 nav_order: 6
 ---
+### **Case Mangement**
+In this class, we examine the relative impacts of case management. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Phillips and Sullivan (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.huduser.gov/publications/pdf/strategies_for_preventing_homelessness.pdf" style="display: block;">
+    <img src="./../assets/images/phillips2022.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 ### **Population Overview**
 
