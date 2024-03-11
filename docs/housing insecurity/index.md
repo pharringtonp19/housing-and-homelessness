@@ -49,8 +49,49 @@ In this class, we discuss the negative impacts the eviction has both on housing 
 Articles:  
 [Massachusetts’ Highly Touted Push to “Significantly Reduce” Affordable Housing Vacancies Barely Made a Dent](https://www.propublica.org/article/massachusetts-affordable-housing-vacancies)
 
-
 ### **Class # 15**
+In this class, we examine the relative impacts of case management. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-2022/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Phillips and Sullivan (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
+    <img src="./../assets/images/phillips2022.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+### **Class # 16**
+In this class, we examine the relative impacts of financial assistance. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-et-al-2023/fullscreen)
+
+
+<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
+  
+  <!-- First PDF and its title -->
+  <div style="width: 49%; border-right: 2px solid gray;">
+    <div style="text-align: center; font-weight: bold;">Evans et al. (2016)</div>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/27516600/" style="display: block;">
+      <img src="./../assets/images/evans2016.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- Optional spacer for a more distinct line -->
+  <div style="width: 2%;"></div>
+
+  <!-- Second PDF and its title -->
+  <div style="width: 49%;">
+    <div style="font-weight: bold;">Phillips and Sullivan (2023)</div>
+    <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
+      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+</div>
+
+
+
+### **Class # 17**
 In this class, we discuss both the impact of eviction prevention policies as well as the challenges of empirically estimating the causal effects of policy at scale.
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
