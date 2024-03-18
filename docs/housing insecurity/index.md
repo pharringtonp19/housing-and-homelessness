@@ -19,7 +19,7 @@ In this class, we focus on stories of the private rental market which caters to 
 
 
 ### **Class # 13**
-In this class, we examine the costs of foreclosure to home owners, landlords and renters.
+In this class, we examine the costs of foreclosure to home owners, landlords and renters. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->

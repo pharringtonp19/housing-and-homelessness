@@ -6,6 +6,12 @@ nav_order: 2
 has_children: false
 ---
 
+### **March 16, 2024**
+- [Why Private Developers Are Rejecting Government Money for Affordable Housing](https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=panda_wsj_author_alert)
+
+### **March 14, 2024**
+- [NYC’s $264 Billion Pensions Fail to Invest More in Affordable Housing](https://www.bloomberg.com/news/articles/2024-03-14/nyc-s-264-billion-pensions-fail-to-invest-more-in-affordable-housing?srnd=homepage-americas)
+
 ### **March 12, 2024**
 - [Boston Risks Losing Young Residents Amid Housing, Transport Woes](https://www.bloomberg.com/news/articles/2024-03-12/boston-risks-losing-young-residents-amid-housing-transport-woes?cmpid=BBD031224_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240312&utm_campaign=citylabdaily)
 
@@ -49,6 +55,9 @@ Rising construction, other costs mean developers are adding more units to be pro
 
 - [The housing ladder, 1950-2005](https://www.economist.com/britain/2024/01/11/the-housing-ladder-1950-2005)
 
+# **2023**
+- [One Nassau County Has a Housing Crisis, the Other Nassau County Has a Solution
+](https://www.bloomberg.com/news/features/2023-08-15/nassau-county-in-new-york-and-florida-show-importance-of-housing-costs?itm_source=record&itm_campaign=US_Housing_Crisis&itm_content=One_County%27s_Fix-5)
 
 # **2020**
 
@@ -57,3 +66,7 @@ Rising construction, other costs mean developers are adding more units to be pro
 # **2019**
 
 - [NYC Tenants Get a Rent-Law Blessing That Landlords See as Curse](https://www.bloomberg.com/news/articles/2019-06-12/nyc-tenants-get-a-rent-law-blessing-that-landlords-see-as-curse)
+
+# **2003**
+- [S&P Says It Won't Rate Some Georgia Mortgages](https://www.wsj.com/articles/SB1043031200188729224)
+- [Ratings Agencies Not Alarmed by New York Laws](https://www.nytimes.com/2003/02/14/business/ratings-agencies-not-alarmed-by-new-york-laws.html)
