@@ -35,7 +35,7 @@ Articles:
 [The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
 
 ### **Class # 14**
-In this class, we discuss the negative impacts the eviction has both on housing instability and employment. 
+In this class, we discuss the negative impacts the eviction has both on housing instability and employment. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2023/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
