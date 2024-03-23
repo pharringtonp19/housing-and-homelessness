@@ -8,7 +8,9 @@ has_children: false
 
 ## **March 2024**
 - [Chicago Voters Reject Real Estate Tax Change to Fund Homeless Programs](https://www.nytimes.com/2024/03/22/us/chicago-real-estate-tax-vote.html)
+- [Sacramento gave a homeless camp a lease as an experiment. Here’s what happened](https://calmatters.org/housing/homelessness/2024/03/california-homelessness/)
 - [America’s Magical Thinking About Housing](https://www.theatlantic.com/ideas/archive/2024/03/austin-texas-rents-falling-housing/677819/)
+- [Once a Sure Thing, Newsom’s Homelessness Measure Barely Passes](https://www.nytimes.com/2024/03/20/us/california-prop-1-homelessness.html)
 - [Why Private Developers Are Rejecting Government Money for Affordable Housing](https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=panda_wsj_author_alert)
 - [NYC’s $264 Billion Pensions Fail to Invest More in Affordable Housing](https://www.bloomberg.com/news/articles/2024-03-14/nyc-s-264-billion-pensions-fail-to-invest-more-in-affordable-housing?srnd=homepage-americas)
 - [Boston Risks Losing Young Residents Amid Housing, Transport Woes](https://www.bloomberg.com/news/articles/2024-03-12/boston-risks-losing-young-residents-amid-housing-transport-woes?cmpid=BBD031224_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240312&utm_campaign=citylabdaily)
@@ -17,6 +19,7 @@ has_children: false
 - [NYCB won’t be the last rates accident](https://www.ft.com/content/00a0ed91-13bd-40b5-81e1-e852d6b2e4ce)
 - [America’s Apartment Buildings Are Getting Bigger and Taller
 Rising construction, other costs mean developers are adding more units to be profitable](https://www.wsj.com/real-estate/americas-apartment-buildings-are-getting-bigger-and-taller-e0d67136?mod=hp_lead_pos10)
+- [This California county is testing AI’s ability to prevent homelessness](https://calmatters.org/housing/homelessness/2024/03/california-homeless-los-angeles-ai/)
 - [U.S. Drug Agency Has New Target in Fentanyl Fight: Sellers of Pill Presses](https://www.wsj.com/business/logistics/u-s-drug-agency-has-new-target-in-fentanyl-fight-sellers-of-pill-presses-5fc943d6?mod=panda_wsj_author_alert)
 - [NYCB Woes Offer Lessons Beyond Real Estate](https://www.bloomberg.com/opinion/articles/2024-03-04/nycb-woes-offer-lessons-beyond-office-and-apartment-loans?srnd=homepage-americas)
 - [NYCB Ballooned Despite Real Estate Warnings in Years Before Fall](https://www.bloomberg.com/news/articles/2024-03-05/nycb-stock-dive-bank-ballooned-despite-real-estate-market-warnings?srnd=homepage-americas)

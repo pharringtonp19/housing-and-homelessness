@@ -9,12 +9,11 @@ nav_order: 6
 
 Over two classes, we read Tracy Kidder's "RoughSleepers" which captures the work (and relationships) of Dr. Jim and and the Street Team crew among Boston's unsheltered homeless population.
 
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Kidder (2023)</div>
   
   <!-- PNG Image -->
-  <a href="https://www.bhchp.org/get-involved/read-rough-sleepers/" style="display: block;">
+  <a href="https://people.bu.edu/guren/ForeclosureEvictionDGT.pdf" style="display: block;">
     <img src="./../assets/images/kidder.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
@@ -33,6 +32,8 @@ Highlights in part the challenges of matching homeless individual to census reco
     <img src="./../assets/images/meyer2023.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+### **Relationships
 
 ### **Permanent Supportive Housing**
 We focus on work concerning Housing First. Using survival analysis techniques, Tsemeberis and Eisenberg (2000) illustrate that a Housing First approach improves housing stability relative to a linear contiuum of care.[^1] Tsemberis et al. (2004) is a helpful read in that it highlights some of the challenges of conducting empirical work in this setting - the need to oversample the control group in the design of the randomized control trial because they are expected to be more likely to remain homeless and therefore more difficult to track - interpreting reported alcohol and drug use. 
