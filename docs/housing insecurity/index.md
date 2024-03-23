@@ -19,7 +19,7 @@ In this class, we focus on stories of the private rental market which caters to 
 
 
 ### **Class # 13**
-In this class, we examine the costs of foreclosure to home owners, landlords and renters. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
+In this class, we examine the costs of foreclosure to homeowners, landlords and renters. Reading an earlier version of the work, we discuss the importance of transparent and credible research - something that all researcher's struggle with (myself included!). [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -35,7 +35,7 @@ Articles:
 [The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
 
 ### **Class # 14**
-In this class, we discuss the negative impacts the eviction has both on housing instability and employment. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2023/fullscreen)
+In this class, we discuss the negative impacts the eviction has both on housing instability and employment. We discuss the challenges of assessing the costs of eviction, from working with Judge-IV, to data linking issues, to non-count outcomes which may be quite similar to evictions. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2023/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->

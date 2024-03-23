@@ -5,6 +5,20 @@ permalink: /homelessness/
 nav_order: 6
 ---
 
+### **Class 18-19**
+
+Over two classes, we read Tracy Kidder's "RoughSleepers" which captures the work (and relationships) of Dr. Jim and and the Street Team crew among Boston's unsheltered homeless population.
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Kidder (2023)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.bhchp.org/get-involved/read-rough-sleepers/" style="display: block;">
+    <img src="./../assets/images/kidder.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 ### **Population Overview**
 
