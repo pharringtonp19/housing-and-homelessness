@@ -11,6 +11,7 @@ has_children: false
 - [Sacramento gave a homeless camp a lease as an experiment. Here’s what happened](https://calmatters.org/housing/homelessness/2024/03/california-homelessness/)
 - [America’s Magical Thinking About Housing](https://www.theatlantic.com/ideas/archive/2024/03/austin-texas-rents-falling-housing/677819/)
 - [Once a Sure Thing, Newsom’s Homelessness Measure Barely Passes](https://www.nytimes.com/2024/03/20/us/california-prop-1-homelessness.html)
+- [In Pricey Silicon Valley, a Plan to Preempt Homelessness](https://www.bloomberg.com/news/features/2024-03-19/san-jose-finds-that-funding-to-prevent-homelessness-can-pay-off?cmpid=BBD032424_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240324&utm_campaign=citylabdaily)
 - [Why Private Developers Are Rejecting Government Money for Affordable Housing](https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=panda_wsj_author_alert)
 - [NYC’s $264 Billion Pensions Fail to Invest More in Affordable Housing](https://www.bloomberg.com/news/articles/2024-03-14/nyc-s-264-billion-pensions-fail-to-invest-more-in-affordable-housing?srnd=homepage-americas)
 - [Boston Risks Losing Young Residents Amid Housing, Transport Woes](https://www.bloomberg.com/news/articles/2024-03-12/boston-risks-losing-young-residents-amid-housing-transport-woes?cmpid=BBD031224_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240312&utm_campaign=citylabdaily)

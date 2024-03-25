@@ -50,7 +50,7 @@ Articles:
 [Massachusetts’ Highly Touted Push to “Significantly Reduce” Affordable Housing Vacancies Barely Made a Dent](https://www.propublica.org/article/massachusetts-affordable-housing-vacancies)
 
 ### **Class # 15**
-In this class, we examine the relative impacts of case management. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-2022/fullscreen)
+In this class, we consider the challenge of carrying out randomized control trials involving tenants who face housing insecurity. We explore the challenges that arise in Phillips and Sullivan (2022) who examine the impact of providing tenants with case management services. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-2022/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->

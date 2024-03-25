@@ -5,6 +5,10 @@ permalink: /methods/
 nav_order: 8
 has_children: false
 ---
+
+### **Overview**
+Applied Econometrics is concerened with the interpretation of statistical results in various contexts [Slides](https://slides.com/pharringtonp19/housing-homelessness-econometrics/fullscreen)
+
 ### **Randomized Control Trials**
 In this class we discuss the ethics and responsabilities around Randomized Control Trials. In particular we discuss some of the key issues that arise when randomizing financial resources among those in great need. 
 
