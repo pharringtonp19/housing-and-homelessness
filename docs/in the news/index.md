@@ -6,12 +6,18 @@ nav_order: 2
 has_children: false
 ---
 
+## **April 2024**
+- [Political Leaders Are Finally Responding to the Housing Crisis. They Need to Move Faster.](https://www.politico.com/news/2024/04/04/housing-affordability-crisis-states-00150463)
+
 ## **March 2024**
 - [Chicago Voters Reject Real Estate Tax Change to Fund Homeless Programs](https://www.nytimes.com/2024/03/22/us/chicago-real-estate-tax-vote.html)
+- [Private company running Brooklyn public housing complex fired for repeated failures](https://gothamist.com/news/private-company-running-brooklyn-public-housing-complex-fired-for-repeated-failures)
+- [Why Arizona Law Firms Are a Hot Investment for Private Equity](https://www.wsj.com/us-news/law/smart-money-in-bed-with-lawyers-why-wall-street-is-investing-in-arizona-law-firms-7b0ec2a1?mod=us-news_feat1_law_pos2)
 - [Sacramento gave a homeless camp a lease as an experiment. Here’s what happened](https://calmatters.org/housing/homelessness/2024/03/california-homelessness/)
 - [America’s Magical Thinking About Housing](https://www.theatlantic.com/ideas/archive/2024/03/austin-texas-rents-falling-housing/677819/)
 - [Once a Sure Thing, Newsom’s Homelessness Measure Barely Passes](https://www.nytimes.com/2024/03/20/us/california-prop-1-homelessness.html)
 - [In Pricey Silicon Valley, a Plan to Preempt Homelessness](https://www.bloomberg.com/news/features/2024-03-19/san-jose-finds-that-funding-to-prevent-homelessness-can-pay-off?cmpid=BBD032424_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240324&utm_campaign=citylabdaily)
+- [With No Easy Solutions To Get More Family-Sized Housing Built In LA, Is Public Housing An Option?](https://laist.com/news/housing-homelessness/los-angeles-family-sized-housing-policy-three-two-bedroom-apartments-incentives-boyle-heights-rent-overcrowding)
 - [Why Private Developers Are Rejecting Government Money for Affordable Housing](https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=panda_wsj_author_alert)
 - [NYC’s $264 Billion Pensions Fail to Invest More in Affordable Housing](https://www.bloomberg.com/news/articles/2024-03-14/nyc-s-264-billion-pensions-fail-to-invest-more-in-affordable-housing?srnd=homepage-americas)
 - [Boston Risks Losing Young Residents Amid Housing, Transport Woes](https://www.bloomberg.com/news/articles/2024-03-12/boston-risks-losing-young-residents-amid-housing-transport-woes?cmpid=BBD031224_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240312&utm_campaign=citylabdaily)
@@ -36,6 +42,7 @@ Rising construction, other costs mean developers are adding more units to be pro
 - [https://www.bloomberg.com/news/articles/2024-02-22/us-commercial-property-foreclosures-spike-with-woes-mounting](https://www.bloomberg.com/news/articles/2024-02-22/us-commercial-property-foreclosures-spike-with-woes-mounting)
 - [The housing ladder, 1950-2005](https://www.economist.com/britain/2024/01/11/the-housing-ladder-1950-2005)
 - [Rent Comes Down for the Wealthy, While Rising for the Rest](https://www.wsj.com/real-estate/rent-prices-luxury-housing-e02acdaf)
+- [NYC’s public housing agency seeking ‘restitution’ in corruption scheme](https://gothamist.com/news/nyc-council-to-hold-oversight-hearing-corruption-case-into-public-housing)
 
 # **2023**
 - [One Nassau County Has a Housing Crisis, the Other Nassau County Has a Solution

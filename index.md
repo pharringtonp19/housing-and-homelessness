@@ -21,12 +21,11 @@ This sophmore tutorial will focus on issues related to housing for low-income in
     width: 100%;
     text-align: center;
     background-color: #f5f5f5;
-    padding: 10px;
-    font-size: 14px;
+    padding: 6px;
+    font-size: 12px;
   }
 </style>
 
 <div class="footer">
-  All images for this website generated via <a href="https://openai.com/product/dalle2">Dalle2</a>
-
+  "Never let homework get in the way of your education" - Anonymous (Ted)
 </div>
