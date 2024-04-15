@@ -27,5 +27,5 @@ This sophmore tutorial will focus on issues related to housing for low-income in
 </style>
 
 <div class="footer">
-  "Never let homework get in the way of your education" - Anonymous (Ted)
+  "Dig in and work, and not look beyond that" - Rough Sleepers
 </div>

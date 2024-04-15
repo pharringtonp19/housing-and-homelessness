@@ -80,4 +80,7 @@ Articles: [PSH Denver 1](https://www.denverpost.com/2017/10/30/denver-initiative
   </a>
 </div>
 
+### **Eduction**
+- [Program helping NYC homeless students is out of money in June. Mayor Adams has no plan to fund it.](https://gothamist.com/news/program-helping-nyc-homeless-students-is-out-of-money-in-june-mayor-adams-has-no-plan-to-fund-it)
+
 [^1]: A key question for this paper is how much work went into ensuring that clients in a Housing First program were able to maintain housing. The authors note that "The program will also use any means possible to reduce the risk of eviction that often results from drug use." We're tenants being relocated to different units if they were evicted? To really understand the effectiveness of the Housing First approach, it's important to understand how the resources were deployed.
