@@ -6,10 +6,10 @@ nav_order: 2
 has_children: false
 ---
 
-# **Who To Read**
-- [Karen Yi](https://gothamist.com/staff/karen-yi-wnyc)
 
 ## **April 2024**
+- [Major Supreme Court case could upend California’s homelessness policies](https://www.latimes.com/politics/story/2024-04-18/supreme-court-and-homeless-encampment)
+- [Newsom calls for increased oversight of local homelessness efforts](https://www.latimes.com/california/story/2024-04-18/newsom-calls-for-new-unit-to-enforce-local-homelessness-plans-and-monitor-state-funding)
 - [Political Leaders Are Finally Responding to the Housing Crisis. They Need to Move Faster.](https://www.politico.com/news/2024/04/04/housing-affordability-crisis-states-00150463)
 - [Staring Down the Wrecking Ball, These Brooklyn Grandmothers Won’t Be Moved](https://citylimits.org/2024/04/09/staring-down-the-wrecking-ball-these-brooklyn-grandmothers-wont-be-moved/)
 - [NYC misses key deadline in right-to-shelter migrants court case, lawyer says](https://gothamist.com/news/nyc-misses-key-deadline-in-right-to-shelter-migrants-court-case-lawyer-says)
