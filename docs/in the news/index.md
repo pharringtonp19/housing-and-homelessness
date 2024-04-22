@@ -8,7 +8,7 @@ has_children: false
 
 
 ## **April 2024**
-- [https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park](https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park)
+- [Meet the homeless L.A. immigrants who built their own home in gentrifying Highland Park](https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park)
 - [How the Courts Made the Homeless Crisis Worse](https://www.wsj.com/articles/how-the-courts-made-the-homeless-crisis-worse-scotus-encampments-9c47fa21)
 - [Liberal Cities, Conservative Towns Seek Supreme Court’s Help on Homelessness](https://www.wsj.com/us-news/law/liberal-cities-conservative-towns-seek-supreme-courts-help-on-homelessness-45b7f89b)
 - [Major Supreme Court case could upend California’s homelessness policies](https://www.latimes.com/politics/story/2024-04-18/supreme-court-and-homeless-encampment)
