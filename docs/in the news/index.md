@@ -8,6 +8,9 @@ has_children: false
 
 
 ## **April 2024**
+- [https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park](https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park)
+- [How the Courts Made the Homeless Crisis Worse](https://www.wsj.com/articles/how-the-courts-made-the-homeless-crisis-worse-scotus-encampments-9c47fa21)
+- [Liberal Cities, Conservative Towns Seek Supreme Court’s Help on Homelessness](https://www.wsj.com/us-news/law/liberal-cities-conservative-towns-seek-supreme-courts-help-on-homelessness-45b7f89b)
 - [Major Supreme Court case could upend California’s homelessness policies](https://www.latimes.com/politics/story/2024-04-18/supreme-court-and-homeless-encampment)
 - [Newsom calls for increased oversight of local homelessness efforts](https://www.latimes.com/california/story/2024-04-18/newsom-calls-for-new-unit-to-enforce-local-homelessness-plans-and-monitor-state-funding)
 - [Political Leaders Are Finally Responding to the Housing Crisis. They Need to Move Faster.](https://www.politico.com/news/2024/04/04/housing-affordability-crisis-states-00150463)
