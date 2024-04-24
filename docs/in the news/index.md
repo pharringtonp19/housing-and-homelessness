@@ -8,6 +8,8 @@ has_children: false
 
 
 ## **April 2024**
+- [Florida’s Home Insurance Industry May Be Worse Than Anyone Realizes](https://www.bloomberg.com/news/features/2024-04-24/home-insurance-with-lax-oversight-hides-florida-climate-risk?srnd=homepage-americas)
+- [Should property owners be able to sue cities over homelessness? Arizona voters will decide](https://www.latimes.com/politics/story/2024-04-24/homeless-encampments-arizona-california-ballot-november-election)
 - [Supreme Court divided on homelessness case that will impact California encampment policy](https://www.latimes.com/politics/story/2024-04-22/supreme-court-homeless-encampments)
 - [They Hoped Opioid Settlement Money Would Heal Their Community. It’s Just Not Enough.](https://www.wsj.com/health/healthcare/opioid-settlement-money-struggles-remain-174613fc?mod=Searchresults_pos1&page=1)
 - [Meet the homeless L.A. immigrants who built their own home in gentrifying Highland Park](https://www.latimes.com/california/story/2024-04-22/unhoused-encampment-in-highland-park-along-freeway-highland-park)
