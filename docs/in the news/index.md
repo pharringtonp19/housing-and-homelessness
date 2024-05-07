@@ -6,6 +6,13 @@ nav_order: 2
 has_children: false
 ---
 
+## **May 2024**
+- [Monthly payments of $1,000 could get thousands of homeless people off the streets, researchers say](https://www.latimes.com/california/story/2024-04-30/monthly-payments-of-1-000-could-get-thousands-of-homeless-people-off-the-streets-researchers-say)
+- [This tiny apartment costs $7 a month. Scoring one is like winning the lottery](https://www.latimes.com/world-nation/story/2024-05-07/this-tiny-apartment-costs-7-a-month-scoring-one-is-like-winning-the-lottery)
+- [Opinion: This tough-on-crime proposal won’t solve California retail theft, but it would crowd our prisons](https://www.latimes.com/opinion/story/2024-05-07/california-crime-retail-theft-prisons)
+- [CT House passes expansive housing bill, with nod to New Canaan](https://ctmirror.org/2024/05/06/ct-housing-bill-8-30g-new-canaan/)
+- [The US housing ‘lock-in effect’ –quantified](https://www.ft.com/content/9fb0b865-2386-41ea-ae20-8f87f8b1b582)
+- [Global Housing Shortages Are Crushing Immigration-Fueled Growth](https://www.bloomberg.com/news/features/2024-05-05/global-housing-crisis-affects-immigration-fueled-growth-living-standards?srnd=homepage-americas)
 
 ## **April 2024**
 - [Florida’s Home Insurance Industry May Be Worse Than Anyone Realizes](https://www.bloomberg.com/news/features/2024-04-24/home-insurance-with-lax-oversight-hides-florida-climate-risk?srnd=homepage-americas)
