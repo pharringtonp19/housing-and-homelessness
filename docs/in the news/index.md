@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **May 2024**
+- [A tale of two downtowns in L.A.: As offices languish, apartments thrive](https://www.latimes.com/business/story/2024-05-02/a-tale-of-two-downtowns-office-towers-are-empty-but-apartments-are-full)
+- [Can Turning Office Towers Into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 - [Monthly payments of $1,000 could get thousands of homeless people off the streets, researchers say](https://www.latimes.com/california/story/2024-04-30/monthly-payments-of-1-000-could-get-thousands-of-homeless-people-off-the-streets-researchers-say)
 - [This tiny apartment costs $7 a month. Scoring one is like winning the lottery](https://www.latimes.com/world-nation/story/2024-05-07/this-tiny-apartment-costs-7-a-month-scoring-one-is-like-winning-the-lottery)
 - [Opinion: This tough-on-crime proposal won’t solve California retail theft, but it would crowd our prisons](https://www.latimes.com/opinion/story/2024-05-07/california-crime-retail-theft-prisons)
