@@ -7,11 +7,22 @@ has_children: false
 ---
 
 ## **May 2024**
+- [As Insurers Around the U.S. Bleed Cash From Climate Shocks, Homeowners Lose](https://www.nytimes.com/interactive/2024/05/13/climate/insurance-homes-climate-change-weather.html)
+- [High Interest Rates Are Hitting Poorer Americans the Hardest](https://www.nytimes.com/2024/05/14/business/economy/interest-rates-inequality.html)
+- [Sky-High Housing Costs Propel Construction of Rental Homes](https://www.wsj.com/real-estate/sky-high-housing-costs-propel-construction-of-rental-homes-68c6098f?mod=panda_wsj_author_alert)
+- [Lenders Race to Buy Back Delinquent Multifamily Mortgage Loans](https://www.bloomberg.com/news/articles/2024-05-01/jpmorgan-says-commercial-real-estate-clo-loan-buyouts-are-set-to-reach-a-record)
+- [We Actually Need to Build More Luxury Homes. Here’s Why.](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion)
+- [What Is Buy Now, Pay Later? How It Works and the Hidden Risks You Should Know](https://www.bloomberg.com/news/articles/2024-05-09/what-is-buy-now-pay-later-how-bnpl-plans-work?srnd=economics-v2)
+- [‘Seriously Underwater’ Home Mortgages Tick Up Across the US](https://www.bloomberg.com/news/articles/2024-05-09/-seriously-underwater-home-mortgages-tick-up-across-the-us?srnd=homepage-americas)
+- [Investor enthusiasm drops in signature Trump economic programme](https://www.ft.com/content/86db6de8-d25b-4b1a-875e-7bff6679566d)
+- [NYC rents are rising 7 times faster than wages, report finds](https://gothamist.com/news/nyc-rents-are-rising-7-times-faster-than-wages-report-finds)
+- [Americans Are Racking Up ‘Phantom Debt’ That Wall Street Can’t Track](https://www.bloomberg.com/news/articles/2024-05-07/-buy-now-pay-later-has-americans-racking-up-phantom-debt?srnd=homepage-americas)
 - [A tale of two downtowns in L.A.: As offices languish, apartments thrive](https://www.latimes.com/business/story/2024-05-02/a-tale-of-two-downtowns-office-towers-are-empty-but-apartments-are-full)
 - [Can Turning Office Towers Into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 - [Monthly payments of $1,000 could get thousands of homeless people off the streets, researchers say](https://www.latimes.com/california/story/2024-04-30/monthly-payments-of-1-000-could-get-thousands-of-homeless-people-off-the-streets-researchers-say)
 - [This tiny apartment costs $7 a month. Scoring one is like winning the lottery](https://www.latimes.com/world-nation/story/2024-05-07/this-tiny-apartment-costs-7-a-month-scoring-one-is-like-winning-the-lottery)
 - [Opinion: This tough-on-crime proposal won’t solve California retail theft, but it would crowd our prisons](https://www.latimes.com/opinion/story/2024-05-07/california-crime-retail-theft-prisons)
+- [NYC is adding more affordable apartments than ever. But who are they meant for?](https://gothamist.com/news/nyc-is-adding-more-affordable-apartments-than-ever-but-who-are-they-meant-for)
 - [CT House passes expansive housing bill, with nod to New Canaan](https://ctmirror.org/2024/05/06/ct-housing-bill-8-30g-new-canaan/)
 - [The US housing ‘lock-in effect’ –quantified](https://www.ft.com/content/9fb0b865-2386-41ea-ae20-8f87f8b1b582)
 - [Global Housing Shortages Are Crushing Immigration-Fueled Growth](https://www.bloomberg.com/news/features/2024-05-05/global-housing-crisis-affects-immigration-fueled-growth-living-standards?srnd=homepage-americas)

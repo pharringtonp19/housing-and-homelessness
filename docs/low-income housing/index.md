@@ -18,6 +18,9 @@ In this class we focus on the relationship between low-income housing and the re
   </a>
 </div>
 
+Article:
+[Bloomberg (May 9, 20214)](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion)
+
 ### **Class # 6** 
 
 In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen)

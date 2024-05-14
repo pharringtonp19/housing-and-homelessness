@@ -20,3 +20,6 @@ has_children: false
 
 ### **Housing as a Health Care Issue**
 - [Prescription for Housing? California Wants Medicaid to Cover 6 Months of Rent](https://kffhealthnews.org/news/article/prescription-for-housing-california-wants-medicaid-to-cover-6-months-of-rent/)
+
+### **Informal Housing**
+- [Basic Income Grants to Reduce Homelessness in Los Angeles](https://hpri.usc.edu/wp-content/uploads/2024/04/Basic-Income-Grants-to-Reduce-Homelessness-in-Los-Angeles_draft.pdf)
