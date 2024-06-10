@@ -33,7 +33,19 @@ Highlights in part the challenges of matching homeless individual to census reco
   </a>
 </div>
 
-### **Relationships
+### **Cost Effectiveness**
+
+Focusing on Santa Clara Californai, Flaming et al. (2015) shows that for those experiencing "persistent homelessness", the cost of providing housing (~$20,000) is less than the status quo (~$83,000).
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Flaming et al. (2015)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2772270" style="display: block;">
+    <img src="./../assets/images/hnf.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 ### **Permanent Supportive Housing**
 We focus on work concerning Housing First. Using survival analysis techniques, Tsemeberis and Eisenberg (2000) illustrate that a Housing First approach improves housing stability relative to a linear contiuum of care.[^1] Tsemberis et al. (2004) is a helpful read in that it highlights some of the challenges of conducting empirical work in this setting - the need to oversample the control group in the design of the randomized control trial because they are expected to be more likely to remain homeless and therefore more difficult to track - interpreting reported alcohol and drug use. 

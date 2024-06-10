@@ -7,9 +7,9 @@ has_children: false
 ---
 
 ### **Overview**
-Applied Econometrics is concerened with the interpretation of statistical results in various contexts. In this course, we introduce a relative simple framework for assessing the credibility of statical results. At its core, the framework consists of potential outcocmes and local variation of the treatment that is good as randomly assigned. We cover the basics of this approach and illustrate how it motives the use of popular identification strategies such as differience-difference and instrumental variables.
+Applied Econometrics is concerened with the interpretation of statistical results in various contexts. In this course, we anchor ourselves around the ideas of potential outcomes framework and local variation of the treatment variable. These two concepts motivate the use of instrumental variables, regression discontinuity, and difference-in-differences and therefore will be essential to our understanding of the empirical literature.
 
-In contrast to other notes on applied econometrics ([Goldsmith-Pinkham](https://github.com/paulgp/applied-methods-phd), [Hull](https://about.peterhull.net/metrix), [Roth](https://github.com/jonathandroth/Econ1630_Github)), my slides/notes are quite brief. I'm largely focused on providing a framework that one can use to read the typical applied micro paper. We're going to let detials slip through the cracks. The hope, as Brad Osgood says is that "If you keep the big picture in mind, in many cases the details will take care of themselves --really." 
+One point to highlight is that in contrast to other notes on applied econometrics ([Goldsmith-Pinkham](https://github.com/paulgp/applied-methods-phd), [Hull](https://about.peterhull.net/metrix), [Roth](https://github.com/jonathandroth/Econ1630_Github)), these slides/notes are quite brief. They're meant to help one develop a conceptual framework that one can use to read the typical applied micro paper. We're going to let detials slip through the cracks. The hope, as Brad Osgood says is that "If you keep the big picture in mind, in many cases the details will take care of themselves --really." 
 
 <iframe src="https://slides.com/pharringtonp19/housing-homelessness-econometrics/embed?byline=hidden" width="576" height="420" title="Housing & Homelessness: Applied Econometrics" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -56,4 +56,15 @@ Bengio et al. (2003) highlight the challenge of learning probability distributio
     </a>
   </div>
 
+</div>
+
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Mikolov et al. (2013)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://aclanthology.org/N13-1090.pdf" style="display: block;">
+    <img src="./../assets/images/cont_rep.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
 </div>

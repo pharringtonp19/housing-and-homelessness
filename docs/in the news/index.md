@@ -6,10 +6,22 @@ nav_order: 2
 has_children: false
 ---
 
+## **June 2024**
+- [Demand for Section 8 Waitlist More than Double Available Slots—And Counting](https://citylimits.org/2024/06/05/demand-for-section-8-waitlist-more-than-double-available-slots-and-counting/)
+- [‘Tranq’ Turns More Illicit Drug Users Into Amputees](https://www.wsj.com/us-news/tranq-turns-more-illicit-drug-users-into-amputees-954d74e8?mod=us-news_lead_pos5)
+- [Real Estate Investors Are Wiped Out in Bets Fueled by Wall Street Loans](https://www.bloomberg.com/news/features/2024-06-06/real-estate-investors-face-crisis-as-big-wall-street-deals-unravel?srnd=undefined&sref=9QvQPwVJ)
+- [Can Your Town Solve the Housing Crisis?](https://www.bloomberg.com/news/articles/2024-06-10/new-urbanism-fans-tout-throwback-plan-to-fix-us-housing-crisis?srnd=homepage-americas)
+
 ## **May 2024**
+- [NYC is set to unlock its Section 8 waitlist. But don’t wait to apply.](https://gothamist.com/news/nyc-is-set-to-unlock-its-section-8-waitlist-but-dont-wait-to-apply)
+- [Judge tosses lawsuit challenging Mayor Karen Bass’ emergency declaration on homelessness](https://www.latimes.com/california/story/2024-05-30/judge-tosses-suit-challenging-mayor-karen-bass-emergency-declaration-on-homelesness)
+- [Why a California Plan to Build More Homes Is Failing](https://www.wsj.com/economy/housing/california-housing-zoning-law-sb9-impact-7ebdc434?mod=hp_lead_pos9)
+- [Losses Pile Up in Top-Rated Bonds Backed by Commercial Real Estate Debt](https://www.bloomberg.com/news/articles/2024-05-23/cmbs-buyers-suffer-first-loss-on-aaa-debt-since-financial-crisis?srnd=homepage-americas)
+- [NYC Pension to Invest $60 Million to Preserve Cheap Housing](https://www.bloomberg.com/news/articles/2024-05-21/nyc-pension-to-invest-60-million-to-preserve-affordable-housing)
 - [As Insurers Around the U.S. Bleed Cash From Climate Shocks, Homeowners Lose](https://www.nytimes.com/interactive/2024/05/13/climate/insurance-homes-climate-change-weather.html)
 - [High Interest Rates Are Hitting Poorer Americans the Hardest](https://www.nytimes.com/2024/05/14/business/economy/interest-rates-inequality.html)
 - [Sky-High Housing Costs Propel Construction of Rental Homes](https://www.wsj.com/real-estate/sky-high-housing-costs-propel-construction-of-rental-homes-68c6098f?mod=panda_wsj_author_alert)
+- [L.A.’s accidental homelessness ‘czar’? U.S. District Judge David O. Carter](https://www.latimes.com/california/story/2024-05-17/its-often-been-said-that-l-a-needs-a-homelessness-czar-now-it-has-one-a-federal-judge)
 - [Lenders Race to Buy Back Delinquent Multifamily Mortgage Loans](https://www.bloomberg.com/news/articles/2024-05-01/jpmorgan-says-commercial-real-estate-clo-loan-buyouts-are-set-to-reach-a-record)
 - [We Actually Need to Build More Luxury Homes. Here’s Why.](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion)
 - [What Is Buy Now, Pay Later? How It Works and the Hidden Risks You Should Know](https://www.bloomberg.com/news/articles/2024-05-09/what-is-buy-now-pay-later-how-bnpl-plans-work?srnd=economics-v2)
@@ -22,6 +34,7 @@ has_children: false
 - [Monthly payments of $1,000 could get thousands of homeless people off the streets, researchers say](https://www.latimes.com/california/story/2024-04-30/monthly-payments-of-1-000-could-get-thousands-of-homeless-people-off-the-streets-researchers-say)
 - [This tiny apartment costs $7 a month. Scoring one is like winning the lottery](https://www.latimes.com/world-nation/story/2024-05-07/this-tiny-apartment-costs-7-a-month-scoring-one-is-like-winning-the-lottery)
 - [Opinion: This tough-on-crime proposal won’t solve California retail theft, but it would crowd our prisons](https://www.latimes.com/opinion/story/2024-05-07/california-crime-retail-theft-prisons)
+- [L.A.’s homelessness website falls short of goal to be transparent, critics say](https://www.latimes.com/california/story/2024-05-07/l-a-citys-homelessness-website-falls-short-of-goal-to-be-transparent-critics-say)
 - [NYC is adding more affordable apartments than ever. But who are they meant for?](https://gothamist.com/news/nyc-is-adding-more-affordable-apartments-than-ever-but-who-are-they-meant-for)
 - [CT House passes expansive housing bill, with nod to New Canaan](https://ctmirror.org/2024/05/06/ct-housing-bill-8-30g-new-canaan/)
 - [The US housing ‘lock-in effect’ –quantified](https://www.ft.com/content/9fb0b865-2386-41ea-ae20-8f87f8b1b582)
