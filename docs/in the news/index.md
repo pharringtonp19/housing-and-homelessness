@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **June 2024**
+- [One City’s Downtown Plan: Empty Office Space That Is Too Cheap to Pass Up](https://www.wsj.com/real-estate/commercial/one-citys-downtown-plan-empty-office-space-that-is-too-cheap-to-pass-up-84a108a0)
+- [Pimco Warns of More US Regional Bank Failures on Property Pain](https://www.bloomberg.com/news/articles/2024-06-11/pimco-warns-of-more-regional-bank-failures-on-commercial-property-pain)
 - [Demand for Section 8 Waitlist More than Double Available Slots—And Counting](https://citylimits.org/2024/06/05/demand-for-section-8-waitlist-more-than-double-available-slots-and-counting/)
 - [‘Tranq’ Turns More Illicit Drug Users Into Amputees](https://www.wsj.com/us-news/tranq-turns-more-illicit-drug-users-into-amputees-954d74e8?mod=us-news_lead_pos5)
 - [Real Estate Investors Are Wiped Out in Bets Fueled by Wall Street Loans](https://www.bloomberg.com/news/features/2024-06-06/real-estate-investors-face-crisis-as-big-wall-street-deals-unravel?srnd=undefined&sref=9QvQPwVJ)

@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 ### **Class # 5**
-In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
+In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. With a preliminary theoretical and empirical introduction, we then turn our conversation to recent efforts to convert office buildings to residential units: should they require mandatory setasides for affordable housing? [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -19,6 +19,7 @@ In this class we focus on the relationship between low-income housing and the re
 </div>
 
 Article:
+[Calgary](https://www.wsj.com/real-estate/commercial/one-citys-downtown-plan-empty-office-space-that-is-too-cheap-to-pass-up-84a108a0), [Chicago](https://www.wsj.com/real-estate/commercial/chicago-to-offer-most-generous-subsidies-in-u-s-to-save-its-downtown-700a0076?mod=article_inline)
 [Bloomberg (May 9, 20214)](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion)
 
 ### **Class # 6** 
