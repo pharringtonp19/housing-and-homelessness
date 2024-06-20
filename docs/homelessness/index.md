@@ -2,7 +2,7 @@
 title: Homelessness
 layout: default
 permalink: /homelessness/
-nav_order: 6
+nav_order: 7
 ---
 
 ### **Class 18-19**

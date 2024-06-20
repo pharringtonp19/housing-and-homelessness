@@ -2,7 +2,7 @@
 title: Housing Insecurity
 layout: default
 permalink: /housing-insecurity/
-nav_order: 5
+nav_order: 6
 ---
 
 ### **Class # 11-12**

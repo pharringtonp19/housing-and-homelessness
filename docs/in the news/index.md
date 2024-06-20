@@ -7,6 +7,11 @@ has_children: false
 ---
 
 ## **June 2024**
+- [Just Build the Homes](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
+- [Rising UK Homelessness Keeps Housing in Front of Voters](https://www.bloomberg.com/news/articles/2024-06-19/rising-uk-homelessness-keeps-housing-crunch-in-front-of-voters?srnd=economics-v2)
+- [Rent Hikes Loom, Posing Threat to Inflation Fight](https://www.wsj.com/real-estate/rent-hikes-loom-posing-threat-to-inflation-fight-e6797e39)
+- [Big Jump in Insurance Costs Strikes Condos](https://www.wsj.com/personal-finance/big-jump-in-insurance-costs-strikes-condos-617c102a?mod=finance_lead_pos1)
+- [$2,500 in rent for a rusted RV? The rise of San Francisco’s vanlords](https://sfstandard.com/2024/06/14/san-francisco-vehicular-homeless-vanlords/)
 - [One City’s Downtown Plan: Empty Office Space That Is Too Cheap to Pass Up](https://www.wsj.com/real-estate/commercial/one-citys-downtown-plan-empty-office-space-that-is-too-cheap-to-pass-up-84a108a0)
 - [Pimco Warns of More US Regional Bank Failures on Property Pain](https://www.bloomberg.com/news/articles/2024-06-11/pimco-warns-of-more-regional-bank-failures-on-commercial-property-pain)
 - [Demand for Section 8 Waitlist More than Double Available Slots—And Counting](https://citylimits.org/2024/06/05/demand-for-section-8-waitlist-more-than-double-available-slots-and-counting/)

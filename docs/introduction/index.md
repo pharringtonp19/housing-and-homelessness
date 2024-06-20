@@ -5,7 +5,7 @@ permalink: /introduction/
 nav_order: 3
 ---
 
-### **Class # 1**
+### **Class**
 
 We begin the semester by discussing two pieces from the New Yorker that capture the day-to-day challenges of those experiencing homelessness as well as the providers who work with them. These stories capture a number of issues that we'll discuss further in the semester such as mental health, substance abuse, financial costs and supportive services. A common refrain is that homelessness is a housing problem. These stories though show that homelessness is a culmination of a number of issues and perhaps none more important than strong and healthy relationships.
 
@@ -22,7 +22,7 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
-### **Class # 2**
+### **Class**
 We focus on two recent literature reviews on the Economics of Homelessness. Reading Evans et al. (2019) is helpful in because it highlights that while there is a large number of interesting and important questions, if we're interested in doing research we should focus on those that can be credibly addressed. O'Flaherty (2019) relative to Evans et al. (2019) emphasizes the importance of understanding the effects of policies at scale. Together these papers will help guide our thinking about research in this area.
 
 <div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
@@ -48,7 +48,7 @@ We focus on two recent literature reviews on the Economics of Homelessness. Read
 
 </div>
 
-### **Class # 3**
+### **Class**
 After an introduction to the Economics of Homelessness, we exapnd our focus to consider federal housing policy more broadly. Glaeser and Gyourko (2008) provide a pointed discussion about the fundamental issues concerning housing policy. It emphasises a certain way to define affordable housing, argues for supply-side interventions for middle income housing and cash/vouchers for low-income housing. Given its broad coverage and confident language, it's a fruitful starting point for conversation. [Slides](https://slides.com/pharringtonp19/presentation-of-glaeser-and-gyourko-2008/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -62,7 +62,7 @@ After an introduction to the Economics of Homelessness, we exapnd our focus to c
 </div>
 
 
-### **Class # 4**
+### **Class**
 We wrap up our section on introductory classes with Collinson et al. (2015) who provides an overview of low-income housing policy in the United States upto 2015. The paper covers a number of federal housing programs (e.g. Public Housing, Housing Choice Vouchers, Low-Income Housing Tax Credit), introduces the basic trade-offs of in-kind housing support, and highlights open questions in the literature. Importantly, it also touches on the idea that non-experimental studies in this area tend to find more sweeping effects than experimental studies. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2015/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">

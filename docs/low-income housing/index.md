@@ -2,10 +2,10 @@
 title: Low-income Housing
 layout: default
 permalink: /low-income-housing/
-nav_order: 4
+nav_order: 5
 ---
 
-### **Class # 5**
+### **Class: Filtering**
 In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. With a preliminary theoretical and empirical introduction, we then turn our conversation to recent efforts to convert office buildings to residential units: should they require mandatory setasides for affordable housing? [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -20,9 +20,16 @@ In this class we focus on the relationship between low-income housing and the re
 
 Article:
 [Calgary](https://www.wsj.com/real-estate/commercial/one-citys-downtown-plan-empty-office-space-that-is-too-cheap-to-pass-up-84a108a0), [Chicago](https://www.wsj.com/real-estate/commercial/chicago-to-offer-most-generous-subsidies-in-u-s-to-save-its-downtown-700a0076?mod=article_inline)
-[Bloomberg (May 9, 20214)](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion)
+[Bloomberg (May 9, 20214)](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion), [New York City](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html)
 
-### **Class # 6** 
+
+<!-- ### **Class **
+[Slide](https://slides.com/pharringtonp19/washoe-county-hmis/fullscreen)
+
+Articles:
+[Amazon](https://www.bloomberg.com/news/articles/2024-06-18/in-dc-seattle-and-nashville-amazon-adds-1-4-billion-to-housing-pledge?srnd=homepage-americas) -->
+
+### **Class: Rent Control** 
 
 In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen)
 
@@ -39,8 +46,12 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
 Articles:  
 [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article), [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market), [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a)
 
+### **Class: Public Housing**
 
-### **Class # 7** 
+Articles:
+[Slate](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
+
+### **Class ** 
 
 In this class we examine the impact of providing tenants in public housing with the opportunity to move to low-income neighborhoods. Focused on Chetty 2016, we examine the relative impacts of younger and older children across a range of outcome (employment, eduction, marriage, and neighborhood). [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-ebd393/fullscreen)
 
@@ -57,7 +68,7 @@ In this class we examine the impact of providing tenants in public housing with 
 Articles 
 [Baltimore MTO 1995](https://www.nytimes.com/1995/03/28/us/housing-voucher-test-in-maryland-is-scuttled-by-a-political-firestorm.html)
 
-### **Class # 8** 
+### **Class ** 
 In this class we examine potential ways to increase moves to opportunities by varying the Fair Market Rent. Collinson and Ganong (2018) highlight that a finer variation of the FMR improves the neighborhood location of tenant holders relative to simply increasing the FMR uniformly. From a methodological standpoint, the paper provides us with an opportunity to strengthen our ability to interpret results via the residualized framework as it makes use of continuous two stage difference-in-difference regression models. [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-8da302/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -74,7 +85,7 @@ Articles:
 
 
 
-### **Class # 9** 
+### **Class ** 
 We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-bergman-et-al-2023-7ae585/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -87,7 +98,7 @@ We continue to dive deeper into the topic of vouchers and the importance of neig
   </a>
 </div>
 
-### **Class # 10** 
+### **Class ** 
 Sticking with the notion of moving to opportunity, we turn our attention in this class into a deep dive on supply side initiatives with particular attention on the Low-income Housing Tax Credit (LIHTC). We focus on the recent work of Cook et a. (2024) which explores how the demand of low-income housing responds to the spatial location of the unit in ways which potentially make it harder for policy makers to target need. [Slides](https://slides.com/pharringtonp19/presentation-of-cook-et-al-2024/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
