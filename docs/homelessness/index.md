@@ -92,6 +92,18 @@ Articles: [PSH Denver 1](https://www.denverpost.com/2017/10/30/denver-initiative
   </a>
 </div>
 
+### **Elderly**
+[Slides](https://slides.com/pharringtonp19/older-adult-homelessness/fullscreen)
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Benioff Homelessness and Housing Initiative (2024)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://homelessness.ucsf.edu/sites/default/files/2024-05/Older%20Adult%20Homelessness%2005.2024.2.pdf" style="display: block;">
+    <img src="./../assets/images/older_adults.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 ### **Eduction**
 - [Program helping NYC homeless students is out of money in June. Mayor Adams has no plan to fund it.](https://gothamist.com/news/program-helping-nyc-homeless-students-is-out-of-money-in-june-mayor-adams-has-no-plan-to-fund-it)
 

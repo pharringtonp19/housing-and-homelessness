@@ -7,6 +7,9 @@ has_children: false
 ---
 
 ## **June 2024**
+- [Editorial: Lack of housing is pushing more seniors onto the streets. That’s on all of us](https://www.latimes.com/opinion/story/2024-06-24/editorial-more-seniors-are-living-on-the-streets-thats-on-us)
+- [UK’s Housing Crisis Needs a London-Sized City to Fix It](https://www.bloomberg.com/graphics/2024-uk-housing-crisis/?srnd=economics-v2)
+- [Real Estate Bets Gone Wrong Roil $1.24 Trillion Canadian Funds](https://www.bloomberg.com/news/articles/2024-06-24/real-estate-bets-gone-wrong-roil-1-24-trillion-canadian-funds?srnd=homepage-americas)
 - [Just Build the Homes](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
 - [Rising UK Homelessness Keeps Housing in Front of Voters](https://www.bloomberg.com/news/articles/2024-06-19/rising-uk-homelessness-keeps-housing-crunch-in-front-of-voters?srnd=economics-v2)
 - [Rent Hikes Loom, Posing Threat to Inflation Fight](https://www.wsj.com/real-estate/rent-hikes-loom-posing-threat-to-inflation-fight-e6797e39)
