@@ -23,4 +23,4 @@ Articles:
 Multi-family
 
 Articles:
-[Blackstone](https://www.wsj.com/real-estate/blackstone-making-10-billion-multifamily-purchase-going-on-the-real-estate-offensive-f3126928?mod=article_inline)
+[Blackstone](https://www.wsj.com/real-estate/blackstone-making-10-billion-multifamily-purchase-going-on-the-real-estate-offensive-f3126928?mod=article_inline), [KKR](https://www.wsj.com/real-estate/kkr-makes-its-biggest-foray-into-apartments-betting-on-rising-rents-94213297?mod=hp_major_pos1#cxrecs_s)
