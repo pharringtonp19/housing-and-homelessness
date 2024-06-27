@@ -7,6 +7,9 @@ has_children: false
 ---
 
 ## **June 2024**
+- [I Study Homelessness. I Wish More Places Looked Like This Shelter.](https://www.nytimes.com/2024/06/26/opinion/homeless-shelters-solution.html)
+- [Missoula Passes Homeless Encampment Law on Eve of Supreme Court Ruling](https://www.bloomberg.com/news/features/2024-06-20/bogota-water-restrictions-reshape-life-from-homes-to-businesses?srnd=homepage-americas)
+- [Developers Sit on Empty Lots After Historic Apartment Boom](https://www.wsj.com/real-estate/developers-sit-on-empty-lots-after-historic-apartment-boom-1c0e5fe8?mod=series_commercialrealestate)
 - [Editorial: Lack of housing is pushing more seniors onto the streets. That’s on all of us](https://www.latimes.com/opinion/story/2024-06-24/editorial-more-seniors-are-living-on-the-streets-thats-on-us)
 - [UK’s Housing Crisis Needs a London-Sized City to Fix It](https://www.bloomberg.com/graphics/2024-uk-housing-crisis/?srnd=economics-v2)
 - [Real Estate Bets Gone Wrong Roil $1.24 Trillion Canadian Funds](https://www.bloomberg.com/news/articles/2024-06-24/real-estate-bets-gone-wrong-roil-1-24-trillion-canadian-funds?srnd=homepage-americas)
