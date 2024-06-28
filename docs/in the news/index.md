@@ -7,6 +7,9 @@ has_children: false
 ---
 
 ## **June 2024**
+- [Supreme Court Upholds Ban on Sleeping Outdoors in Homelessness Case](https://www.nytimes.com/2024/06/28/us/politics/supreme-court-homelessness.html)
+- [America’s Frozen Housing Market Is Warping the Economy](https://www.wsj.com/economy/housing/americas-frozen-housing-market-is-warping-the-economy-35e4f0e5?mod=hp_lead_pos8)
+- [Supreme Court upsets $10-billion opioid settlement because it shields the Sacklers](https://www.latimes.com/world-nation/story/2024-06-27/supreme-court-opioid-settlement-with-6-billion-from-the-sacklers)
 - [I Study Homelessness. I Wish More Places Looked Like This Shelter.](https://www.nytimes.com/2024/06/26/opinion/homeless-shelters-solution.html)
 - [Missoula Passes Homeless Encampment Law on Eve of Supreme Court Ruling](https://www.bloomberg.com/news/features/2024-06-20/bogota-water-restrictions-reshape-life-from-homes-to-businesses?srnd=homepage-americas)
 - [Developers Sit on Empty Lots After Historic Apartment Boom](https://www.wsj.com/real-estate/developers-sit-on-empty-lots-after-historic-apartment-boom-1c0e5fe8?mod=series_commercialrealestate)
