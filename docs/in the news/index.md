@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **June 2024**
+- [What the SCOTUS Camping Decision Means for Local Homelessness Policy](https://www.bloomberg.com/news/articles/2024-06-28/what-the-supreme-court-encampments-decision-means-for-homeless-people?srnd=homepage-americas)
+- [A Real-Estate Fund Industry Is Bleeding Billions After Starwood Capped Withdrawals](https://www.wsj.com/real-estate/commercial/a-real-estate-fund-industry-is-bleeding-billions-after-starwood-capped-withdrawals-56b7fb9b?mod=hp_lead_pos10)
 - [Supreme Court Upholds Ban on Sleeping Outdoors in Homelessness Case](https://www.nytimes.com/2024/06/28/us/politics/supreme-court-homelessness.html)
 - [America’s Frozen Housing Market Is Warping the Economy](https://www.wsj.com/economy/housing/americas-frozen-housing-market-is-warping-the-economy-35e4f0e5?mod=hp_lead_pos8)
 - [Supreme Court upsets $10-billion opioid settlement because it shields the Sacklers](https://www.latimes.com/world-nation/story/2024-06-27/supreme-court-opioid-settlement-with-6-billion-from-the-sacklers)
