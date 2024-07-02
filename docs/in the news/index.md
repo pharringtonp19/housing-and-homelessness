@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **June 2024**
+- [New York City’s Apartment Shortage Is Set to Get Even Worse](https://www.bloomberg.com/graphics/2024-nyc-apartment-development-housing-shortage/?srnd=homepage-americas)
+- [What the Supreme Court Doesn’t Get About Homelessness](https://www.theatlantic.com/ideas/archive/2024/06/martin-v-boise-supreme-court-ruling-grants-pass-oregon/678834/)
 - [What the SCOTUS Camping Decision Means for Local Homelessness Policy](https://www.bloomberg.com/news/articles/2024-06-28/what-the-supreme-court-encampments-decision-means-for-homeless-people?srnd=homepage-americas)
 - [A Real-Estate Fund Industry Is Bleeding Billions After Starwood Capped Withdrawals](https://www.wsj.com/real-estate/commercial/a-real-estate-fund-industry-is-bleeding-billions-after-starwood-capped-withdrawals-56b7fb9b?mod=hp_lead_pos10)
 - [Supreme Court Upholds Ban on Sleeping Outdoors in Homelessness Case](https://www.nytimes.com/2024/06/28/us/politics/supreme-court-homelessness.html)
