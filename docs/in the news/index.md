@@ -6,7 +6,14 @@ nav_order: 2
 has_children: false
 ---
 
+## **July 2024**
+- [Evictions Surge in Major Cities in the American Sunbelt](https://www.wsj.com/economy/housing/evictions-surge-in-major-cities-in-the-american-sunbelt-7da0406d)
+- [Biden to Require Tenant Protections for Federally Backed Mortgages](https://www.bloomberg.com/news/articles/2024-07-12/fannie-mae-freddie-mac-mortgages-subject-to-new-tenant-protection-rules?srnd=citylab)
+- [The American Elevator Explains Why Housing Costs Have Skyrocketed](https://www.nytimes.com/2024/07/08/opinion/elevator-construction-regulation-labor-immigration.html)
+- [Property Fraud Allegations Snowball as Commercial Real-Estate Values Fall](https://www.wsj.com/real-estate/property-fraud-allegations-snowball-as-commercial-real-estate-values-fall-492d964c?mod=hp_lead_pos6)
+
 ## **June 2024**
+- [Home Affordability in the US Sinks to Lowest Point Since 2007](https://www.bloomberg.com/news/articles/2024-07-03/home-affordability-in-the-us-sinks-to-lowest-point-since-2007?srnd=homepage-americas)
 - [New York City’s Apartment Shortage Is Set to Get Even Worse](https://www.bloomberg.com/graphics/2024-nyc-apartment-development-housing-shortage/?srnd=homepage-americas)
 - [What the Supreme Court Doesn’t Get About Homelessness](https://www.theatlantic.com/ideas/archive/2024/06/martin-v-boise-supreme-court-ruling-grants-pass-oregon/678834/)
 - [What the SCOTUS Camping Decision Means for Local Homelessness Policy](https://www.bloomberg.com/news/articles/2024-06-28/what-the-supreme-court-encampments-decision-means-for-homeless-people?srnd=homepage-americas)
@@ -84,6 +91,7 @@ has_children: false
 - [In Pricey Silicon Valley, a Plan to Preempt Homelessness](https://www.bloomberg.com/news/features/2024-03-19/san-jose-finds-that-funding-to-prevent-homelessness-can-pay-off?cmpid=BBD032424_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240324&utm_campaign=citylabdaily)
 - [With No Easy Solutions To Get More Family-Sized Housing Built In LA, Is Public Housing An Option?](https://laist.com/news/housing-homelessness/los-angeles-family-sized-housing-policy-three-two-bedroom-apartments-incentives-boyle-heights-rent-overcrowding)
 - [Why Private Developers Are Rejecting Government Money for Affordable Housing](https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=panda_wsj_author_alert)
+- [NYCB and Meridian Rode the Property Boom Together. Now They’re Struggling.](https://www.wsj.com/finance/banking/nycb-meridian-trouble-commercial-real-estate-86ae7a34?mod=article_inline)
 - [NYC’s $264 Billion Pensions Fail to Invest More in Affordable Housing](https://www.bloomberg.com/news/articles/2024-03-14/nyc-s-264-billion-pensions-fail-to-invest-more-in-affordable-housing?srnd=homepage-americas)
 - [Boston Risks Losing Young Residents Amid Housing, Transport Woes](https://www.bloomberg.com/news/articles/2024-03-12/boston-risks-losing-young-residents-amid-housing-transport-woes?cmpid=BBD031224_CITYLAB&utm_medium=email&utm_source=newsletter&utm_term=240312&utm_campaign=citylabdaily)
 - [It’s time to rethink the FDIC approach to bank rescues](https://www.ft.com/content/e1ce2ba6-89e3-4132-8061-02120cf8165d)
