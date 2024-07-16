@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **July 2024**
+- [Four Decades to Build 70,000 Affordable Homes? Count That as a Success.](https://www.nytimes.com/2024/07/13/headway/mount-laurel-nj-affordable-housing.html)
+- [The US Housing Crisis Is Really About Low-Wage Jobs](https://www.bloomberg.com/opinion/articles/2024-07-09/us-housing-crisis-is-also-an-income-crisis?srnd=undefined)
 - [The Housing Market Will Tell the Fed How Much to Cut Rates](https://www.bloomberg.com/opinion/articles/2024-07-16/how-much-the-fed-cuts-interest-rates-will-depend-on-housing-market?srnd=homepage-americas)
 - [Insurers Tied to Apollo, KKR Buy Mortgages Outright in New Twist](https://www.bloomberg.com/news/articles/2024-07-16/insurers-tied-to-apollo-kkr-buy-mortgages-outright-in-new-twist?srnd=homepage-americas)
 - [Evictions Surge in Major Cities in the American Sunbelt](https://www.wsj.com/economy/housing/evictions-surge-in-major-cities-in-the-american-sunbelt-7da0406d)
