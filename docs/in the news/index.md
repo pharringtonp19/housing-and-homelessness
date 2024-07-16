@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **July 2024**
+- [The Housing Market Will Tell the Fed How Much to Cut Rates](https://www.bloomberg.com/opinion/articles/2024-07-16/how-much-the-fed-cuts-interest-rates-will-depend-on-housing-market?srnd=homepage-americas)
+- [Insurers Tied to Apollo, KKR Buy Mortgages Outright in New Twist](https://www.bloomberg.com/news/articles/2024-07-16/insurers-tied-to-apollo-kkr-buy-mortgages-outright-in-new-twist?srnd=homepage-americas)
 - [Evictions Surge in Major Cities in the American Sunbelt](https://www.wsj.com/economy/housing/evictions-surge-in-major-cities-in-the-american-sunbelt-7da0406d)
 - [Biden to Require Tenant Protections for Federally Backed Mortgages](https://www.bloomberg.com/news/articles/2024-07-12/fannie-mae-freddie-mac-mortgages-subject-to-new-tenant-protection-rules?srnd=citylab)
 - [The American Elevator Explains Why Housing Costs Have Skyrocketed](https://www.nytimes.com/2024/07/08/opinion/elevator-construction-regulation-labor-immigration.html)
