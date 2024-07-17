@@ -7,6 +7,9 @@ has_children: false
 ---
 
 ## **July 2024**
+- [Real-Estate Meltdown Strains Even the Safest Office Bonds](https://www.wsj.com/finance/investing/commercial-real-estate-mortgage-bond-defaults-eaa258bc)
+- [Biden’s Rent Control Plan Will Make the Housing Crisis Worse](https://www.bloomberg.com/opinion/articles/2024-07-17/biden-rent-control-plan-will-make-the-housing-crisis-worse?srnd=opinion)
+- [Investors Keep Faith in America’s ‘Apartment King,’ Even in Tough Times](https://www.wsj.com/real-estate/investors-apartments-syndicates-sumrok-f77c8f5c?mod=hp_lead_pos7)
 - [Four Decades to Build 70,000 Affordable Homes? Count That as a Success.](https://www.nytimes.com/2024/07/13/headway/mount-laurel-nj-affordable-housing.html)
 - [The US Housing Crisis Is Really About Low-Wage Jobs](https://www.bloomberg.com/opinion/articles/2024-07-09/us-housing-crisis-is-also-an-income-crisis?srnd=undefined)
 - [The Housing Market Will Tell the Fed How Much to Cut Rates](https://www.bloomberg.com/opinion/articles/2024-07-16/how-much-the-fed-cuts-interest-rates-will-depend-on-housing-market?srnd=homepage-americas)
