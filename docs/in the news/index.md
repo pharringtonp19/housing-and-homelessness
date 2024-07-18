@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **July 2024**
+- [A Guggenheim Executive’s Big Plan to Build Millions of New Homes](https://www.bloomberg.com/news/articles/2024-07-18/how-fannie-and-freddie-could-help-build-more-homes-in-us?srnd=homepage-americas)
 - [Real-Estate Meltdown Strains Even the Safest Office Bonds](https://www.wsj.com/finance/investing/commercial-real-estate-mortgage-bond-defaults-eaa258bc)
 - [Biden’s Rent Control Plan Will Make the Housing Crisis Worse](https://www.bloomberg.com/opinion/articles/2024-07-17/biden-rent-control-plan-will-make-the-housing-crisis-worse?srnd=opinion)
 - [Investors Keep Faith in America’s ‘Apartment King,’ Even in Tough Times](https://www.wsj.com/real-estate/investors-apartments-syndicates-sumrok-f77c8f5c?mod=hp_lead_pos7)
@@ -20,6 +21,7 @@ has_children: false
 - [Property Fraud Allegations Snowball as Commercial Real-Estate Values Fall](https://www.wsj.com/real-estate/property-fraud-allegations-snowball-as-commercial-real-estate-values-fall-492d964c?mod=hp_lead_pos6)
 
 ## **June 2024**
+- [How an American Dream of Housing Became a Reality in Sweden](https://www.nytimes.com/2024/06/08/headway/how-an-american-dream-of-housing-became-a-reality-in-sweden.html?smid=tw-share)
 - [Home Affordability in the US Sinks to Lowest Point Since 2007](https://www.bloomberg.com/news/articles/2024-07-03/home-affordability-in-the-us-sinks-to-lowest-point-since-2007?srnd=homepage-americas)
 - [New York City’s Apartment Shortage Is Set to Get Even Worse](https://www.bloomberg.com/graphics/2024-nyc-apartment-development-housing-shortage/?srnd=homepage-americas)
 - [What the Supreme Court Doesn’t Get About Homelessness](https://www.theatlantic.com/ideas/archive/2024/06/martin-v-boise-supreme-court-ruling-grants-pass-oregon/678834/)
