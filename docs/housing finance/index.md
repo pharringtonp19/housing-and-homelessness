@@ -15,7 +15,7 @@ Articles:
 Real Estate Development
 
 Articles:
-[Blackstone](https://www.wsj.com/real-estate/blackstone-making-10-billion-multifamily-purchase-going-on-the-real-estate-offensive-f3126928?mod=article_inline)
+[Blackstone](https://www.wsj.com/real-estate/blackstone-making-10-billion-multifamily-purchase-going-on-the-real-estate-offensive-f3126928?mod=article_inline), [Making It Pencil](https://ternercenter.berkeley.edu/wp-content/uploads/2023/12/Development-Math-2023.pdf)
 
 
 ### **Class**

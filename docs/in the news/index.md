@@ -7,6 +7,9 @@ has_children: false
 ---
 
 ## **July 2024**
+- [Frustrated Californians May Be Ready for a Tougher Approach to Crime](https://www.nytimes.com/2024/07/23/us/california-crime-punishment-jail.html)
+- [California Cities Rethink Homelessness Tactics After Supreme Court Ruling](https://www.bloomberg.com/news/articles/2024-07-22/california-cities-rethink-homelessness-tactics-after-supreme-court-ruling?srnd=homepage-americas)
+- [A New York City Pension Makes Renters’ Rights an Investment Priority](https://www.wsj.com/articles/a-new-york-city-pension-makes-renters-rights-an-investment-priority-26534abd?mod=hp_minor_pos16)
 - [A Guggenheim Executive’s Big Plan to Build Millions of New Homes](https://www.bloomberg.com/news/articles/2024-07-18/how-fannie-and-freddie-could-help-build-more-homes-in-us?srnd=homepage-americas)
 - [Real-Estate Meltdown Strains Even the Safest Office Bonds](https://www.wsj.com/finance/investing/commercial-real-estate-mortgage-bond-defaults-eaa258bc)
 - [Biden’s Rent Control Plan Will Make the Housing Crisis Worse](https://www.bloomberg.com/opinion/articles/2024-07-17/biden-rent-control-plan-will-make-the-housing-crisis-worse?srnd=opinion)

@@ -47,6 +47,9 @@ Focusing on Santa Clara Californai, Flaming et al. (2015) shows that for those e
   </a>
 </div>
 
+Articles: 
+[Calfifornia's Audit](https://information.auditor.ca.gov/reports/2023-102.1/index.html)
+
 ### **Permanent Supportive Housing**
 We focus on work concerning Housing First. Using survival analysis techniques, Tsemeberis and Eisenberg (2000) illustrate that a Housing First approach improves housing stability relative to a linear contiuum of care.[^1] Tsemberis et al. (2004) is a helpful read in that it highlights some of the challenges of conducting empirical work in this setting - the need to oversample the control group in the design of the randomized control trial because they are expected to be more likely to remain homeless and therefore more difficult to track - interpreting reported alcohol and drug use. 
 
