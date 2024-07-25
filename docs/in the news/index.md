@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **July 2024**
+- [What Gives Poor Kids a Shot at Better Lives? Economists Find an Unexpected Answer](https://www.wsj.com/economy/economic-mobility-research-community-employment-3eeef1c3?mod=Searchresults_pos1&page=1)
 - [Frustrated Californians May Be Ready for a Tougher Approach to Crime](https://www.nytimes.com/2024/07/23/us/california-crime-punishment-jail.html)
 - [California Cities Rethink Homelessness Tactics After Supreme Court Ruling](https://www.bloomberg.com/news/articles/2024-07-22/california-cities-rethink-homelessness-tactics-after-supreme-court-ruling?srnd=homepage-americas)
 - [A New York City Pension Makes Renters’ Rights an Investment Priority](https://www.wsj.com/articles/a-new-york-city-pension-makes-renters-rights-an-investment-priority-26534abd?mod=hp_minor_pos16)
