@@ -7,6 +7,10 @@ has_children: false
 ---
 
 ## **July 2024**
+- [A Huge Wager on Office Buildings Is Going From Bad to Worse](https://www.bloomberg.com/news/articles/2023-12-20/in-south-korea-a-giant-bet-on-overseas-office-blocks-is-going-from-bad-to-worse)
+- [An Unfinished Skyscraper Complex Covered With Graffiti Finds a Lifeline](https://www.wsj.com/real-estate/luxury-homes/an-unfinished-skyscraper-complex-covered-with-graffiti-finds-a-lifeline-13e68932?mod=series_commercialrealestate)
+- [Surge in Commercial-Property Foreclosures Suggests Bottom Is Near](https://www.wsj.com/real-estate/commercial/surge-in-commercial-property-foreclosures-suggests-bottom-is-near-247bb689?mod=hp_lead_pos6)
+- [Miami Plans to Borrow $243 Million for Troubled Office Building](https://www.bloomberg.com/news/articles/2024-07-29/miami-plans-to-borrow-243-million-for-troubled-office-building?srnd=homepage-americas)
 - [What Gives Poor Kids a Shot at Better Lives? Economists Find an Unexpected Answer](https://www.wsj.com/economy/economic-mobility-research-community-employment-3eeef1c3?mod=Searchresults_pos1&page=1)
 - [Frustrated Californians May Be Ready for a Tougher Approach to Crime](https://www.nytimes.com/2024/07/23/us/california-crime-punishment-jail.html)
 - [California Cities Rethink Homelessness Tactics After Supreme Court Ruling](https://www.bloomberg.com/news/articles/2024-07-22/california-cities-rethink-homelessness-tactics-after-supreme-court-ruling?srnd=homepage-americas)
