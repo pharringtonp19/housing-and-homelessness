@@ -6,7 +6,18 @@ nav_order: 2
 has_children: false
 ---
 
+## **Who to Read**
+- [RAND Center on Housing and Homelessness](https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness.html)
+- [CityLab](https://www.bloomberg.com/citylab)
+
+## **August**
+- [Wisconsin Voters Seethe Over Out-of-Control Housing Prices](https://www.wsj.com/politics/elections/wisconsin-2024-election-housing-costs-5f502aa2?mod=lifestyle_whatsnews_pos5)
+- [San Francisco Pushes Homeless People to Leave Town as Crackdown Begins](https://www.bloomberg.com/news/articles/2024-08-02/san-francisco-cracks-down-on-homeless-offers-bus-and-plane-tickets-to-leave?srnd=homepage-americas)
+
 ## **July 2024**
+- [For Decades, Mississippi Locked Up the Mentally Ill. It’s Trying Something Different.](https://www.wsj.com/health/healthcare/mental-health-treatment-mississippi-7386bda1?mod=Searchresults_pos1&page=1)
+- [Homeless encampment cleanups do little to change numbers of people on the street, study finds](https://www.latimes.com/california/story/2024-07-24/as-academia-digs-deep-into-homelessness-the-findings-are-grim-but-with-signs-of-hope)
+- [BlackRock Leads Big Firms Racing to Put Private Assets Into ETFs](https://www.bloomberg.com/news/articles/2024-07-31/blackrock-leads-big-firms-racing-to-put-private-assets-into-etfs?srnd=homepage-americas)
 - [A Huge Wager on Office Buildings Is Going From Bad to Worse](https://www.bloomberg.com/news/articles/2023-12-20/in-south-korea-a-giant-bet-on-overseas-office-blocks-is-going-from-bad-to-worse)
 - [An Unfinished Skyscraper Complex Covered With Graffiti Finds a Lifeline](https://www.wsj.com/real-estate/luxury-homes/an-unfinished-skyscraper-complex-covered-with-graffiti-finds-a-lifeline-13e68932?mod=series_commercialrealestate)
 - [Surge in Commercial-Property Foreclosures Suggests Bottom Is Near](https://www.wsj.com/real-estate/commercial/surge-in-commercial-property-foreclosures-suggests-bottom-is-near-247bb689?mod=hp_lead_pos6)
