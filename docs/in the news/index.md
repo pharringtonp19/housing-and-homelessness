@@ -10,7 +10,10 @@ has_children: false
 - [RAND Center on Housing and Homelessness](https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness.html)
 - [CityLab](https://www.bloomberg.com/citylab)
 
-## **August**
+## **August 2024**
+- [Fannie, Freddie Are Poised to Tighten Real-Estate Lending Rules](https://www.wsj.com/real-estate/fannie-mae-freddie-mac-commercial-property-lenders-brokers-rules-116907c2)
+- [Are Banks Sweeping Dud Property Loans Under the Rug?](https://www.wsj.com/finance/are-banks-sweeping-dud-property-loans-under-the-rug-61fd7029?mod=lead_feature_below_a_pos1)
+- [Mortgage Bonds Lag Treasuries as Uncertainty About Rates Surges](https://www.bloomberg.com/news/articles/2024-08-05/mortgage-bonds-lag-treasuries-as-uncertainty-about-rates-surges)
 - [Wisconsin Voters Seethe Over Out-of-Control Housing Prices](https://www.wsj.com/politics/elections/wisconsin-2024-election-housing-costs-5f502aa2?mod=lifestyle_whatsnews_pos5)
 - [San Francisco Pushes Homeless People to Leave Town as Crackdown Begins](https://www.bloomberg.com/news/articles/2024-08-02/san-francisco-cracks-down-on-homeless-offers-bus-and-plane-tickets-to-leave?srnd=homepage-americas)
 
@@ -144,19 +147,3 @@ Rising construction, other costs mean developers are adding more units to be pro
 - [The housing ladder, 1950-2005](https://www.economist.com/britain/2024/01/11/the-housing-ladder-1950-2005)
 - [Rent Comes Down for the Wealthy, While Rising for the Rest](https://www.wsj.com/real-estate/rent-prices-luxury-housing-e02acdaf)
 - [NYC’s public housing agency seeking ‘restitution’ in corruption scheme](https://gothamist.com/news/nyc-council-to-hold-oversight-hearing-corruption-case-into-public-housing)
-
-# **2023**
-- [One Nassau County Has a Housing Crisis, the Other Nassau County Has a Solution
-](https://www.bloomberg.com/news/features/2023-08-15/nassau-county-in-new-york-and-florida-show-importance-of-housing-costs?itm_source=record&itm_campaign=US_Housing_Crisis&itm_content=One_County%27s_Fix-5)
-
-# **2020**
-
-- [Governments are rethinking the provision of public housing](https://www.economist.com/special-report/2020/01/16/governments-are-rethinking-the-provision-of-public-housing?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=CjwKCAiA_5WvBhBAEiwAZtCU75nCwPIg76Vy91F9oY9Jo9uQxVqIlmlNqlZbcEkRdQcRO33ZDQBnbxoCRVoQAvD_BwE&gclsrc=aw.ds)
-
-# **2019**
-
-- [NYC Tenants Get a Rent-Law Blessing That Landlords See as Curse](https://www.bloomberg.com/news/articles/2019-06-12/nyc-tenants-get-a-rent-law-blessing-that-landlords-see-as-curse)
-
-# **2003**
-- [S&P Says It Won't Rate Some Georgia Mortgages](https://www.wsj.com/articles/SB1043031200188729224)
-- [Ratings Agencies Not Alarmed by New York Laws](https://www.nytimes.com/2003/02/14/business/ratings-agencies-not-alarmed-by-new-york-laws.html)
