@@ -9,8 +9,10 @@ has_children: false
 ## **Who to Read**
 - [RAND Center on Housing and Homelessness](https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness.html)
 - [CityLab](https://www.bloomberg.com/citylab)
+- [Heather Knight (NYTimes)](https://www.nytimes.com/by/heather-knight#featured)
 
 ## **August 2024**
+- [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
 - [Fannie, Freddie Are Poised to Tighten Real-Estate Lending Rules](https://www.wsj.com/real-estate/fannie-mae-freddie-mac-commercial-property-lenders-brokers-rules-116907c2)
 - [Are Banks Sweeping Dud Property Loans Under the Rug?](https://www.wsj.com/finance/are-banks-sweeping-dud-property-loans-under-the-rug-61fd7029?mod=lead_feature_below_a_pos1)
 - [Mortgage Bonds Lag Treasuries as Uncertainty About Rates Surges](https://www.bloomberg.com/news/articles/2024-08-05/mortgage-bonds-lag-treasuries-as-uncertainty-about-rates-surges)
