@@ -12,6 +12,8 @@ has_children: false
 - [Heather Knight (NYTimes)](https://www.nytimes.com/by/heather-knight#featured)
 
 ## **August 2024**
+- [In Louisville, a Tenants Union Stares Down the Housing Crisis](https://www.nytimes.com/2024/08/06/opinion/housing-louisville-tenants-union.html)
+- [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
 - [Fannie, Freddie Are Poised to Tighten Real-Estate Lending Rules](https://www.wsj.com/real-estate/fannie-mae-freddie-mac-commercial-property-lenders-brokers-rules-116907c2)
 - [Are Banks Sweeping Dud Property Loans Under the Rug?](https://www.wsj.com/finance/are-banks-sweeping-dud-property-loans-under-the-rug-61fd7029?mod=lead_feature_below_a_pos1)
