@@ -12,6 +12,10 @@ has_children: false
 - [Heather Knight (NYTimes)](https://www.nytimes.com/by/heather-knight#featured)
 
 ## **August 2024**
+- [Decline in Veterans’ Homelessness Spurs Hopes for a Broader Solution](https://www.nytimes.com/2024/08/06/us/politics/decline-veterans-homelessness.html#:~:text=a%20Broader%20Solution-,Decline%20in%20Veterans'%20Homelessness%20Spurs%20Hopes%20for%20a%20Broader%20Solution,on%20a%20seemingly%20intractable%20problem.&text=Jason%20DeParle%2C%20who%20writes%20about%20poverty%2C%20reported%20from%20Los%20Angeles.)
+- [The Fentanyl Trade Is Killing Americans. We Have the Means to Combat It.](https://www.nytimes.com/2024/08/07/opinion/fentanyl-trade-opioid-crisis.html)
+- [Federal Home Loan Banks Face Amped-Up Pressure From Biden Administration, Senators](https://www.bloomberg.com/news/articles/2024-08-06/fhlbs-face-amped-up-pressure-from-biden-administration-senators?srnd=homepage-americas)
+- [UK Construction Output Jumps the Most in Two Years, S&P Says](https://www.bloomberg.com/news/articles/2024-08-06/uk-construction-output-jumps-the-most-in-two-years-s-p-says?srnd=homepage-americas)
 - [In Louisville, a Tenants Union Stares Down the Housing Crisis](https://www.nytimes.com/2024/08/06/opinion/housing-louisville-tenants-union.html)
 - [The Zombie Pharmacies That Are Holding Back New York City Retail](https://www.nytimes.com/2024/08/06/nyregion/pharmacies-vacant-drugstores-retail.html)
 - [San Francisco Takes Harder Line Against Homeless Camps, Defying Its Reputation](https://www.nytimes.com/2024/08/03/us/san-francisco-homeless-london-breed.html)
