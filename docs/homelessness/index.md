@@ -5,7 +5,7 @@ permalink: /homelessness/
 nav_order: 7
 ---
 
-### **Class 18-19**
+### **Rough Sleepers**
 
 Over two classes, we read Tracy Kidder's "RoughSleepers" which captures the work (and relationships) of Dr. Jim and and the Street Team crew among Boston's unsheltered homeless population.
 
@@ -60,6 +60,13 @@ Focusing on Santa Clara Californai, Flaming et al. (2015) shows that for those e
 
 Articles: 
 [Calfifornia's Audit](https://information.auditor.ca.gov/reports/2023-102.1/index.html)
+
+### **Interm Supportive Housing**
+- [J-PAL Study](https://www.povertyactionlab.org/initiative-project/tiny-homes-interim-supportive-housing-take-study)
+
+### **Intensive Homeless Prevention**
+- [J-PAL Study](https://www.povertyactionlab.org/initiative-project/impact-evaluation-intensive-homelessness-prevention-0)
+
 
 ### **Permanent Supportive Housing**
 We focus on work concerning Housing First. Using survival analysis techniques, Tsemeberis and Eisenberg (2000) illustrate that a Housing First approach improves housing stability relative to a linear contiuum of care.[^1] Tsemberis et al. (2004) is a helpful read in that it highlights some of the challenges of conducting empirical work in this setting - the need to oversample the control group in the design of the randomized control trial because they are expected to be more likely to remain homeless and therefore more difficult to track - interpreting reported alcohol and drug use. 
