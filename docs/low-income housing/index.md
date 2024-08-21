@@ -88,32 +88,34 @@ Articles
 
 In this class we examine potential ways to two ways to increase moves to opportunities. The first is Fair Market Rents. Collinson and Ganong (2018) highlight that a finer variation of the FMR improves the neighborhood location of tenant holders relative to simply increasing the FMR uniformly. From a methodological standpoint, the paper provides us with an opportunity to strengthen our ability to interpret results via the residualized framework as it makes use of continuous two stage difference-in-difference regression models. [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-8da302/fullscreen). We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-bergman-et-al-2023-7ae585/fullscreen)
 
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Collinson and Ganong (2018)</div>
+<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
   
-  <!-- PNG Image -->
-  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
-    <img src="./../assets/images/collinson2018.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
+  <!-- First PDF and its title -->
+  <div style="width: 49%; border-right: 2px solid gray;">
+    <div style="text-align: center; font-weight: bold;">Collinson and Ganong (2018)</div>
+    <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
+      <img src="./../assets/images/collinson2018.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- Optional spacer for a more distinct line -->
+  <div style="width: 2%;"></div>
+
+  <!-- Second PDF and its title -->
+  <div style="width: 49%;">
+    <div style="text-align: center; font-weight: bold;">Bergman et al. (2023) </div>
+    <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
+      <img src="./../assets/images/cmto_paper.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
 </div>
-Articles:  
-[5 Year Time Limits](https://www.wsj.com/articles/SB10001424127887323820304578410382522144560), [Time Limits](https://www.wsj.com/articles/time-limits-for-public-housing-get-boost-1437522257), [New Public Housing](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 
+Writings:  
+- [5 Year Time Limits](https://www.wsj.com/articles/SB10001424127887323820304578410382522144560)
+- [Time Limits](https://www.wsj.com/articles/time-limits-for-public-housing-get-boost-1437522257)
+- [New Public Housing](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 
-
-### **Housing Navigators** 
-
-
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Bergman et al. (2023) </div>
-  
-  <!-- PNG Image -->
-  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20150572" style="display: block;">
-    <img src="./../assets/images/cmto_paper.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
 
 ### **Affordable Housing Development**
 

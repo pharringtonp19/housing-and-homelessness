@@ -5,7 +5,7 @@ permalink: /housing-insecurity/
 nav_order: 6
 ---
 
-### **An Ethnography on Housing Instability**
+### **Housing Instability**
 In this class, we focus on stories of the private rental market which caters to low-income individuals. Desmond's account portrays the daily challenges that tenants face in securing and mainting housing. It's a raw portrayal of the factors which contribute to insecure housing.
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -32,6 +32,7 @@ In this class, we examine the costs of foreclosure to homeowners, landlords and 
 </div>
 
 Writings:
+  - [Real Estate Finance & Investments: Chapter 2](https://www.mheducation.com/highered/product/real-estate-finance-investments-brueggeman-fisher/M9781260734300.html)
   - [How Are They Now? A Checkup on Homeowners Who Experienced Foreclosure](https://libertystreeteconomics.newyorkfed.org/2024/05/how-are-they-now-a-checkup-on-homeowners-who-experienced-foreclosure/), 
   - [The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
 
