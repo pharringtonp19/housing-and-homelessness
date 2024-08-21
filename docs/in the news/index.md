@@ -6,11 +6,6 @@ nav_order: 2
 has_children: false
 ---
 
-## **Who to Read**
-- [RAND Center on Housing and Homelessness](https://www.rand.org/well-being/community-health-and-environmental-policy/centers/housing-and-homelessness.html)
-- [CityLab](https://www.bloomberg.com/citylab)
-- [Heather Knight (NYTimes)](https://www.nytimes.com/by/heather-knight#featured)
-
 ## **August 2024**
 - [Harris to Call for Expanded Child Tax Credit, 3 Million New Housing Units](https://www.wsj.com/politics/elections/kamala-harris-policy-agenda-election-2024-9e057b83?mod=hp_lead_pos1)
 - [Decline in Veterans’ Homelessness Spurs Hopes for a Broader Solution](https://www.nytimes.com/2024/08/06/us/politics/decline-veterans-homelessness.html#:~:text=a%20Broader%20Solution-,Decline%20in%20Veterans'%20Homelessness%20Spurs%20Hopes%20for%20a%20Broader%20Solution,on%20a%20seemingly%20intractable%20problem.&text=Jason%20DeParle%2C%20who%20writes%20about%20poverty%2C%20reported%20from%20Los%20Angeles.)

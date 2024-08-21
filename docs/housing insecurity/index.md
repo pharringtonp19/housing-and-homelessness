@@ -31,8 +31,9 @@ In this class, we examine the costs of foreclosure to homeowners, landlords and 
   </a>
 </div>
 
-Articles:  
-[The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
+Writings:
+  - [How Are They Now? A Checkup on Homeowners Who Experienced Foreclosure](https://libertystreeteconomics.newyorkfed.org/2024/05/how-are-they-now-a-checkup-on-homeowners-who-experienced-foreclosure/), 
+  - [The Great American Foreclosure Story: The Struggle for Justice and a Place to Call Home](https://www.propublica.org/article/the-great-american-foreclosure-story-the-struggle-for-justice-and-a-place-t)
 
 ### **Evictions**
 In this class, we discuss the negative impacts the eviction has both on housing instability and employment. We discuss the challenges of assessing the costs of eviction, from working with Judge-IV, to data linking issues, to non-count outcomes which may be quite similar to evictions. [Slides](https://slides.com/pharringtonp19/presentation-of-collinson-et-al-2023/fullscreen)
@@ -52,7 +53,7 @@ Articles:
 ### **Natural Disasters**
 [Bloomberg](https://www.bloomberg.com/news/articles/2024-08-16/maui-wildfires-show-climate-disasters-are-an-affordable-housing-problem?srnd=homepage-americas), [ProPublica](https://www.propublica.org/article/maui-wildifre-evictions-fema)
 
-### **Class # 15**
+### **Case Management**
 In this class, we consider the challenge of carrying out randomized control trials involving tenants who face housing insecurity. We explore the challenges that arise in Phillips and Sullivan (2022) who examine the impact of providing tenants with case management services. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-2022/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
@@ -65,7 +66,7 @@ In this class, we consider the challenge of carrying out randomized control tria
   </a>
 </div>
 
-### **Class # 16**
+### **Financial Assistance**
 In this class, we examine the relative impacts of financial assistance. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-et-al-2023/fullscreen)
 
 
@@ -91,6 +92,7 @@ In this class, we examine the relative impacts of financial assistance. [Slides]
   </div>
 
 </div>
+
 
 
 

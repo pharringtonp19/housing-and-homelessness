@@ -17,3 +17,16 @@ has_children: false
 
 ### **Informal Housing**
 - [Basic Income Grants to Reduce Homelessness in Los Angeles](https://hpri.usc.edu/wp-content/uploads/2024/04/Basic-Income-Grants-to-Reduce-Homelessness-in-Los-Angeles_draft.pdf)
+
+
+### **Family Structure**
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://press.uchicago.edu/ucp/books/book/chicago/T/bo205550079.html" style="display: block;">
+    <img src="./../assets/images/two_fam.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+

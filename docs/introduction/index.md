@@ -5,7 +5,7 @@ permalink: /introduction/
 nav_order: 3
 ---
 
-### **Stories about Navigating Homelessness**
+### **Navigating Homelessness**
 
 We begin the semester by discussing two pieces from the New Yorker that capture the day-to-day challenges of those experiencing homelessness as well as the providers who work with them. These stories capture a number of issues that we'll discuss further in the semester such as mental health, substance abuse, financial costs and supportive services. A common refrain is that homelessness is a housing problem. These stories though show that homelessness is a culmination of a number of issues and perhaps none more important than strong and healthy relationships. [Slides](https://slides.com/pharringtonp19/hh_introduction/fullscreen)
 
@@ -27,7 +27,7 @@ For Economic literature review papers on Homelessness please see [Evans et al. (
 ### **The Fundamentals of Housing**
 [Slides](https://slides.com/pharringtonp19/fundamentals-of-housing/fullscreen)
 
-Writings: [Jackson (1985): Ch 11](https://www.csun.edu/~rdavids/350fall08/350readings/Jackson_Federal_Subsidy_and_Suburban_Dream.pdf), [Glaeser and Gyourko (2008)](https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf), [Collinson et al. (2015)](https://www.nber.org/system/files/working_papers/w21071/w21071.pdf), [Quigley and Raphael (2004)](https://www.aeaweb.org/articles?id=10.1257/089533004773563494)
+Writings: [Jackson (1985): Ch 11](https://en.wikipedia.org/wiki/Crabgrass_Frontier), [Glaeser and Gyourko (2008)](https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf), [Collinson et al. (2015)](https://www.nber.org/system/files/working_papers/w21071/w21071.pdf), [Quigley and Raphael (2004)](https://www.aeaweb.org/articles?id=10.1257/089533004773563494)
 
 
 

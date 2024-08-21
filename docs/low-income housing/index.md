@@ -55,6 +55,7 @@ Articles:
 [Slate](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
 
 ### **Discrimination** 
+[Slides](https://slides.com/pharringtonp19/waiting-for-gautreaux/fullscreen)
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -66,7 +67,7 @@ Articles:
 </div>
 
 
-### **Neighborhoods** 
+### **Housing Choice Vouchers** 
 
 In this class we examine the impact of providing tenants in public housing with the opportunity to move to low-income neighborhoods. Focused on Chetty 2016, we examine the relative impacts of younger and older children across a range of outcome (employment, eduction, marriage, and neighborhood). [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-ebd393/fullscreen)
 
@@ -83,8 +84,9 @@ In this class we examine the impact of providing tenants in public housing with 
 Articles 
 [Baltimore MTO 1995](https://www.nytimes.com/1995/03/28/us/housing-voucher-test-in-maryland-is-scuttled-by-a-political-firestorm.html)
 
-### **Fair Market Rental Vouchers** 
-In this class we examine potential ways to increase moves to opportunities by varying the Fair Market Rent. Collinson and Ganong (2018) highlight that a finer variation of the FMR improves the neighborhood location of tenant holders relative to simply increasing the FMR uniformly. From a methodological standpoint, the paper provides us with an opportunity to strengthen our ability to interpret results via the residualized framework as it makes use of continuous two stage difference-in-difference regression models. [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-8da302/fullscreen)
+### **Improvements to Housing Choice Vouchers**
+
+In this class we examine potential ways to two ways to increase moves to opportunities. The first is Fair Market Rents. Collinson and Ganong (2018) highlight that a finer variation of the FMR improves the neighborhood location of tenant holders relative to simply increasing the FMR uniformly. From a methodological standpoint, the paper provides us with an opportunity to strengthen our ability to interpret results via the residualized framework as it makes use of continuous two stage difference-in-difference regression models. [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-8da302/fullscreen). We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-bergman-et-al-2023-7ae585/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -101,7 +103,7 @@ Articles:
 
 
 ### **Housing Navigators** 
-We continue to dive deeper into the topic of vouchers and the importance of neighborhoods by discussing the work on "Creating Moves to Opportunity". In contrast to prior work covered in class, the paper is a nice illustration of the clear insight one can produce with experimental work which tests for various mechanisms. The second half of the paper is particularly enjoyable to read as the authors depict the various ways in which Housing Navigator made a difference, drawing on anecdotal testimony from tenants. [Slides](https://slides.com/pharringtonp19/presentation-of-bergman-et-al-2023-7ae585/fullscreen)
+
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -112,6 +114,33 @@ We continue to dive deeper into the topic of vouchers and the importance of neig
     <img src="./../assets/images/cmto_paper.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+### **Affordable Housing Development**
+
+
+<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
+  
+  <!-- First PDF and its title -->
+  <div style="width: 49%; border-right: 2px solid gray;">
+    <div style="text-align: center; font-weight: bold;">Soltas (2022)</div>
+    <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
+      <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- Optional spacer for a more distinct line -->
+  <div style="width: 2%;"></div>
+
+  <!-- Second PDF and its title -->
+  <div style="width: 49%;">
+    <div style="text-align: center; font-weight: bold;">Sportiche (2023)</div>
+    <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
+      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+</div>
+
 
 ### **Low-Income Housing Tax Credit** 
 Sticking with the notion of moving to opportunity, we turn our attention in this class into a deep dive on supply side initiatives with particular attention on the Low-income Housing Tax Credit (LIHTC). We focus on the recent work of Cook et a. (2024) which explores how the demand of low-income housing responds to the spatial location of the unit in ways which potentially make it harder for policy makers to target need. [Slides](https://slides.com/pharringtonp19/presentation-of-cook-et-al-2024/fullscreen)
