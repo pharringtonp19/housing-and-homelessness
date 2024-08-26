@@ -156,3 +156,8 @@ Sticking with the notion of moving to opportunity, we turn our attention in this
     <img src="./../assets/images/Cook_JMP.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+### **<span style="color:#6A5ACD;">Case Study:</span> Habitat for Humanity (New Orleans)**
+Writings:  
+- [Habitat for Humanity Helped Them Get Homes. An Insurance Crisis May Take Them Away.](https://www.nytimes.com/2024/08/09/us/new-orleans-habitat-for-humanity-insurance.html)
+- [Soaring Insurance Costs Could ‘End’ Affordable Housing, Developers Warn](https://www.nytimes.com/2024/08/25/business/home-insurance-costs-affordable-housing.html)
