@@ -94,7 +94,18 @@ In this class, we examine the relative impacts of financial assistance. [Slides]
 
 </div>
 
+### **Insurance**
+In this class we consider the effectiveness of govenment sponsored insurance programs on the supply of rental housing.[Slides](https://slides.com/pharringtonp19/presentation-of-bezy-et-al/fullscreen)
 
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Bezy et al. (2024)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://thomas-bezy.com/files/Insuring_landlords_BLM.pdf" style="display: block;">
+    <img src="./../assets/images/insure.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 
 ### **Right to Counsel**

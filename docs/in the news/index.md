@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **August 2024**
+- [Why Philadelphia Is Bucking a Nationwide Surge in Evictions](https://www.wsj.com/real-estate/why-philadelphia-is-bucking-a-nationwide-surge-in-evictions-25df7ba7?mod=hp_listc_pos2)
+- [Habitat for Humanity Helped Them Get Homes. An Insurance Crisis May Take Them Away.](https://www.nytimes.com/2024/08/09/us/new-orleans-habitat-for-humanity-insurance.html)
 - [Soaring Insurance Costs Could ‘End’ Affordable Housing, Developers Warn](https://www.nytimes.com/2024/08/25/business/home-insurance-costs-affordable-housing.html)
 - [Harris to Call for Expanded Child Tax Credit, 3 Million New Housing Units](https://www.wsj.com/politics/elections/kamala-harris-policy-agenda-election-2024-9e057b83?mod=hp_lead_pos1)
 - [Decline in Veterans’ Homelessness Spurs Hopes for a Broader Solution](https://www.nytimes.com/2024/08/06/us/politics/decline-veterans-homelessness.html#:~:text=a%20Broader%20Solution-,Decline%20in%20Veterans'%20Homelessness%20Spurs%20Hopes%20for%20a%20Broader%20Solution,on%20a%20seemingly%20intractable%20problem.&text=Jason%20DeParle%2C%20who%20writes%20about%20poverty%2C%20reported%20from%20Los%20Angeles.)
