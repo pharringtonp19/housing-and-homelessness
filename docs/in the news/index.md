@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **August 2024**
+- [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas)
+- [Related Closes In on Deal to Rescue Notoriously Stalled Massive Housing Project](https://www.wsj.com/real-estate/related-closes-in-on-deal-to-rescue-notoriously-stalled-massive-housing-project-a9f275a8?mod=hp_listc_pos2)
 - [Why Philadelphia Is Bucking a Nationwide Surge in Evictions](https://www.wsj.com/real-estate/why-philadelphia-is-bucking-a-nationwide-surge-in-evictions-25df7ba7?mod=hp_listc_pos2)
 - [Habitat for Humanity Helped Them Get Homes. An Insurance Crisis May Take Them Away.](https://www.nytimes.com/2024/08/09/us/new-orleans-habitat-for-humanity-insurance.html)
 - [Soaring Insurance Costs Could ‘End’ Affordable Housing, Developers Warn](https://www.nytimes.com/2024/08/25/business/home-insurance-costs-affordable-housing.html)

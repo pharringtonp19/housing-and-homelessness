@@ -51,6 +51,21 @@ In this class, we discuss the negative impacts the eviction has both on housing 
 Articles:  
 [Massachusetts’ Highly Touted Push to “Significantly Reduce” Affordable Housing Vacancies Barely Made a Dent](https://www.propublica.org/article/massachusetts-affordable-housing-vacancies)
 
+### **Landlords**
+In this class, we discuss the impact that landlords have on housing instability. In particular, we dicuss the landlord decision making process surrounding evictions as covered in "Nonpayment and Eviction in the Rental Housing Market." [Slides](https://slides.com/pharringtonp19/presentation-of-humphries-et-al/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Humphries et al. (2024)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://www.dropbox.com/scl/fi/jbok1y2fmwqulbj95q1j9/eviction_decision.pdf?rlkey=dqe6okwolyijeonu7bhpmmexv&e=2&st=4hzzjjsf&dl=0f" style="display: block;">
+    <img src="./../assets/images/eviction_decision.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
+
 ### **Natural Disasters**
 [Bloomberg](https://www.bloomberg.com/news/articles/2024-08-16/maui-wildfires-show-climate-disasters-are-an-affordable-housing-problem?srnd=homepage-americas), [ProPublica](https://www.propublica.org/article/maui-wildifre-evictions-fema)
 

@@ -44,7 +44,11 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
 </div>
 
 Articles:  
-[Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article), [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market), [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a)
+- [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html)
+- [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article)
+- [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market)
+- [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a)
+- [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas))
 
 ### **Public Housing**
 
