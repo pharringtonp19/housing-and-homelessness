@@ -22,14 +22,14 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
-For Economic literature review papers on Homelessness please see [Evans et al. (2019)](https://www.nber.org/papers/w26232) and [O'Flaherty (2019)](https://asit-prod-web1.cc.columbia.edu/econdept/wp-content/uploads/sites/41/2018/08/homelessresearchv2-080118.pdf).
+<!-- For Economic literature review papers on Homelessness please see [Evans et al. (2019)](https://www.nber.org/papers/w26232) and [O'Flaherty (2019)](https://asit-prod-web1.cc.columbia.edu/econdept/wp-content/uploads/sites/41/2018/08/homelessresearchv2-080118.pdf).
 
 ### **The Fundamentals of Housing**
 [Slides](https://slides.com/pharringtonp19/fundamentals-of-housing/fullscreen)
 
 Writings: [Jackson (1985): Ch 11](https://en.wikipedia.org/wiki/Crabgrass_Frontier), [Glaeser and Gyourko (2008)](https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf), [Collinson et al. (2015)](https://www.nber.org/system/files/working_papers/w21071/w21071.pdf), [Quigley and Raphael (2004)](https://www.aeaweb.org/articles?id=10.1257/089533004773563494)
 
-
+ -->
 
 
 
