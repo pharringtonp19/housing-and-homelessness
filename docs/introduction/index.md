@@ -22,6 +22,18 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
+In this class we disscuss Edward Glaeser's and Joseph Gyourko's piece on "Rethinking Federal Housing Policy". It's a nice starting point for the semester because it highlights how we can use the basic economic tools from Principle of Microeconomics to evaluate housing policy. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Glaeser and Gyourko (2008)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://people.bu.edu/guren/ForeclosureEvictionDGT.pdf" style="display: block;">
+    <img src="./../assets/images/rethinking.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 <!-- For Economic literature review papers on Homelessness please see [Evans et al. (2019)](https://www.nber.org/papers/w26232) and [O'Flaherty (2019)](https://asit-prod-web1.cc.columbia.edu/econdept/wp-content/uploads/sites/41/2018/08/homelessresearchv2-080118.pdf).
 
 ### **The Fundamentals of Housing**

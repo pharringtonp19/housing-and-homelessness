@@ -6,6 +6,13 @@ nav_order: 2
 has_children: false
 ---
 
+
+
+## **September 2024**
+- [Red Tape Hampers State's Program to put homeless in apartments](https://www.bostonglobe.com/2024/09/03/metro/homeless-homebase-shelter-system-migrants/)
+- [NYCHA’s New Federal Monitor Issues Mixed Reviews for Performance Over the Past 5 Years](https://citylimits.org/2024/09/04/nychas-new-federal-monitor-issues-mixed-reviews-for-performance-over-the-past-5-years/)
+- [Shiny New Technology, Same Old Funny Business](https://www.nytimes.com/2024/09/03/opinion/realpage-antitrust-landlords.html)
+
 ## **August 2024**
 - [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas)
 - [Related Closes In on Deal to Rescue Notoriously Stalled Massive Housing Project](https://www.wsj.com/real-estate/related-closes-in-on-deal-to-rescue-notoriously-stalled-massive-housing-project-a9f275a8?mod=hp_listc_pos2)
