@@ -22,6 +22,7 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
+### **Housing Policy**
 In this class we disscuss Edward Glaeser's and Joseph Gyourko's piece on "Rethinking Federal Housing Policy". It's a nice starting point for the semester because it highlights how we can use the basic economic tools from Principle of Microeconomics to evaluate housing policy. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
