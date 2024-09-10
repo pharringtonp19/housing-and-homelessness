@@ -9,6 +9,10 @@ has_children: false
 
 
 ## **September 2024**
+- [Housing in Ireland Is Broken](https://www.nytimes.com/2024/09/06/opinion/ireland-housing-immigration.html)
+- [The American Dream Without a House? Believe It](https://www.nytimes.com/2024/09/07/realestate/american-dream-homeowner-young-people.html)
+- [They Slept on a Gym Floor Until They Won the Housing Lottery](https://www.nytimes.com/2024/09/08/us/migrant-family-san-francisco-homeless.html)
+- [How Americans Voted Their Way Into a Housing Crisis](https://www.bloomberg.com/news/articles/2024-09-08/an-american-affordable-housing-crisis-built-by-local-democracy?srnd=homepage-americas)
 - [Red Tape Hampers State's Program to put homeless in apartments](https://www.bostonglobe.com/2024/09/03/metro/homeless-homebase-shelter-system-migrants/)
 - [NYCHA’s New Federal Monitor Issues Mixed Reviews for Performance Over the Past 5 Years](https://citylimits.org/2024/09/04/nychas-new-federal-monitor-issues-mixed-reviews-for-performance-over-the-past-5-years/)
 - [Shiny New Technology, Same Old Funny Business](https://www.nytimes.com/2024/09/03/opinion/realpage-antitrust-landlords.html)
