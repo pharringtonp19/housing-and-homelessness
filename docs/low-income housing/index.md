@@ -5,6 +5,20 @@ permalink: /low-income-housing/
 nav_order: 5
 ---
 
+### **Folk Economics and Housing**
+We incorporate the work of Nall et al. (2022) into our class discussions of Filtering and Rent Control. [Slides](https://slides.com/pharringtonp19/folk-economics-and-housing/fullscreen)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Nall et al. (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266459" style="display: block;">
+    <img src="./../assets/images/folk.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
 ### **Filtering**
 In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. With a preliminary theoretical and empirical introduction, we then turn our conversation to recent efforts to convert office buildings to residential units: should they require mandatory setasides for affordable housing? [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
