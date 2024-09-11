@@ -5,20 +5,6 @@ permalink: /low-income-housing/
 nav_order: 5
 ---
 
-### **Folk Economics and Housing**
-We incorporate the work of Nall et al. (2022) into our class discussions of Filtering and Rent Control. [Slides](https://slides.com/pharringtonp19/folk-economics-and-housing/fullscreen)
-
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Nall et al. (2022)</div>
-  
-  <!-- PNG Image -->
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266459" style="display: block;">
-    <img src="./../assets/images/folk.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
-
-
 ### **Filtering**
 In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. With a preliminary theoretical and empirical introduction, we then turn our conversation to recent efforts to convert office buildings to residential units: should they require mandatory setasides for affordable housing? [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
@@ -37,11 +23,19 @@ Article:
 [Bloomberg (May 9, 20214)](https://www.bloomberg.com/opinion/articles/2024-05-09/housing-affordability-build-more-luxury-homes?srnd=opinion), [New York City](https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html)
 
 
-<!-- ### **Class **
-[Slide](https://slides.com/pharringtonp19/washoe-county-hmis/fullscreen)
+### **Folk Economics and Housing**
+We incorporate the work of Nall et al. (2022) into our class discussions of Filtering and Rent Control. Nall et al. (2022) illustrates that the potential benefits from additional housing -- as layed out in Mast (2021) --  are politically difficult to achieve becuase they are diffuse, what the authors refer to as a "Spatial Collective Action Problem". [Slides](https://slides.com/pharringtonp19/folk-economics-and-housing/fullscreen)
 
-Articles:
-[Amazon](https://www.bloomberg.com/news/articles/2024-06-18/in-dc-seattle-and-nashville-amazon-adds-1-4-billion-to-housing-pledge?srnd=homepage-americas) -->
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Nall et al. (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266459" style="display: block;">
+    <img src="./../assets/images/folk.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 ### **Rent Control** 
 
@@ -58,11 +52,7 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
 </div>
 
 Articles:  
-- [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html)
-- [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article)
-- [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market)
-- [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a)
-- [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas))
+- [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article), [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market), [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a), [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas))
 
 ### **Public Housing**
 
