@@ -36,6 +36,32 @@ We incorporate the work of Nall et al. (2022) into our class discussions of Filt
   </a>
 </div>
 
+### **Affordable Housing Development**
+
+
+<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
+  
+  <!-- First PDF and its title -->
+  <div style="width: 49%; border-right: 2px solid gray;">
+    <div style="text-align: center; font-weight: bold;">Soltas (2022)</div>
+    <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
+      <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- Optional spacer for a more distinct line -->
+  <div style="width: 2%;"></div>
+
+  <!-- Second PDF and its title -->
+  <div style="width: 49%;">
+    <div style="text-align: center; font-weight: bold;">Sportiche (2023)</div>
+    <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
+      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+</div>
+
 
 ### **Rent Control** 
 
@@ -125,31 +151,7 @@ Writings:
 - [New Public Housing](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 
 
-### **Affordable Housing Development**
 
-
-<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
-  
-  <!-- First PDF and its title -->
-  <div style="width: 49%; border-right: 2px solid gray;">
-    <div style="text-align: center; font-weight: bold;">Soltas (2022)</div>
-    <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
-      <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
-    </a>
-  </div>
-
-  <!-- Optional spacer for a more distinct line -->
-  <div style="width: 2%;"></div>
-
-  <!-- Second PDF and its title -->
-  <div style="width: 49%;">
-    <div style="text-align: center; font-weight: bold;">Sportiche (2023)</div>
-    <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
-      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
-    </a>
-  </div>
-
-</div>
 
 
 ### **Low-Income Housing Tax Credit** 
