@@ -9,6 +9,7 @@ has_children: false
 
 
 ## **September 2024**
+- [Can 3-D Printing Revolutionize Real Estate? Walmart Put That Question to the Test](https://www.wsj.com/real-estate/commercial/can-3-d-printing-revolutionize-real-estate-walmart-put-that-question-to-the-test-2df4f91c?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_172&cx_artPos=0)
 - [Housing in Ireland Is Broken](https://www.nytimes.com/2024/09/06/opinion/ireland-housing-immigration.html)
 - [The American Dream Without a House? Believe It](https://www.nytimes.com/2024/09/07/realestate/american-dream-homeowner-young-people.html)
 - [They Slept on a Gym Floor Until They Won the Housing Lottery](https://www.nytimes.com/2024/09/08/us/migrant-family-san-francisco-homeless.html)
