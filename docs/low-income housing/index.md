@@ -38,29 +38,16 @@ We incorporate the work of Nall et al. (2022) into our class discussions of Filt
 
 ### **Affordable Housing Development**
 
-
-<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Soltas (2022)</div>
   
-  <!-- First PDF and its title -->
-  <div style="width: 49%; border-right: 2px solid gray;">
-    <div style="text-align: center; font-weight: bold;">Soltas (2022)</div>
-    <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
-      <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
-    </a>
-  </div>
-
-  <!-- Optional spacer for a more distinct line -->
-  <div style="width: 2%;"></div>
-
-  <!-- Second PDF and its title -->
-  <div style="width: 49%;">
-    <div style="text-align: center; font-weight: bold;">Sportiche (2023)</div>
-    <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
-      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
-    </a>
-  </div>
-
+  <!-- PNG Image -->
+  <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
+    <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
 </div>
+
 
 
 ### **Rent Control** 
@@ -72,7 +59,7 @@ In this class we discuss the impacts of rent control policies. Most undergrads a
   <div style="font-weight: bold;">Diamond et al. (2019)</div>
   
   <!-- PNG Image -->
-  <a href="https://www.huduser.gov/publications/pdf/strategies_for_preventing_homelessness.pdf" style="display: block;">
+  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20181289" style="display: block;">
     <img src="./../assets/images/diamond.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
