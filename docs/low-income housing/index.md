@@ -36,18 +36,6 @@ We incorporate the work of Nall et al. (2022) into our class discussions of Filt
   </a>
 </div>
 
-### **Affordable Housing Development**
-
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Soltas (2022)</div>
-  
-  <!-- PNG Image -->
-  <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
-    <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
-
 
 
 ### **Rent Control** 
@@ -158,3 +146,15 @@ Sticking with the notion of moving to opportunity, we turn our attention in this
 Writings:  
 - [Habitat for Humanity Helped Them Get Homes. An Insurance Crisis May Take Them Away.](https://www.nytimes.com/2024/08/09/us/new-orleans-habitat-for-humanity-insurance.html)
 - [Soaring Insurance Costs Could ‘End’ Affordable Housing, Developers Warn](https://www.nytimes.com/2024/08/25/business/home-insurance-costs-affordable-housing.html)
+
+### **Inclusionary Housing**
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Soltas (2022)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01231/112431/The-Price-of-Inclusion-Evidence-from-Housing?redirectedFrom=fulltext" style="display: block;">
+    <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
