@@ -40,7 +40,7 @@ We incorporate the work of Nall et al. (2022) into our class discussions of Filt
 
 ### **Rent Control** 
 
-In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen)
+In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/The-Effects-of-Rent-Control-Expansion-on-Tenants-Landlords-and-Inequality-Evidence-from-San-Franc-10452d8e3f6d804891f3fba415ad308e?pvs=4)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
