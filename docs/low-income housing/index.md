@@ -78,7 +78,7 @@ Articles:
 
 ### **Housing Choice Vouchers** 
 
-In this class we examine the impact of providing tenants in public housing with the opportunity to move to low-income neighborhoods. Focused on Chetty 2016, we examine the relative impacts of younger and older children across a range of outcome (employment, eduction, marriage, and neighborhood). [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-ebd393/fullscreen)
+In this class we examine the impact of providing tenants in public housing with the opportunity to move to low-income neighborhoods. Focused on Chetty 2016, we examine the relative impacts of younger and older children across a range of outcome (employment, eduction, marriage, and neighborhood). [Slides](https://slides.com/pharringtonp19/presentation-of-chetty-et-al-2016-ebd393/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/The-Effects-of-Exposure-to-Better-Neighborhoods-on-Children-New-Evidence-from-the-Moving-to-Opportu-10852d8e3f6d8087b1bdf9eda8a7d180?pvs=4)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
