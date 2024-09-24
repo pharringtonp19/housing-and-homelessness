@@ -9,6 +9,7 @@ has_children: false
 
 
 ## **September 2024**
+- [Argentina Scrapped Its Rent Controls. Now the Market Is Thriving.](https://www.wsj.com/world/americas/argentina-milei-rent-control-free-market-5345c3d5)
 - [Kamala Harris Has Proposed an ‘Opportunity Economy.’ This Is How to Make It a Reality.](https://www.nytimes.com/2024/09/20/opinion/kamala-harris-opportunity-economy.html)
 - [Apartment Construction Is Slowing, and Investors Are Betting on Higher Rents](https://www.wsj.com/real-estate/apartment-construction-is-slowing-and-investors-are-betting-on-higher-rents-56bceeb3)
 - [Can 3-D Printing Revolutionize Real Estate? Walmart Put That Question to the Test](https://www.wsj.com/real-estate/commercial/can-3-d-printing-revolutionize-real-estate-walmart-put-that-question-to-the-test-2df4f91c?mod=WTRN_pos1&cx_testId=3&cx_testVariant=cx_172&cx_artPos=0)
