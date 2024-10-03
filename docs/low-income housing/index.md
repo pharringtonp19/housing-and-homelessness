@@ -90,6 +90,20 @@ In this class we examine the impact of providing tenants in public housing with 
   </a>
 </div>
 
+### **Housing Choice Vouchers & Desegregation** 
+
+[Discussion Questions](https://daffodil-brand-804.notion.site/The-Long-Run-Effects-of-Residential-Racial-Desegregation-Programs-Evidence-from-Gautreaux-11452d8e3f6d801a8395d510d9350099?pvs=4)
+
+<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  <div style="font-weight: bold;">Chyn and Collinson. (2023)</div>
+  
+  <!-- PNG Image -->
+  <a href="https://sites.google.com/site/collinsonrob/resear" style="display: block;">
+    <img src="./../assets/images/gaut.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 Articles 
 [Baltimore MTO 1995](https://www.nytimes.com/1995/03/28/us/housing-voucher-test-in-maryland-is-scuttled-by-a-political-firestorm.html)
 
