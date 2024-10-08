@@ -6,6 +6,10 @@ nav_order: 2
 has_children: false
 ---
 
+## **October 2024**
+- [The Great Florida Migration Is Coming Undone](https://www.wsj.com/real-estate/florida-home-sales-slowing-355616a2?mod=hp_trendingnow_article_pos2)
+- [Why Owning (and Buying) a Florida Condo Has ‘Turned Into a Nightmare’](https://www.nytimes.com/2024/10/03/realestate/miami-condo-collapse-buying-selling.html)
+- [They Wanted Their First Home. It Took Sacrifices, Risk and a Little Creativity.](https://www.wsj.com/economy/housing/they-wanted-their-first-home-it-took-sacrifices-risk-and-a-little-creativity-a8703850?mod=hp_lead_pos10)
 
 
 ## **September 2024**
