@@ -144,7 +144,7 @@ Writings:
 
 
 ### **Low-Income Housing Tax Credit** 
-Sticking with the notion of moving to opportunity, we turn our attention in this class into a deep dive on supply side initiatives with particular attention on the Low-income Housing Tax Credit (LIHTC). We focus on the recent work of Cook et a. (2024) which explores how the demand of low-income housing responds to the spatial location of the unit in ways which potentially make it harder for policy makers to target need. [Slides](https://slides.com/pharringtonp19/presentation-of-cook-et-al-2024/fullscreen)
+Sticking with the notion of moving to opportunity, we turn our attention in this class into a deep dive on supply side initiatives with particular attention on the Low-income Housing Tax Credit (LIHTC). We focus on the recent work of Cook et a. (2024) which explores how the demand of low-income housing responds to the spatial location of the unit in ways which potentially make it harder for policy makers to target need. [Slides](https://slides.com/pharringtonp19/presentation-of-cook-et-al-2024/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/Where-to-Build-Affordable-Housing-Evaluating-the-Tradeoffs-of-Location-11952d8e3f6d807ea2ace8568e2165f0?pvs=4)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
