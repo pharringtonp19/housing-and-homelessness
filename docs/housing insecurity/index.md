@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 ### **Housing Instability**
-In this class, we focus on stories of the private rental market which caters to low-income individuals. Desmond's account portrays the daily challenges that tenants face in securing and mainting housing. It's a raw portrayal of the factors which contribute to insecure housing.
+In this class, we focus on stories of the private rental market which caters to low-income individuals. Desmond's account portrays the daily challenges that tenants face in securing and mainting housing. It's a raw portrayal of the factors which contribute to insecure housing. [Discussion Questions](https://daffodil-brand-804.notion.site/Evicted-11952d8e3f6d80f7a054e220003596cc?pvs=4)
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
