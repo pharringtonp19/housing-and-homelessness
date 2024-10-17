@@ -19,7 +19,7 @@ In this class, we focus on stories of the private rental market which caters to 
 
 
 ### **Foreclosures**
-In this class, we examine the costs of foreclosure to homeowners, landlords and renters. Reading an earlier version of the work, we discuss the importance of transparent and credible research - something that all researcher's struggle with (myself included!). [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
+In this class, we examine the costs of foreclosure to homeowners, landlords and renters. Reading an earlier version of the work, we discuss the importance of transparent and credible research - something that all researcher's struggle with (myself included!). [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/THE-EFFECT-OF-FORECLOSURES-ON-HOMEOWNERS-TENANTS-AND-LANDLORDS-2020-NBER-WORKING-PAPER-SERIES-12252d8e3f6d80758d20ec0c347944f5?pvs=4)
 
 <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
