@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **October 2024**
+- [How Does Florida Insure Itself Against Hurricanes Like These?](https://www.nytimes.com/2024/10/11/opinion/florida-hurricane-insurance-flood.html)
 - [How Climate Disasters and a Housing Crisis Are Shattering Lives](https://www.nytimes.com/2024/10/14/climate/mobile-homes-hurricanes.html)
 - [Hurricane Damage and Your Taxes. Here’s What to Know.](https://www.wsj.com/personal-finance/taxes/disaster-tax-deduction-irs-extension-6448e902?mod=wsjhp_columnists_pos_2)
 - [The Great Florida Migration Is Coming Undone](https://www.wsj.com/real-estate/florida-home-sales-slowing-355616a2?mod=hp_trendingnow_article_pos2)
