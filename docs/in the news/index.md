@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **October 2024**
+- [Why a Key Biden Effort to Boost Affordable Housing Has Faced Hurdles](https://www.nytimes.com/2024/10/28/us/politics/biden-affordable-housing-programs.html)
 - [How Does Florida Insure Itself Against Hurricanes Like These?](https://www.nytimes.com/2024/10/11/opinion/florida-hurricane-insurance-flood.html)
 - [How Climate Disasters and a Housing Crisis Are Shattering Lives](https://www.nytimes.com/2024/10/14/climate/mobile-homes-hurricanes.html)
 - [Hurricane Damage and Your Taxes. Here’s What to Know.](https://www.wsj.com/personal-finance/taxes/disaster-tax-deduction-irs-extension-6448e902?mod=wsjhp_columnists_pos_2)
