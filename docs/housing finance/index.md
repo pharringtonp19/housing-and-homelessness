@@ -19,6 +19,14 @@ In this class we discuss the history of housing finance in the United States. Re
   </a>
 </div>
 
+<details>
+<summary>Articles</summary>
+<ul>
+  <li><a href="https://www.wsj.com/real-estate/boomer-millennials-housing-market-2a32a374?mod=article_inline&mod=article_inline">Boomers Buying Houses Had It Bad in the ’80s. Millennials Have It Worse.</a></li>
+  <li><a href="https://www.wsj.com/finance/adjustable-rate-mortgage-interest-rates-86086ac5?mod=article_inline">Adjustable-Rate Mortgages Are No Longer a Bargain</a></li>
+  <li><a href="https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8">If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?</a></li>
+</ul>
+</details>
 
 ### **Technical Overview**
 

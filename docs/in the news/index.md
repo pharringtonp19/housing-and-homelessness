@@ -6,7 +6,17 @@ nav_order: 2
 has_children: false
 ---
 
+## **November 2024**
+- [If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?](https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8)
+- [Why ‘Affordable Housing’ in New York City Can Still Cost $3,500 a Month](https://www.nytimes.com/2024/11/12/nyregion/housing-crunch-affordable-housing.html)
+- [Americans Staged a Property Tax Revolt on Election Day](https://www.wsj.com/real-estate/property-taxes-ballot-measures-election-1ea01b1b)
+- [NYC Gets Historic Push for 80,000 Homes With $5 Billion Pledge](https://www.bloomberg.com/news/articles/2024-11-22/nyc-gets-historic-push-for-80-000-homes-with-5-billion-pledge?srnd=homepage-americas)
+- [To Get the Housing Market Moving, Raise Property Taxes](https://www.bloomberg.com/opinion/articles/2024-11-20/to-get-the-housing-market-moving-raise-property-taxes?srnd=undefined)
+- [What Does HUD Have to Show for the Trillions It’s Spent?](https://www.wsj.com/opinion/what-does-hud-have-to-show-for-the-trillions-its-spent-homeownership-stagnant-prices-increasing-59c3292f?mod=Searchresults_pos1&page=1) 
+
 ## **October 2024**
+- [HHS Approves Arizona’s Medicaid Interventions to Target Health-Related Social Needs](https://www.cms.gov/newsroom/press-releases/hhs-approves-arizonas-medicaid-interventions-target-health-related-social-needs?t)
+- [After Floods, Soaring Insurance Rates Become a Hot Election Issue](https://www.nytimes.com/2024/10/09/us/insurance-commissioner-hurricane-north-carolina.html)
 - [Why a Key Biden Effort to Boost Affordable Housing Has Faced Hurdles](https://www.nytimes.com/2024/10/28/us/politics/biden-affordable-housing-programs.html)
 - [How Does Florida Insure Itself Against Hurricanes Like These?](https://www.nytimes.com/2024/10/11/opinion/florida-hurricane-insurance-flood.html)
 - [How Climate Disasters and a Housing Crisis Are Shattering Lives](https://www.nytimes.com/2024/10/14/climate/mobile-homes-hurricanes.html)
@@ -17,6 +27,7 @@ has_children: false
 
 
 ## **September 2024**
+- [Homeless Population Grows, Putting U.S. on Track for Another Record](https://www.wsj.com/us-news/homeless-population-grows-putting-u-s-on-track-for-another-record-19ea8fb4)
 - [Argentina Scrapped Its Rent Controls. Now the Market Is Thriving.](https://www.wsj.com/world/americas/argentina-milei-rent-control-free-market-5345c3d5)
 - [Kamala Harris Has Proposed an ‘Opportunity Economy.’ This Is How to Make It a Reality.](https://www.nytimes.com/2024/09/20/opinion/kamala-harris-opportunity-economy.html)
 - [Apartment Construction Is Slowing, and Investors Are Betting on Higher Rents](https://www.wsj.com/real-estate/apartment-construction-is-slowing-and-investors-are-betting-on-higher-rents-56bceeb3)
@@ -75,6 +86,7 @@ has_children: false
 - [Property Fraud Allegations Snowball as Commercial Real-Estate Values Fall](https://www.wsj.com/real-estate/property-fraud-allegations-snowball-as-commercial-real-estate-values-fall-492d964c?mod=hp_lead_pos6)
 
 ## **June 2024**
+- [If Housing Is a Health Care Issue, Should Medicaid Pay the Rent?](https://www.nytimes.com/2022/06/14/headway/medicaid-housing-rent-health.html)
 - [How an American Dream of Housing Became a Reality in Sweden](https://www.nytimes.com/2024/06/08/headway/how-an-american-dream-of-housing-became-a-reality-in-sweden.html?smid=tw-share)
 - [Home Affordability in the US Sinks to Lowest Point Since 2007](https://www.bloomberg.com/news/articles/2024-07-03/home-affordability-in-the-us-sinks-to-lowest-point-since-2007?srnd=homepage-americas)
 - [New York City’s Apartment Shortage Is Set to Get Even Worse](https://www.bloomberg.com/graphics/2024-nyc-apartment-development-housing-shortage/?srnd=homepage-americas)

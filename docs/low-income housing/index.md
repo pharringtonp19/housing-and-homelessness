@@ -58,7 +58,8 @@ Articles:
 ### **Public Housing**
 
 Writings:
-[Jackson 1985: Ch 12](https://en.wikipedia.org/wiki/Crabgrass_Frontier)
+[Jackson 1985: Ch 12](https://en.wikipedia.org/wiki/Crabgrass_Frontier), [
+This Is Public Housing. Just Don’t Call It That.](https://www.nytimes.com/2023/08/25/business/affordable-housing-montgomery-county.html)
 
 Articles:
 [Slate](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
