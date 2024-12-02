@@ -5,6 +5,19 @@ permalink: /homelessness/
 nav_order: 7
 ---
 
+### **Overview**
+
+Most of Brosnahn work is an overview of the existing challenges related to homelessness from the dissapearence of SRO's, to the slashing of HUD's funding under Regan, to the inside political issues in New York City, to the challenges of ensuring that nonprofits continue to execute at a high level. 
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://www.penguinrandomhouse.com/books/757644/they-just-need-to-get-a-job-by-mary-brosnahan/" style="display: block;">
+    <img src="./../assets/images/job.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 ### **Rough Sleepers**
 
 Over two classes, we read Tracy Kidder's "RoughSleepers" which captures the work (and relationships) of Dr. Jim and and the Street Team crew among Boston's unsheltered homeless population.

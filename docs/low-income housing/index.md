@@ -5,6 +5,17 @@ permalink: /low-income-housing/
 nav_order: 5
 ---
 
+### **Choice**
+
+
+<details>
+<summary>Articles</summary>
+<ul>
+  <li><a href="https://www.newyorker.com/news/daily-comment/a-massachusetts-town-leads-a-way-out-of-the-housing-crisis">A Massachusetts Town Leads a Way Out of the Housing Crisis</a></li>
+</ul>
+</details>
+
+
 ### **Filtering**
 In this class we focus on the relationship between low-income housing and the rest of the housing market. In particular, we focus on Mast (2021) who empirically highlights the migration chains that result from the development of high-income housing. With a preliminary theoretical and empirical introduction, we then turn our conversation to recent efforts to convert office buildings to residential units: should they require mandatory setasides for affordable housing? [Slides](https://slides.com/pharringtonp19/presentation-of-mast-2019/fullscreen)
 
@@ -57,12 +68,16 @@ Articles:
 
 ### **Public Housing**
 
-Writings:
-[Jackson 1985: Ch 12](https://en.wikipedia.org/wiki/Crabgrass_Frontier), [
-This Is Public Housing. Just Don’t Call It That.](https://www.nytimes.com/2023/08/25/business/affordable-housing-montgomery-county.html)
+<details>
+<summary>Articles</summary>
+<ul>
+  <li><a href="https://wpln.org/programs/the-promise/">“The Promise,” a Stellar Podcast About Life in Nashville’s Public Housing</a></li>
+</ul>
+</details>
 
-Articles:
-[Slate](https://slate.com/business/2023/05/public-housing-upzoning-yimby-affordability-crisis.html)
+
+
+
 
 ### **Discrimination** 
 [Slides](https://slides.com/pharringtonp19/waiting-for-gautreaux/fullscreen)
@@ -173,3 +188,16 @@ Writings:
     <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+
+### **Boston**
+
+
+<details>
+<summary>Articles</summary>
+<ul>
+  <li><a href="https://www.newyorker.com/news/persons-of-interest/bostons-mayor-makes-friends-and-enemies-with-her-focus-on-housing">Boston’s Mayor Makes Friends—and Enemies—with Her Focus on Housing</a></li>
+</ul>
+</details>
+
+

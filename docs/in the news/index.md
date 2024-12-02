@@ -6,9 +6,13 @@ nav_order: 2
 has_children: false
 ---
 
+## **December 2024**
+- [America’s Biggest Apartment Owner Takes a Leap Into Modular Homes](https://www.wsj.com/real-estate/americas-biggest-apartment-owner-takes-a-leap-into-modular-homes-abf62039?mod=hp_lead_pos9)
+
 ## **November 2024**
 - [If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?](https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8)
 - [Why ‘Affordable Housing’ in New York City Can Still Cost $3,500 a Month](https://www.nytimes.com/2024/11/12/nyregion/housing-crunch-affordable-housing.html)
+- [Why Real Estate Stocks Took a Hit as Developers Cheered Trump](https://www.bloomberg.com/news/articles/2024-11-25/why-real-estate-stocks-took-a-hit-as-developers-cheered-trump?srnd=homepage-americas)
 - [Americans Staged a Property Tax Revolt on Election Day](https://www.wsj.com/real-estate/property-taxes-ballot-measures-election-1ea01b1b)
 - [NYC Gets Historic Push for 80,000 Homes With $5 Billion Pledge](https://www.bloomberg.com/news/articles/2024-11-22/nyc-gets-historic-push-for-80-000-homes-with-5-billion-pledge?srnd=homepage-americas)
 - [To Get the Housing Market Moving, Raise Property Taxes](https://www.bloomberg.com/opinion/articles/2024-11-20/to-get-the-housing-market-moving-raise-property-taxes?srnd=undefined)

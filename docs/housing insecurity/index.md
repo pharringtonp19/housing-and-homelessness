@@ -85,29 +85,34 @@ In this class, we consider the challenge of carrying out randomized control tria
 ### **Financial Assistance**
 In this class, we examine the relative impacts of financial assistance. [Slides](https://slides.com/pharringtonp19/presentation-of-phillips-and-sullivan-et-al-2023/fullscreen)
 
+<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(90% - 1%); margin: 0 auto;">
 
-<div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px; width: calc(75% - 1%); margin: 0 auto;">
-  
   <!-- First PDF and its title -->
-  <div style="width: 49%; border-right: 2px solid gray;">
+  <div style="width: 32%; border-right: 2px solid gray; padding-right: 10px;">
     <div style="text-align: center; font-weight: bold;">Evans et al. (2016)</div>
     <a href="https://pubmed.ncbi.nlm.nih.gov/27516600/" style="display: block;">
-      <img src="./../assets/images/evans2016.png" alt="Alt text" style="width: 100%; height: auto;" />
+      <img src="./../assets/images/evans2016.png" alt="Evans et al. (2016)" style="width: 100%; height: auto;" />
     </a>
   </div>
 
-  <!-- Optional spacer for a more distinct line -->
-  <div style="width: 2%;"></div>
-
   <!-- Second PDF and its title -->
-  <div style="width: 49%;">
-    <div style="font-weight: bold;">Phillips and Sullivan (2023)</div>
+  <div style="width: 32%; border-right: 2px solid gray; padding: 0 10px;">
+    <div style="text-align: center; font-weight: bold;">Phillips and Sullivan (2023)</div>
     <a href="https://sites.google.com/site/davidcphillipseconomics/research?authuser=0" style="display: block;">
-      <img src="./../assets/images/phillips2023.png" alt="Alt text" style="width: 100%; height: auto;" />
+      <img src="./../assets/images/phillips2023.png" alt="Phillips and Sullivan (2023)" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <!-- Third PDF and its title -->
+  <div style="width: 32%; padding-left: 10px;">
+    <div style="text-align: center; font-weight: bold;">Hungerman et al. (2024)</div>
+    <a href="https://github.com/dphill12/Papers-by-David-C-Phillips/blob/main/HPCC_and_Income%202024-05-09.pdf" style="display: block;">
+      <img src="./../assets/images/phi3.png" alt="Smith et al. (2020)" style="width: 100%; height: auto;" />
     </a>
   </div>
 
 </div>
+
 
 ### **Insurance**
 In this class we consider the effectiveness of govenment sponsored insurance programs on the supply of rental housing.[Slides](https://slides.com/pharringtonp19/presentation-of-bezy-et-al/fullscreen)
