@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **December 2024**
+- [New York Can Show the US How to Build More Housing](https://www.bloomberg.com/opinion/articles/2024-12-02/the-housing-crisis-offers-new-york-a-leadership-role?srnd=opinion)
 - [America’s Biggest Apartment Owner Takes a Leap Into Modular Homes](https://www.wsj.com/real-estate/americas-biggest-apartment-owner-takes-a-leap-into-modular-homes-abf62039?mod=hp_lead_pos9)
 
 ## **November 2024**
