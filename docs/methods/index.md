@@ -1,7 +1,7 @@
 ---
-title: Methods
+title: Causal Inference
 layout: default
-permalink: /methods/
+permalink: /causal-inference/
 nav_order: 9
 has_children: false
 ---
