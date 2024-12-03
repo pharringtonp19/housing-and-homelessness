@@ -6,7 +6,7 @@ nav_order: 10
 has_children: false
 ---
 
-I remember being in office hours one time and I asked the Professor how I could write better. He told me to focus on writing one beautiful sentence after another. I rember being unsure of how to respond to that advice.
+I remember being in office hours one time and asking a Professor how I could write better. He told me to focus on writing one beautiful sentence after another. I rember being unsure of how to respond to that advice.
 
 I am not a particularly good writer. I can recognize good writing and I have a strong appreciation of good writing, but I'm a JV writer myself -- maybe a Freshman. To write well you need to (1) know what you think and (2) think carefully about how best to present your thoughts to your audience. I struggle with both of these points. I rarely have a very clear understanding of a topic, and despite my interest in teaching, I very often badly missunderstand my audience (an achillies heal?).
 
