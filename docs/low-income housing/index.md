@@ -72,6 +72,7 @@ Articles:
 <summary>Articles</summary>
 <ul>
   <li><a href="https://wpln.org/programs/the-promise/">“The Promise,” a Stellar Podcast About Life in Nashville’s Public Housing</a></li>
+  <li><a href="https://harpers.org/archive/2012/05/the-last-tower/">“The Last Tower</a></li>
 </ul>
 </details>
 

@@ -7,6 +7,8 @@ has_children: false
 ---
 
 ## **December 2024**
+- [Construction Industry Braces for One-Two Punch: Tariffs and Deportations](https://www.wsj.com/economy/trump-immigration-deportation-policy-construction-impact-b8db1120?mod=hp_lead_pos9)
+- [One City’s Attempt to Change How Domestic Violence Is Tackled](https://www.nytimes.com/2024/12/03/us/texas-domestic-violence-rehabilitation.html)
 - [New York Can Show the US How to Build More Housing](https://www.bloomberg.com/opinion/articles/2024-12-02/the-housing-crisis-offers-new-york-a-leadership-role?srnd=opinion)
 - [America’s Biggest Apartment Owner Takes a Leap Into Modular Homes](https://www.wsj.com/real-estate/americas-biggest-apartment-owner-takes-a-leap-into-modular-homes-abf62039?mod=hp_lead_pos9)
 
