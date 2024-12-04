@@ -28,7 +28,6 @@ In this class we discuss the history of housing finance in the United States. Re
 </ul>
 </details>
 
-
 <style>
 /* Tabs styling */
 .article-tabs {
@@ -69,28 +68,66 @@ In this class we discuss the history of housing finance in the United States. Re
 }
 </style>
 
+### **Insurance**
+In this class, we read through a recent reporting by Bloomberg on the recent developments in the Insurance Market. The report covers the changing relationship between rating agencies, predictive analytic companies, insurance companies, and insurance commisioners.
+
+<div class="article-tabs">
+  <button class="tab-link active" data-article-id="article1">Part 1</button>
+  <button class="tab-link" data-article-id="article2">Part 2</button>
+  <button class="tab-link" data-article-id="article3">Part 3</button>
+  <button class="tab-link" data-article-id="article4">Part 4</button>
+  <button class="tab-link" data-article-id="article5">Part 5</button>
+</div>
+
+<div id="article1" class="tab-content active">
+  <p>
+    <strong>Part 1:</strong> <a href="https://www.bloomberg.com/features/2024-home-insurance-real-estate-crisis/" target="_blank">A Hidden Crisis in US Housing</a>
+  </p>
+  <p>FILL IN</p>
+</div>
+
+<div id="article2" class="tab-content">
+  <p>
+    <strong>Part 2:</strong> <a href="https://www.bloomberg.com/graphics/2024-flood-fire-climate-risk-analytics/" target="_blank">The Risky Business of Predicting Where Climate Disaster Will Hit</a>
+  </p>
+  <p>FILL IN</p>
+</div>
+
+<div id="article3" class="tab-content">
+  <p>
+    <strong>Part 3:</strong> <a href="https://www.bloomberg.com/features/2024-jamaica-hurricane-catastrophe-bonds/" target="_blank">The Harsh Reality of ‘Hurricane Insurance’</a>
+  </p>
+  <p>FILL IN</p>
+</div>
+
+<div id="article4" class="tab-content">
+  <p>
+    <strong>Part 4:</strong> <a href="https://www.bloomberg.com/features/2024-uk-home-flood-re-insurance/" target="_blank">The UK Is Losing the Race Against Devastating Floods</a>
+  </p>
+  <p>FILL IN</p>
+</div>
+
+<div id="article5" class="tab-content">
+  <p>
+    <strong>Part 5:</strong> <a href="https://www.bloomberg.com/graphics/2024-home-insurance-risky-policy/" target="_blank">The Quiet Rise of Lightly Regulated Home Insurance</a>
+  </p>
+  <p>FILL IN</p>
+</div>
+
+{% raw %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  // Function to handle tab switching
   function openArticle(event, articleId) {
-    // Hide all tab contents
     const tabContents = document.querySelectorAll(".tab-content");
-    tabContents.forEach((content) => {
-      content.classList.remove("active");
-    });
+    tabContents.forEach((content) => content.classList.remove("active"));
 
-    // Remove active class from all tabs
     const tabs = document.querySelectorAll(".article-tabs button");
-    tabs.forEach((tab) => {
-      tab.classList.remove("active");
-    });
+    tabs.forEach((tab) => tab.classList.remove("active"));
 
-    // Show the selected tab content and mark the tab as active
     document.getElementById(articleId).classList.add("active");
     event.currentTarget.classList.add("active");
   }
 
-  // Attach click event handlers to buttons
   const buttons = document.querySelectorAll(".article-tabs button");
   buttons.forEach((button) => {
     button.addEventListener("click", function (event) {
@@ -100,53 +137,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-
-### **Insurance**
-
-In this class, we cover some of the more technical aspects related to housing finance. In particular, we introduce the notion of Present Values and discuss how mortgages are priced.
-
-<div class="article-tabs">
-  <button class="tab-link active" data-article-id="article1">Article 1</button>
-  <button class="tab-link" data-article-id="article2">Article 2</button>
-  <button class="tab-link" data-article-id="article3">Article 3</button>
-  <button class="tab-link" data-article-id="article4">Article 4</button>
-  <button class="tab-link" data-article-id="article5">Article 5</button>
-</div>
-
-<div id="article1" class="tab-content active">
-  <p>
-    <strong>Article 1:</strong> <a href="https://www.wsj.com/real-estate/boomer-millennials-housing-market-2a32a374?mod=article_inline" target="_blank">Boomers Buying Houses Had It Bad in the ’80s. Millennials Have It Worse.</a>
-  </p>
-  <p>This article explores how Millennials face even greater housing challenges compared to Boomers in the 1980s.</p>
-</div>
-
-<div id="article2" class="tab-content">
-  <p>
-    <strong>Article 2:</strong> <a href="https://www.wsj.com/finance/adjustable-rate-mortgage-interest-rates-86086ac5?mod=article_inline" target="_blank">Adjustable-Rate Mortgages Are No Longer a Bargain</a>
-  </p>
-  <p>This article discusses why adjustable-rate mortgages (ARMs) have become less attractive in the current financial climate.</p>
-</div>
-
-<div id="article3" class="tab-content">
-  <p>
-    <strong>Article 3:</strong> <a href="https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8" target="_blank">If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?</a>
-  </p>
-  <p>This article explores the disconnect between Federal Reserve rate cuts and mortgage interest rates.</p>
-</div>
-
-<div id="article4" class="tab-content">
-  <p>
-    <strong>Article 4:</strong> <a href="https://example.com/article4" target="_blank">Article 4 Title</a>
-  </p>
-  <p>This article discusses how housing policies impact affordability and the role of insurance in financial planning.</p>
-</div>
-
-<div id="article5" class="tab-content">
-  <p>
-    <strong>Article 5:</strong> <a href="https://example.com/article5" target="_blank">Article 5 Title</a>
-  </p>
-  <p>This article delves into the role of insurance pricing in shaping housing markets and its impact on homeownership rates.</p>
-</div>
+{% endraw %}
 
 
 <!-- ### **Technical Overview**
