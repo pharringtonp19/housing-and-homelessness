@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **December 2024**
+- [The Quiet Rise of Lightly Regulated Home Insurance](https://www.bloomberg.com/graphics/2024-home-insurance-risky-policy/?srnd=homepage-americas)
 - [Construction Industry Braces for One-Two Punch: Tariffs and Deportations](https://www.wsj.com/economy/trump-immigration-deportation-policy-construction-impact-b8db1120?mod=hp_lead_pos9)
 - [One City’s Attempt to Change How Domestic Violence Is Tackled](https://www.nytimes.com/2024/12/03/us/texas-domestic-violence-rehabilitation.html)
 - [New York Can Show the US How to Build More Housing](https://www.bloomberg.com/opinion/articles/2024-12-02/the-housing-crisis-offers-new-york-a-leadership-role?srnd=opinion)
