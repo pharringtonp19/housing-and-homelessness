@@ -26,7 +26,7 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
 
 In this class, we are introduced by Conor Dougherty to a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, contract cities, among others.
 
-<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <!-- Title of the PNG -->
   
   <!-- PNG Image -->
@@ -34,6 +34,13 @@ In this class, we are introduced by Conor Dougherty to a number of issues surrou
     <img src="./../assets/images/fighting.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.nytimes.com/2024/09/24/podcasts/the-daily/housing-crisis-michigan.html">How the Cost of Housing Became so Crushing</a></li>
+</ul>
+</details>
 
 
 
