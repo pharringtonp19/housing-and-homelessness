@@ -9,6 +9,14 @@ nav_order: 4
 
 In this class we discuss the history of housing finance in the United States. Relying largley on Chapter Three of Alex F. Schultz' ["Housing Policy in the United States"](https://www.taylorfrancis.com/books/mono/10.4324/9781003097501/housing-policy-united-states-alex-schwartz), we learn about the key policy changes which have lead to the current state of the housing market. [Slides](https://slides.com/pharringtonp19/history-of-housing-finance/fullscreen)
 
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.wsj.com/real-estate/boomer-millennials-housing-market-2a32a374?mod=article_inline&mod=article_inline">Boomers Buying Houses Had It Bad in the ’80s. Millennials Have It Worse.</a></li>
+  <li><a href="https://www.wsj.com/finance/adjustable-rate-mortgage-interest-rates-86086ac5?mod=article_inline">Adjustable-Rate Mortgages Are No Longer a Bargain</a></li>
+  <li><a href="https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8">If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?</a></li>
+</ul>
+</details>
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
@@ -19,14 +27,7 @@ In this class we discuss the history of housing finance in the United States. Re
   </a>
 </div>
 
-<details>
-<summary>Articles</summary>
-<ul>
-  <li><a href="https://www.wsj.com/real-estate/boomer-millennials-housing-market-2a32a374?mod=article_inline&mod=article_inline">Boomers Buying Houses Had It Bad in the ’80s. Millennials Have It Worse.</a></li>
-  <li><a href="https://www.wsj.com/finance/adjustable-rate-mortgage-interest-rates-86086ac5?mod=article_inline">Adjustable-Rate Mortgages Are No Longer a Bargain</a></li>
-  <li><a href="https://www.wsj.com/economy/housing/mortgages-fed-interest-rate-cuts-7e5345b8">If the Fed Is Cutting Rates, Why Aren’t Mortgage Rates Falling?</a></li>
-</ul>
-</details>
+
 
 <style>
 /* Tabs styling */
@@ -69,7 +70,16 @@ In this class we discuss the history of housing finance in the United States. Re
 </style>
 
 ### **Insurance**
-In this class, we read through a recent reporting by Bloomberg on the recent developments in the Insurance Market. The report covers the changing relationship between rating agencies, predictive analytic companies, insurance companies, and insurance commisioners.
+In this class, we read through a recent reporting by Bloomberg on the recent developments in the Insurance Market. The report covers the changing relationship between rating agencies, predictive analytic companies, insurance companies, and insurance commisioners. 
+
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.bloomberg.com/features/2024-catastrophe-bonds-fermat/">How a Physics Whiz Made a Fortune Betting on Nature’s Catastrophes</a></li>
+  <li><a href="  https://www.bloomberg.com/news/articles/2024-02-04/hedge-funds-record-profits-entice-investors-to-catastrophe-bonds?sref=GBEdnt3o">Hedge Funds’ Mega Returns Set Off Demand Spiral for Catastrophe Bonds</a></li>
+
+</ul>
+</details>
 
 <div class="article-tabs">
   <button class="tab-link active" data-article-id="article1">Part 1</button>
@@ -97,7 +107,7 @@ In this class, we read through a recent reporting by Bloomberg on the recent dev
   <p>
     <strong>Part 3:</strong> <a href="https://www.bloomberg.com/features/2024-jamaica-hurricane-catastrophe-bonds/" target="_blank">The Harsh Reality of ‘Hurricane Insurance’</a>
   </p>
-  <p>FILL IN</p>
+  <p>This article discusses the insurance market that developing countries face.</p>
 </div>
 
 <div id="article4" class="tab-content">

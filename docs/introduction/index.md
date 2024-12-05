@@ -22,27 +22,18 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
-### **Housing Policy**
-In this class we disscuss Edward Glaeser's and Joseph Gyourko's piece on "Rethinking Federal Housing Policy". It's a nice starting point for the semester for at least two reasons. First, it highlights how we can use the basic economic tools from Principle of Microeconomics to evaluate housing policy. And second, much of its analysis relies on "findings" from other papers. This naturally motives the curious reader to want to better understand the underlying study which will be our focus for much of the semester. [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen)
+### **Housing Issues**
 
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+In this class, we are introduced by Conor Dougherty to a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, contract cities, among others.
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
   <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Glaeser and Gyourko (2008)</div>
   
   <!-- PNG Image -->
-  <a href="https://people.bu.edu/guren/ForeclosureEvictionDGT.pdf" style="display: block;">
-    <img src="./../assets/images/rethinking.png" alt="Alt text" style="width: 100%; height: auto;" />
+  <a href="https://www.penguinrandomhouse.com/books/585765/golden-gates-by-conor-dougherty/" style="display: block;">
+    <img src="./../assets/images/fighting.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
-
-<!-- For Economic literature review papers on Homelessness please see [Evans et al. (2019)](https://www.nber.org/papers/w26232) and [O'Flaherty (2019)](https://asit-prod-web1.cc.columbia.edu/econdept/wp-content/uploads/sites/41/2018/08/homelessresearchv2-080118.pdf).
-
-### **The Fundamentals of Housing**
-[Slides](https://slides.com/pharringtonp19/fundamentals-of-housing/fullscreen)
-
-Writings: [Jackson (1985): Ch 11](https://en.wikipedia.org/wiki/Crabgrass_Frontier), [Glaeser and Gyourko (2008)](https://www.aei.org/wp-content/uploads/2014/03/-rethinking-federal-housing-policy_101542221914.pdf), [Collinson et al. (2015)](https://www.nber.org/system/files/working_papers/w21071/w21071.pdf), [Quigley and Raphael (2004)](https://www.aeaweb.org/articles?id=10.1257/089533004773563494)
-
- -->
 
 
 

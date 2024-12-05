@@ -23,6 +23,7 @@ has_children: false
 - [What Does HUD Have to Show for the Trillions It’s Spent?](https://www.wsj.com/opinion/what-does-hud-have-to-show-for-the-trillions-its-spent-homeownership-stagnant-prices-increasing-59c3292f?mod=Searchresults_pos1&page=1) 
 
 ## **October 2024**
+- [The Harsh Reality of ‘Hurricane Insurance’](https://www.bloomberg.com/features/2024-jamaica-hurricane-catastrophe-bonds/)
 - [HHS Approves Arizona’s Medicaid Interventions to Target Health-Related Social Needs](https://www.cms.gov/newsroom/press-releases/hhs-approves-arizonas-medicaid-interventions-target-health-related-social-needs?t)
 - [After Floods, Soaring Insurance Rates Become a Hot Election Issue](https://www.nytimes.com/2024/10/09/us/insurance-commissioner-hurricane-north-carolina.html)
 - [Why a Key Biden Effort to Boost Affordable Housing Has Faced Hurdles](https://www.nytimes.com/2024/10/28/us/politics/biden-affordable-housing-programs.html)
