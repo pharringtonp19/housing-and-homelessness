@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **December 2024**
+- [New York City Is Set to Approve a Plan to Create 80,000 New Homes](https://www.nytimes.com/2024/12/05/nyregion/nyc-housing-city-of-yes.html)
 - [The Quiet Rise of Lightly Regulated Home Insurance](https://www.bloomberg.com/graphics/2024-home-insurance-risky-policy/?srnd=homepage-americas)
 - [Construction Industry Braces for One-Two Punch: Tariffs and Deportations](https://www.wsj.com/economy/trump-immigration-deportation-policy-construction-impact-b8db1120?mod=hp_lead_pos9)
 - [One City’s Attempt to Change How Domestic Violence Is Tackled](https://www.nytimes.com/2024/12/03/us/texas-domestic-violence-rehabilitation.html)

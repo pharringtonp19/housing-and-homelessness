@@ -6,9 +6,10 @@ nav_order: 10
 has_children: false
 ---
 
+## **On Writing**
 I remember being in office hours one time and asking a Professor how I could write better. He told me to focus on writing one beautiful sentence after another. I rember being unsure of how to respond to that advice.
 
-I am not a particularly good writer. I can recognize good writing and I have a strong appreciation of good writing, but I'm a JV writer myself -- maybe a Freshman. To write well you need to (1) know what you think and (2) think carefully about how best to present your thoughts to your audience. I struggle with both of these points. I rarely have a very clear understanding of a topic, and despite my interest in teaching, I very often badly missunderstand my audience (an achillies heal?).
+I am not a particularly good writer. I can recognize good writing and have a strong appreciation of good writing, but I'm a JV writer myself -- maybe a Freshman. To write well you need to (1) know what you think and (2) think carefully about how best to present your thoughts to the audience. I struggle with both of these points. 
 
 In this class, I won't teach you how to write. I won't be up at the chalk board discussing prepositional phrases or the like. Instead, we'll read articles from people who know how to write, and then discuss them. It will be very informal and wide ranging. What did you like? What did you not like? How would you have written it different? We'll read articles from [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) of Bloomberg, Harvard's own [Jill Lepore](https://scholar.harvard.edu/jlepore/home) (who also writes for The New Yorker). 
 

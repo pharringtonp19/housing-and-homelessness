@@ -24,7 +24,7 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
 
 ### **Housing Issues**
 
-In this class, we are introduced by Conor Dougherty to a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, contract cities, among others.
+In this class, we are introduced, by Conor Dougherty, to a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, the gentrifying effects of upzoning, contract cities, among a host of other issues.
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <!-- Title of the PNG -->
