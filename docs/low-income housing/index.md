@@ -67,6 +67,19 @@ Articles:
 - [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article), [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market), [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a), [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas))
 
 ### **Public Housing**
+In this class we examine the development and demise of public housing in the United States. 
+
+
+
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://www.harpercollins.com/products/high-risers-ben-austen?variant=40827548925986" style="display: block;">
+    <img src="./../assets/images/austen.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 <details>
 <summary>Articles</summary>
