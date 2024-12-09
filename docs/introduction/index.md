@@ -42,6 +42,19 @@ In this class, we are introduced, by Conor Dougherty, to a number of issues surr
 </ul>
 </details>
 
+### **Leadership in Housing**
+
+A lot of papers that we'll read examine the effectiveness of certain policies -- vouchers, legal aid, financial assistance and the like. Focusing exclusively on policies though can make it hard to appreciate the outsize role that good leadership plays not just in the execution of these policies but in the functioning of institutions such as HUD, Housing Authorities, to non-profit services. J. S. Fuerst's account on Public Housing illustrates the importance of having great leadership.
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://www.press.uillinois.edu/books/?id=p072130" style="display: block;">
+    <img src="./../assets/images/paradise.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 
 
