@@ -7,6 +7,7 @@ has_children: false
 ---
 
 ## **December 2024**
+- [Your Home-Insurance Bill Has Only One Way to Go: Up](https://www.wsj.com/finance/homeowners-insurance-rates-disasters-4f3e826d?mod=hp_lead_pos6)
 - [NYCHA Now Needs $78 Billion to Fix Aging Buildings as Costs Surge From 2017 Estimate](https://www.thecity.nyc/2023/07/12/nycha-78-billion-fix-housing-projects/)
 - [Where to Invest in Real Estate Right Now](https://www.bloomberg.com/features/2024-how-to-invest-real-estate-Q4/?srnd=homepage-americas)
 - [The Climate Risk to the Mortgage System](https://www.nytimes.com/2024/12/07/business/economy/mortgages-climate-risk-fannie-freddie.html?searchResultPosition=1)

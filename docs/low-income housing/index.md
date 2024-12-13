@@ -67,8 +67,12 @@ Articles:
 - [Supreme Court](https://www.nytimes.com/2023/10/02/us/supreme-court-new-york-rent-regulation.html), [NYC Rent Stablization](https://www.nytimes.com/article/rent-stabilized-apartments-nyc.html?action=click&module=RelatedLinks&pgtype=Article), [Odd Lots](https://www.bloomberg.com/news/articles/2024-02-08/ny-community-bancorp-s-nycb-problems-in-nyc-s-rent-stabilized-housing-market), [NYC 2019 Law](https://www.wsj.com/real-estate/commercial/tougher-rent-laws-are-behind-trouble-at-nycb-cc11f56a), [How Rent Controls Are Deepening the Dutch Housing Crisis](https://www.bloomberg.com/news/articles/2024-08-28/netherlands-rent-controls-deepen-housing-crisis?srnd=homepage-americas))
 
 ### **Public Housing**
-In this class we examine the development and demise of public housing in the United States. 
+In this class we examine the development and life-trajectory of public housing in the United States. Focusing on several individuals' lives, Ben Austen's book *High-Risers* captures how the experience of public housing changed in Chicago between the 1940s to the 1990s.
 
+It raises several important questions:
+- How to manage properties with both private condo owners and public housing renters (what is the right mix)?
+- How exaclty would the poor benefit from their close proxiimity to the gainfully employed?
+- What would happen to the vast majority of the public housing tenants who didn't get inot the more sparsely populated, deconcentrated buildings?
 
 
 

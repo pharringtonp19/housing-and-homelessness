@@ -7,7 +7,7 @@ nav_order: 3
 
 ### **Navigating Homelessness**
 
-We begin the semester by discussing two pieces from the New Yorker that capture the day-to-day challenges of those experiencing homelessness as well as the providers who work with them. These stories capture a number of issues that we'll discuss further in the semester such as mental health, substance abuse, financial costs and supportive services. A common refrain is that homelessness is a housing problem. These stories though show that homelessness is a culmination of a number of issues and perhaps none more important than strong and healthy relationships. [Slides](https://slides.com/pharringtonp19/hh_introduction/fullscreen)
+We begin the semester by discussing two pieces from the New Yorker that capture the day-to-day challenges of those experiencing homelessness as well as the providers who work with them. These stories highlight a number of issues that we'll discuss further in the semester such as mental health, substance abuse, financial costs and supportive services. A common refrain is that homelessness is a housing problem. These stories though show that homelessness is a culmination of a number of issues and perhaps none more important than strong and healthy relationships. [Slides](https://slides.com/pharringtonp19/hh_introduction/fullscreen)
 
 <div style="display: flex; justify-content: space-between; border: 2px solid black; padding: 10px;">
   <a href="https://www.newyorker.com/magazine/2006/02/13/million-dollar-murray" style="display: block; width: 49%; border-right: 2px solid gray;">

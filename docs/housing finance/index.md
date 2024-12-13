@@ -77,7 +77,6 @@ In this class, we read through a recent reporting by Bloomberg on the recent dev
 <ul>
   <li><a href="https://www.bloomberg.com/features/2024-catastrophe-bonds-fermat/">How a Physics Whiz Made a Fortune Betting on Nature’s Catastrophes</a></li>
   <li><a href="  https://www.bloomberg.com/news/articles/2024-02-04/hedge-funds-record-profits-entice-investors-to-catastrophe-bonds?sref=GBEdnt3o">Hedge Funds’ Mega Returns Set Off Demand Spiral for Catastrophe Bonds</a></li>
-
 </ul>
 </details>
 
@@ -121,7 +120,7 @@ In this class, we read through a recent reporting by Bloomberg on the recent dev
   <p>
     <strong>Part 5:</strong> <a href="https://www.bloomberg.com/graphics/2024-home-insurance-risky-policy/" target="_blank">The Quiet Rise of Lightly Regulated Home Insurance</a>
   </p>
-  <p>FILL IN</p>
+  <p>The article describes the recent growth in non-admitted insurance policies and highlights the potential issues possed by these companies moving forward (thinly capitalized, potentially volitile prices, lack of a guaranty fund) </p>
 </div>
 
 {% raw %}
@@ -149,6 +148,13 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 {% endraw %}
 
+### **Low-Income Housing**
+- tax credits 
+- soft loans 
+- city and state funds 
+- developer fees 
+- HOPE VI grants
+- Tax increment financing
 
 <!-- ### **Technical Overview**
 
