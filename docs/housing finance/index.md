@@ -18,12 +18,25 @@ In this class we discuss the history of housing finance in the United States. Re
 </ul>
 </details>
 
-<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <!-- Title of the PNG -->
   
   <!-- PNG Image -->
   <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781003097501/housing-policy-united-states-alex-schwartz" style="display: block;">
     <img src="./../assets/images/hp.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+### **Government Sponsored Enterprises**
+
+In this class we examine the role the Government Sponsored Enterprises had on the development of housing.
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://openroadmedia.com/ebook/the-fateful-history-of-fannie-mae/9781614236993" style="display: block;">
+    <img src="./../assets/images/hagerty.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
 

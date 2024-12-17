@@ -98,16 +98,33 @@ It raises several important questions:
 
 
 ### **Discrimination** 
-[Slides](https://slides.com/pharringtonp19/waiting-for-gautreaux/fullscreen)
+In this class we cover the Gautreaux case against both the Chicago Housing Authority and the U.S. Department of Housing and Urban Development. 
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 20px;">
+  <!-- Book -->
+  <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%);">
+    <!-- PNG Image -->
+    <a href="https://nupress.northwestern.edu/9780810123441/waiting-for-gautreaux/" style="display: block;">
+      <img src="./../assets/images/wfg.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
 
-<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  
-  <!-- PNG Image -->
-  <a href="https://nupress.northwestern.edu/9780810123441/waiting-for-gautreaux/" style="display: block;">
-    <img src="./../assets/images/wfg.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
+  <!-- Paper -->
+  <div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%);">
+    <!-- Title of the PNG -->
+    <div style="font-weight: bold;">Chyn and Collinson. (2023)</div>
+    <!-- PNG Image -->
+    <a href="https://sites.google.com/site/collinsonrob/resear" style="display: block;">
+      <img src="./../assets/images/gaut.png" alt="Alt text" style="width: 100%; height: auto;" />
+    </a>
+  </div>
 </div>
+
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.newyorker.com/news/news-desk/the-unfulfilled-promise-of-the-fair-housing-act">The Unfulfilled Promise of the Fair Housing Act</a></li>
+</ul>
+</details>
 
 
 ### **Housing Choice Vouchers** 
@@ -124,22 +141,14 @@ In this class we examine the impact of providing tenants in public housing with 
   </a>
 </div>
 
-### **Housing Choice Vouchers & Desegregation** 
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.newyorker.com/news/news-desk/the-unfulfilled-promise-of-the-fair-housing-act">The Unfulfilled Promise of the Fair Housing Act</a></li>
+</ul>
+</details>
 
-[Discussion Questions](https://daffodil-brand-804.notion.site/The-Long-Run-Effects-of-Residential-Racial-Desegregation-Programs-Evidence-from-Gautreaux-11452d8e3f6d801a8395d510d9350099?pvs=4)
 
-<div style="border: 2px solid black; padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  <div style="font-weight: bold;">Chyn and Collinson. (2023)</div>
-  
-  <!-- PNG Image -->
-  <a href="https://sites.google.com/site/collinsonrob/resear" style="display: block;">
-    <img src="./../assets/images/gaut.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
-
-Articles 
-[Baltimore MTO 1995](https://www.nytimes.com/1995/03/28/us/housing-voucher-test-in-maryland-is-scuttled-by-a-political-firestorm.html)
 
 ### **Improvements to Housing Choice Vouchers**
 
