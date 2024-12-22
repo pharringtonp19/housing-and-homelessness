@@ -5,6 +5,8 @@ permalink: /housing-finance/
 nav_order: 4
 ---
 
+
+
 ### **Historical Overview**
 
 In this class we discuss the history of housing finance in the United States. Relying largley on Chapter Three of Alex F. Schultz' ["Housing Policy in the United States"](https://www.taylorfrancis.com/books/mono/10.4324/9781003097501/housing-policy-united-states-alex-schwartz), we learn about the key policy changes which have lead to the current state of the housing market. [Slides](https://slides.com/pharringtonp19/history-of-housing-finance/fullscreen)
@@ -27,6 +29,13 @@ In this class we discuss the history of housing finance in the United States. Re
   </a>
 </div>
 
+### **Banking**
+> The fundamental model of a bank is changing from lending to earn a return to lending to make fees and attract deposits, and I don’t think that paradigm shift is changing anytime soon - Loris Nazarian, an assistant portfolio manager at Oaktree Capital
+- [Theory 1 or Theory 2](https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now)
+- [Credit and Interest Rate Risk](https://www.bloomberg.com/opinion/articles/2024-12-19/private-credit-wants-to-be-the-bank?srnd=opinion)
+- Blackstone, Apollo, BlackRock
+- Supply of Credit: Life Insurance Companies, Endowments, Retirement Accounts
+
 ### **Government Sponsored Enterprises**
 
 In this class we examine the role the Government Sponsored Enterprises had on the development of housing.
@@ -40,6 +49,13 @@ In this class we examine the role the Government Sponsored Enterprises had on th
   </a>
 </div>
 
+### **Development**
+<details>
+<summary>Related Articles</summary>
+<ul>
+  <li><a href="https://www.nytimes.com/2020/02/20/us/California-housing-costs.html">Why Does It Cost $750,000 to Build Affordable Housing in San Francisco?</a></li>
+</ul>
+</details>
 
 
 <style>
