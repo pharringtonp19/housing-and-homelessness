@@ -5,19 +5,6 @@ permalink: /housing-insecurity/
 nav_order: 6
 ---
 
-### **Housing Instability**
-In this class, we focus on stories of the private rental market which caters to low-income individuals. Desmond's account portrays the daily challenges that tenants face in securing and mainting housing. It's a raw portrayal of the factors which contribute to insecure housing. [Discussion Questions](https://daffodil-brand-804.notion.site/Evicted-11952d8e3f6d80f7a054e220003596cc?pvs=4)
-
-<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto;">
-  <!-- Title of the PNG -->
-  
-  <!-- PNG Image -->
-  <a href="https://people.bu.edu/guren/ForeclosureEvictionDGT.pdf" style="display: block;">
-    <img src="./../assets/images/evicted.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
-
-
 ### **Foreclosures**
 In this class, we examine the costs of foreclosure to homeowners, landlords and renters. Reading an earlier version of the work, we discuss the importance of transparent and credible research - something that all researcher's struggle with (myself included!). [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2020-c8845f/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/THE-EFFECT-OF-FORECLOSURES-ON-HOMEOWNERS-TENANTS-AND-LANDLORDS-2020-NBER-WORKING-PAPER-SERIES-12252d8e3f6d80758d20ec0c347944f5?pvs=4)
 

@@ -5,7 +5,7 @@ permalink: /introduction/
 nav_order: 3
 ---
 
-### **Navigating Homelessness**
+### **Navigating Homelessness (Class #1)**
 
 We begin the semester by discussing two pieces from the New Yorker that capture the day-to-day challenges of those experiencing homelessness as well as the providers who work with them. These stories highlight a number of issues that we'll discuss further in the semester such as mental health, substance abuse, financial costs and supportive services. A common refrain is that homelessness is a housing problem. These stories though show that homelessness is a culmination of a number of issues and perhaps none more important than strong and healthy relationships. [Slides](https://slides.com/pharringtonp19/hh_introduction/fullscreen)
 
@@ -22,9 +22,42 @@ We begin the semester by discussing two pieces from the New Yorker that capture 
   </a>
 </div>
 
-### **Housing Issues**
+---
 
-In this class, we are introduced, by Conor Dougherty, to a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, the gentrifying effects of upzoning, contract cities, among a host of other issues.
+### **Housing Instability  (Class #2/3)**
+
+I was asked in a recent job interview, if I was teaching a course on poverty, what paper would I begin the class with. The short answer is that I wouldn’t. I wouldn’t begin a class with a paper. That isn’t to say papers aren’t important, or aren’t worth reading. But I’d start with a book -  with a story, with something that captures one’s attention and holds it and says ‘this is something important’, ‘here’s what some people’s daily lives look like’. Something that asks, by the end, and ‘what are you going to do about it?!’ Papers don’t do that. Books do.
+
+In this class, we start with Mathew Desmond's account of the private low-income rental market in Milwaukee. His portrayal highlights the numerous obstacles people (and families) face in securing and maintaining housing. One's left with conflicting takeaways in that mitigating these issues is simple, and yet, it's not that simple. 
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://evictedbook.com/" style="display: block;">
+    <img src="./../assets/images/evicted.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+---
+
+### **Leadership in Housing (Class #4)**
+
+A lot of papers that we'll read examine the effectiveness of certain policies -- vouchers, legal aid, financial assistance and the like. Focusing exclusively on policies though can make it hard to appreciate the outsized role that good leadership plays not just in the execution of these policies but in the functioning of institutions such as HUD, Public Housing Authorities, and non-profit organizations. J. S. Fuerst's account on Public Housing reminds us of the importance of having great leadership.
+
+<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <!-- Title of the PNG -->
+  
+  <!-- PNG Image -->
+  <a href="https://www.press.uillinois.edu/books/?id=p072130" style="display: block;">
+    <img src="./../assets/images/paradise.png" alt="Alt text" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+---
+
+### **Housing Issues**
+onor Doughert covers a number of issues surrounding housing from post WW2 onwards including the development of environmental concerns, property taxes (Prop 13), rent control, the financialization of housing, NIMBY, the gentrifying effects of upzoning, contract cities, among a host of other issues.
 
 <div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <!-- Title of the PNG -->
@@ -41,19 +74,6 @@ In this class, we are introduced, by Conor Dougherty, to a number of issues surr
   <li><a href="https://www.nytimes.com/2024/09/24/podcasts/the-daily/housing-crisis-michigan.html">How the Cost of Housing Became so Crushing</a></li>
 </ul>
 </details>
-
-### **Leadership in Housing**
-
-A lot of papers that we'll read examine the effectiveness of certain policies -- vouchers, legal aid, financial assistance and the like. Focusing exclusively on policies though can make it hard to appreciate the outsized role that good leadership plays not just in the execution of these policies but in the functioning of institutions such as HUD, Public Housing Authorities, and non-profit organizations. J. S. Fuerst's account on Public Housing reminds of the importance of having great leadership.
-
-<div style="padding: 10px; text-align: center; width: calc(33.33% - 1%); margin: 0 auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <!-- Title of the PNG -->
-  
-  <!-- PNG Image -->
-  <a href="https://www.press.uillinois.edu/books/?id=p072130" style="display: block;">
-    <img src="./../assets/images/paradise.png" alt="Alt text" style="width: 100%; height: auto;" />
-  </a>
-</div>
 
 
 
