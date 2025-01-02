@@ -49,6 +49,8 @@ We incorporate the work of Nall et al. (2022) into our class discussions of Filt
 
 
 
+
+
 ### **Rent Control** 
 
 In this class we discuss the impacts of rent control policies. Most undergrads are comfortable with explaining the impact of rent control (a price ceiling). Diamond et al. (2019) attempts to provide additional insight to this topic by leveraging consumer reference data and a quasi-experimental design. We discuss the relative strenghts of this work.  [Slides](https://slides.com/pharringtonp19/presentation-of-diamond-et-al-2019/fullscreen), [Discussion Questions](https://daffodil-brand-804.notion.site/The-Effects-of-Rent-Control-Expansion-on-Tenants-Landlords-and-Inequality-Evidence-from-San-Franc-10452d8e3f6d804891f3fba415ad308e?pvs=4)
@@ -215,6 +217,17 @@ Writings:
     <img src="./../assets/images/soltas.png" alt="Alt text" style="width: 100%; height: auto;" />
   </a>
 </div>
+
+### **Affordable Housing (Without the Government?)**
+
+<details>
+<summary>Articles</summary>
+<ul>
+  <li><a href="https://www.wsj.com/real-estate/is-living-on-top-of-a-costco-the-answer-to-the-affordable-housing-crisis-ed3e8bf3?mod=hp_lead_pos11">
+Is Living on Top of a Costco the Answer to Affordable-Housing Crisis?</a></li>
+  <li><a href="https://www.wsj.com/real-estate/private-developers-affordable-housing-public-funds-3b779780?mod=article_inline">Why Private Developers Are Rejecting Government Money for Affordable Housing</a></li>
+</ul>
+</details>
 
 
 ### **Boston**

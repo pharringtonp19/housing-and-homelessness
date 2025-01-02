@@ -6,7 +6,12 @@ nav_order: 2
 has_children: false
 ---
 
+## **January 2025**
+- [Is Living on Top of a Costco the Answer to Affordable-Housing Crisis?](https://www.wsj.com/real-estate/is-living-on-top-of-a-costco-the-answer-to-the-affordable-housing-crisis-ed3e8bf3?mod=hp_lead_pos11)
+
+
 ## **December 2024**
+- [The Blue State Homeless Boom](https://www.wsj.com/opinion/homelessness-report-department-of-housing-and-urban-development-2024-a150b1c7)
 - [Your Home-Insurance Bill Has Only One Way to Go: Up](https://www.wsj.com/finance/homeowners-insurance-rates-disasters-4f3e826d?mod=hp_lead_pos6)
 - [NYCHA Now Needs $78 Billion to Fix Aging Buildings as Costs Surge From 2017 Estimate](https://www.thecity.nyc/2023/07/12/nycha-78-billion-fix-housing-projects/)
 - [Where to Invest in Real Estate Right Now](https://www.bloomberg.com/features/2024-how-to-invest-real-estate-Q4/?srnd=homepage-americas)
