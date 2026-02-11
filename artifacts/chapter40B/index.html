@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Neighborhood Characteristics by Affordable Housing Type — MA Chapter 40B</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #fafaf8; font-family: 'Source Sans 3', Helvetica, sans-serif; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px 20px; }
+    .page-title {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 26px; font-weight: 700; color: #1a1a2e;
+      text-align: center; margin-bottom: 6px; letter-spacing: -0.5px;
+    }
+    .page-subtitle { font-size: 14px; color: #777; text-align: center; margin-bottom: 28px; }
+    .tabs {
+      display: flex; justify-content: center; gap: 4px;
+      border-bottom: 2px solid #e0ddd8; margin-bottom: 28px;
+    }
+    .tab-btn {
+      padding: 10px 20px; font-family: 'Source Sans 3', Helvetica, sans-serif;
+      font-size: 14px; font-weight: 500; color: #888;
+      background: none; border: none; border-bottom: 3px solid transparent;
+      cursor: pointer; margin-bottom: -2px; transition: all 0.2s;
+    }
+    .tab-btn.active { font-weight: 700; color: #1a1a2e; border-bottom-color: #db6400; }
+    .card {
+      background: #fff; border-radius: 12px; padding: 28px 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06); display: none;
+    }
+    .card.active { display: block; }
+    .fig-title {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 22px; font-weight: 700; color: #1a1a2e;
+      text-align: center; margin-bottom: 4px;
+    }
+    .fig-title .num { color: #db6400; }
+    .fig-subtitle {
+      font-size: 14px; color: #666; text-align: center;
+      font-style: italic; margin-bottom: 16px; max-width: 700px;
+      margin-left: auto; margin-right: auto;
+    }
+    .legend {
+      display: flex; justify-content: center; gap: 18px;
+      flex-wrap: wrap; margin-bottom: 14px; font-size: 13px;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; color: #444; }
+    .legend-swatch { width: 14px; height: 14px; border-radius: 3px; display: inline-block; }
+    .chart-wrap { position: relative; width: 100%; max-width: 850px; margin: 0 auto; }
+    .chart-row { display: flex; gap: 16px; flex-wrap: wrap; }
+    .chart-half { flex: 1; min-width: 340px; }
+    .chart-half h4 {
+      text-align: center; font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 15px; color: #444; margin-bottom: 8px; font-weight: 600;
+    }
+    .spacer { height: 40px; }
+    .callout {
+      margin-top: 24px; padding: 14px 18px; background: #f8f6f2;
+      border-radius: 8px; border-left: 4px solid #db6400;
+      font-size: 14px; color: #444; line-height: 1.6;
+    }
+    .callout strong { color: #1a1a2e; }
+    .source {
+      text-align: center; font-size: 12px; color: #aaa; margin-top: 24px;
+      max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="page-title">Neighborhood Characteristics by Affordable Housing Type</h1>
+    <p class="page-subtitle">Massachusetts — Median values across program neighborhoods</p>
+
+    <div class="tabs">
+      <button class="tab-btn active" onclick="showTab(0)">Economic &amp; Housing</button>
+      <button class="tab-btn" onclick="showTab(1)">Demographics &amp; Composition</button>
+      <button class="tab-btn" onclick="showTab(2)">Opportunity &amp; Neighborhood Quality</button>
+    </div>
+
+    <!-- Tab 0: Economic -->
+    <div class="card active" id="tab0">
+      <h2 class="fig-title"><span class="num">Figure 1a.</span> Median Household Income by Program Type</h2>
+      <p class="fig-subtitle">Chapter 40B neighborhoods are wealthier than the MA median; other programs serve lower-income areas</p>
+      <div class="legend" id="leg0"></div>
+      <div class="chart-wrap"><canvas id="chart-income"></canvas></div>
+      <div class="spacer"></div>
+      <h2 class="fig-title"><span class="num">Figure 1b.</span> Median Home Values &amp; Two-Bedroom Rent</h2>
+      <p class="fig-subtitle">Home values and rents follow a similar gradient across program types</p>
+      <div class="legend" id="leg1"></div>
+      <div class="chart-row">
+        <div class="chart-half"><h4>Median Home Value</h4><canvas id="chart-home"></canvas></div>
+        <div class="chart-half"><h4>Median Two-Bedroom Rent</h4><canvas id="chart-rent"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Tab 1: Demographics -->
+    <div class="card" id="tab1">
+      <h2 class="fig-title"><span class="num">Figure 2a.</span> Race/Ethnicity, Poverty &amp; Tenure</h2>
+      <p class="fig-subtitle">Chapter 40B neighborhoods mirror MA overall; other programs serve more diverse, higher-poverty, renter-heavy areas</p>
+      <div class="legend" id="leg2"></div>
+      <div class="chart-wrap"><canvas id="chart-demo"></canvas></div>
+      <div class="spacer"></div>
+      <h2 class="fig-title"><span class="num">Figure 2b.</span> Educational Attainment</h2>
+      <p class="fig-subtitle">40B neighborhoods have higher college attainment; other programs have 2–5× the rate of residents without a high school diploma</p>
+      <div class="legend" id="leg3"></div>
+      <div class="chart-wrap"><canvas id="chart-edu"></canvas></div>
+      <div class="spacer"></div>
+      <h2 class="fig-title"><span class="num">Figure 2c.</span> Age Distribution</h2>
+      <p class="fig-subtitle">Age structure is remarkably similar across all program types — the key differences are economic, not demographic</p>
+      <div class="legend" id="leg4"></div>
+      <div class="chart-wrap"><canvas id="chart-age"></canvas></div>
+      <div class="spacer"></div>
+      <h2 class="fig-title"><span class="num">Figure 2d.</span> Two-Parent Household Share</h2>
+      <p class="fig-subtitle">Family structure varies dramatically — only half of LIHTC neighborhood households are two-parent, vs. 85% in 40B areas</p>
+      <div class="legend" id="leg5"></div>
+      <div class="chart-wrap" style="max-width:550px"><canvas id="chart-family"></canvas></div>
+      <div class="callout">
+        <strong>Key takeaway:</strong> Education and family structure show the sharpest divergences across program types. Public Housing and LIHTC neighborhoods have 2–5× higher rates of residents without a high school diploma and significantly lower two-parent household shares (50–56% vs. 85% in 40B). Meanwhile, age distributions are nearly identical — the neighborhoods differ dramatically on socioeconomic characteristics, not demographic ones.
+      </div>
+    </div>
+
+    <!-- Tab 2: Opportunity -->
+    <div class="card" id="tab2">
+      <h2 class="fig-title"><span class="num">Figure 3a.</span> Neighborhood Quality Relative to MA Median</h2>
+      <p class="fig-subtitle">Percent difference from MA overall median — positive = above median, negative = below</p>
+      <div class="legend" id="leg-prog"></div>
+      <div class="chart-wrap"><canvas id="chart-diverge"></canvas></div>
+      <div class="spacer"></div>
+      <h2 class="fig-title"><span class="num">Figure 3b.</span> Opportunity Metrics: Education &amp; Health</h2>
+      <p class="fig-subtitle">3rd grade math scores and life expectancy at birth by program type</p>
+      <div class="legend" id="leg6"></div>
+      <div class="chart-row">
+        <div class="chart-half"><h4>3rd Grade Math Scores</h4><canvas id="chart-math"></canvas></div>
+        <div class="chart-half"><h4>Life Expectancy at Birth (years)</h4><canvas id="chart-life"></canvas></div>
+      </div>
+      <div class="callout">
+        <strong>Key takeaway:</strong> Chapter 40B neighborhoods score highest on nearly every opportunity metric — closely resembling (or exceeding) the MA median. HCV, LIHTC, and Public Housing neighborhoods show meaningfully lower incomes, test scores, and home values, with poverty the starkest differentiator. Life expectancy gaps are smaller but still statistically significant.
+      </div>
+    </div>
+
+    <p class="source">Source: Table 2 from <em>"Can Fair Share Policies Expand Neighborhood Choice? Evidence From Bypassing Exclusionary Zoning Under Massachusetts Chapter 40B"</em></p>
+  </div>
+
+<script>
+// ── Programs ──
+const ALL = [
+  { label: "MA Overall",     color: "#1a1a2e" },
+  { label: "Chapter 40B",    color: "#16697a" },
+  { label: "All HCV",        color: "#db6400" },
+  { label: "LIHTC",          color: "#489fb5" },
+  { label: "Public Housing", color: "#e63946" },
+];
+const PROG = ALL.slice(1);
+
+// ── Chart.js defaults ──
+Chart.defaults.font.family = "'Source Sans 3', Helvetica, sans-serif";
+Chart.defaults.font.size = 12;
+Chart.defaults.color = "#666";
+Chart.defaults.plugins.legend.display = false;
+Chart.defaults.plugins.tooltip.backgroundColor = "rgba(255,255,255,0.97)";
+Chart.defaults.plugins.tooltip.titleColor = "#1a1a2e";
+Chart.defaults.plugins.tooltip.bodyColor = "#444";
+Chart.defaults.plugins.tooltip.borderColor = "#ddd";
+Chart.defaults.plugins.tooltip.borderWidth = 1;
+Chart.defaults.plugins.tooltip.cornerRadius = 8;
+Chart.defaults.plugins.tooltip.padding = 10;
+
+// ── Helpers ──
+function legend(id, items) {
+  document.getElementById(id).innerHTML = items.map(p =>
+    '<div class="legend-item"><span class="legend-swatch" style="background:' + p.color + '"></span>' + p.label + '</div>'
+  ).join('');
+}
+
+function grouped(canvasId, labels, valsByProgram, programs, opts) {
+  opts = opts || {};
+  new Chart(document.getElementById(canvasId), {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: programs.map(function(p, pi) {
+        return {
+          label: p.label,
+          data: valsByProgram[pi],
+          backgroundColor: p.color,
+          borderRadius: 4,
+          maxBarThickness: opts.barMax || 50,
+        };
+      }),
+    },
+    options: {
+      responsive: true,
+      aspectRatio: opts.aspect || 2.2,
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { size: 12 } } },
+        y: {
+          min: opts.yMin != null ? opts.yMin : 0,
+          max: opts.yMax != null ? opts.yMax : undefined,
+          grid: { color: '#eee' },
+          ticks: { callback: opts.yFmt || function(v){return v;}, font: { size: 11 } },
+        },
+      },
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(ctx) { return ctx.dataset.label + ': ' + (opts.tipFmt ? opts.tipFmt(ctx.raw) : ctx.raw); },
+          },
+        },
+      },
+    },
+  });
+}
+
+// ── Tab switching ──
+function showTab(idx) {
+  document.querySelectorAll('.card').forEach(function(c, i) { c.classList.toggle('active', i === idx); });
+  document.querySelectorAll('.tab-btn').forEach(function(b, i) { b.classList.toggle('active', i === idx); });
+}
+
+// ── Legends ──
+for (var i = 0; i <= 6; i++) legend('leg' + i, ALL);
+legend('leg-prog', PROG);
+
+// ── Formatters ──
+var pctFmt = function(v) { return (v * 100).toFixed(0) + '%'; };
+var pctTip = function(v) { return (v * 100).toFixed(1) + '%'; };
+var kFmt   = function(v) { return '$' + v + 'K'; };
+var kTip   = function(v) { return '$' + v.toFixed(1) + 'K'; };
+var dFmt   = function(v) { return '$' + v; };
+var dTip   = function(v) { return '$' + v.toLocaleString(); };
+
+// ── Tab 0: Economic ──
+grouped('chart-income', ['Median HH Income ($K)'],
+  [[68.43],[84.87],[46.62],[36.67],[32.16]], ALL,
+  { yMax: 100, yFmt: kFmt, tipFmt: kTip, barMax: 70, aspect: 2.5 });
+
+grouped('chart-home', ['Median Home Value ($K)'],
+  [[329.9],[372.4],[290.3],[290.7],[265.0]], ALL,
+  { yMax: 420, yFmt: kFmt, tipFmt: kTip, barMax: 60, aspect: 1.6 });
+
+grouped('chart-rent', ['Rent, 2BR ($)'],
+  [[946],[1028],[845],[794],[591]], ALL,
+  { yMax: 1200, yFmt: dFmt, tipFmt: dTip, barMax: 60, aspect: 1.6 });
+
+// ── Tab 1: Demographics ──
+grouped('chart-demo',
+  ['White','Black','Hispanic','Below Poverty','Renters'],
+  [[0.88,0.03,0.04,0.07,0.32],[0.91,0.02,0.02,0.05,0.22],[0.67,0.08,0.13,0.18,0.63],[0.60,0.11,0.18,0.24,0.74],[0.58,0.10,0.19,0.28,0.73]],
+  ALL, { yMax: 1, yFmt: pctFmt, tipFmt: pctTip });
+
+grouped('chart-edu',
+  ['Less than HS','High School','College or More'],
+  [[0.08,0.53,0.36],[0.05,0.50,0.45],[0.16,0.54,0.24],[0.18,0.50,0.24],[0.25,0.53,0.18]],
+  ALL, { yMax: 0.6, yFmt: pctFmt, tipFmt: pctTip });
+
+grouped('chart-age',
+  ['Under 18','18–64','Over 64'],
+  [[0.22,0.63,0.14],[0.23,0.62,0.14],[0.22,0.64,0.12],[0.23,0.63,0.12],[0.23,0.63,0.12]],
+  ALL, { yMax: 0.75, yFmt: pctFmt, tipFmt: pctTip });
+
+grouped('chart-family', ['Two-Parent Share'],
+  [[0.80],[0.85],[0.63],[0.50],[0.56]], ALL,
+  { yMax: 1, yFmt: pctFmt, tipFmt: pctTip, barMax: 70, aspect: 2 });
+
+// ── Tab 2: Divergence ──
+var ma = { inc: 68.43, hv: 329.9, math: 3.99, life: 80.7, pov: 0.07 };
+var progVals = [
+  { inc:84.87, hv:372.4, math:4.67, life:81.2, pov:0.05 },
+  { inc:46.62, hv:290.3, math:3.32, life:78.7, pov:0.18 },
+  { inc:36.67, hv:290.7, math:2.96, life:78.3, pov:0.24 },
+  { inc:32.16, hv:265.0, math:2.96, life:78.0, pov:0.28 },
+];
+
+new Chart(document.getElementById('chart-diverge'), {
+  type: 'bar',
+  data: {
+    labels: ['Household Income','Home Value','3rd Gr. Math','Life Expectancy','Low Poverty'],
+    datasets: PROG.map(function(p, pi) {
+      var v = progVals[pi];
+      return {
+        label: p.label,
+        data: [
+          (v.inc - ma.inc) / ma.inc * 100,
+          (v.hv - ma.hv) / ma.hv * 100,
+          (v.math - ma.math) / ma.math * 100,
+          (v.life - ma.life) / ma.life * 100,
+          -((v.pov - ma.pov) / ma.pov * 100),
+        ],
+        backgroundColor: p.color,
+        borderRadius: 4,
+        maxBarThickness: 40,
+      };
+    }),
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true,
+    aspectRatio: 1.8,
+    scales: {
+      x: {
+        grid: { color: function(ctx) { return ctx.tick.value === 0 ? '#1a1a2e' : '#eee'; } },
+        ticks: { callback: function(v) { return (v > 0 ? '+' : '') + v.toFixed(0) + '%'; }, font: { size: 11 } },
+      },
+      y: { grid: { display: false }, ticks: { font: { size: 13, weight: '500' } } },
+    },
+    plugins: {
+      tooltip: {
+        callbacks: {
+          label: function(ctx) { return ctx.dataset.label + ': ' + (ctx.raw > 0 ? '+' : '') + ctx.raw.toFixed(1) + '% vs MA median'; },
+        },
+      },
+    },
+  },
+});
+
+// ── Tab 2: Math & Life ──
+grouped('chart-math', ['3rd Grade Math'],
+  [[3.99],[4.67],[3.32],[2.96],[2.96]], ALL,
+  { yMax: 6, tipFmt: function(v){return v.toFixed(2);}, barMax: 60, aspect: 1.6 });
+
+grouped('chart-life', ['Life Expectancy'],
+  [[80.7],[81.2],[78.7],[78.3],[78.0]], ALL,
+  { yMin: 74, yMax: 84, tipFmt: function(v){return v.toFixed(1)+' years';}, barMax: 60, aspect: 1.6 });
+</script>
+</body>
+</html>
