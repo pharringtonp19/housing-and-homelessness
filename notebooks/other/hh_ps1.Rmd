@@ -1,0 +1,168 @@
+---
+title: "Problem Set #1"
+output: html_notebook
+---
+
+### Question #2: Setting up Computer
+
+```{r}
+setwd("/Users/ppower1/Downloads/")
+```
+
+```{r}
+install.packages("readr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("Hmisc")
+```
+
+```{r}
+library(Hmisc)
+library(readr)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+sessionInfo()
+```
+
+### Question #3: Process Data
+
+```{r}
+df <- read.csv("usa_00031.csv.gz")
+head(df)
+print(nrow(df))
+```
+
+```{r}
+df <- df %>%
+  rename(sample_weight = HHWT,
+         income = HHINCOME)
+```
+
+```{r}
+df <- df %>%
+  filter(GQ %in% c(1, 2, 5),
+         !is.na(OWNERSHP),
+         income < 9999999,
+         income >0,
+         FARM == 1,
+         MET2013 > 0,
+         !(OWNERSHP == 1 & OWNCOST == 99999),
+         !(OWNERSHP == 2 & RENTGRS == 0))
+```
+
+
+```{r}
+describe(df$OWNERSHP)
+```
+
+```{r}
+print(wtd.mean(df$income, df$sample_weight))
+```
+
+### Question #5: Creating Variables
+
+```{r}
+df <- df %>%
+  mutate(
+    housing_cost = case_when(
+      OWNERSHP == 1 ~ OWNCOST,
+      OWNERSHP == 2 ~ RENTGRS
+    ),
+    cost_to_income = housing_cost / (income / 12)
+  )
+
+df <- df %>%
+  filter(cost_to_income < 100)
+```
+
+
+```{r}
+df$cost_30 <- df$cost_to_income > 0.3
+df$cost_50 <- df$cost_to_income > 0.5
+```
+
+### Question 6: Data Exploration
+
+```{r}
+ami_by_metro <- df %>%
+  group_by(MET2013) %>%
+  dplyr::summarize(ami = wtd.quantile(income, sample_weight, probs = 0.5))
+```
+
+```{R}
+# Plot distribution of AMI across CBSAs
+ggplot(ami_by_metro, aes(x = ami)) +
+  geom_histogram(bins = 30, fill = "steelblue", color = "white") +
+  labs(title = "Distribution of Area Median Income Across CBSAs",
+       x = "Area Median Income",
+       y = "Number of CBSAs") +
+  theme_minimal()
+```
+
+
+```{r}
+# Merge back to original dataset
+df <- df %>%
+  left_join(ami_by_metro, by = "MET2013")
+```
+
+### Question #7: Housing Expenditure
+
+```{r}
+percentiles <- c(0.10, 0.20, 0.30, 0.40, 0.50, 0.60, 0.70, 0.80, 0.90, 0.95)
+pct_labels <- c("10th", "20th", "30th", "40th", "50th", "60th", 
+                "70th", "80th", "90th", "95th")
+
+affordable <- data.frame(
+  percentile = factor(rep(pct_labels, 2), levels = pct_labels),
+  value = c(
+    sapply(percentiles, function(p) wtd.quantile(df$income, df$sample_weight, probs = p) * 0.30 / 12),
+    sapply(percentiles, function(p) wtd.quantile(df$housing_cost, df$sample_weight, probs = p))
+  ),
+  type = rep(c("Affordable (30% of Income)", "Actual Housing Cost"), each = 10)
+)
+
+ggplot(affordable, aes(x = percentile, y = value, fill = type)) +
+  geom_col(position = "dodge") +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  scale_fill_manual(values = c("Affordable (30% of Income)" = "steelblue", 
+                                "Actual Housing Cost" = "coral")) +
+  labs(title = "Affordable vs. Actual Monthly Housing Costs",
+       subtitle = "By household income percentile",
+       x = "",
+       y = "Monthly Amount",
+       fill = "") +
+  theme_minimal() +
+  theme(legend.position = "top")
+```
+
+### Question #8: Housing Gap
+
+```{r}
+bins <- seq(0, max(df$housing_cost), length.out = 10)[-1]
+```
+
+```{r}
+gap_data <- data.frame(
+  max_cost = bins,
+  demand = sapply(bins, function(x) sum(df$sample_weight[(df$income * 0.30 / 12) <= x])),
+  supply = sapply(bins, function(x) sum(df$sample_weight[df$housing_cost <= x]))
+) %>%
+  mutate(gap = demand - supply)
+```
+
+```{r}
+ggplot(gap_data, aes(x = max_cost, y = gap)) +
+  geom_point(size = 3, color = "steelblue") +
+  geom_line(color = "steelblue") +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray50") +
+  scale_x_continuous(labels = scales::dollar_format()) +
+  scale_y_continuous(labels = scales::comma_format()) +
+  labs(title = "Housing Affordability Gap by Price Point",
+       x = "Max Monthly Housing Cost (Bin Cutoff)",
+       y = "Cumulative Demand - Supply (# Households)") +
+  theme_minimal()
+```
