@@ -1,0 +1,208 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+setwd("/Users/ppower1/Desktop/")
+```
+
+```{r}
+install.packages("readr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("patchwork")
+install.packages("tigris")
+install.packages("sf")
+install.packages("ivreg") 
+```
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(patchwork)
+library(tigris)
+library(sf)
+library(ivreg)
+```
+
+**Question #1**:
+
+(a)
+```{r}
+p <- seq(30000, 80000, length.out = 100)
+```
+
+(b)
+```{r}
+housing_supply <- function(a, p, s, o) {
+result <- a * p^s * o
+return(result)
+}
+```
+
+(c)
+```{r}
+a <- 1.0
+o <- 1.0
+
+h_low <- housing_supply(a, p, 0.5, o)
+h_high <- housing_supply(a, p, 2.0, o)
+
+# STORE RESULTS IN DATAFRAME
+df_plot <- data.frame(
+P = rep(p, 2),
+H = c(h_low, h_high),
+psi = factor(rep(c("ψ = 0.5", "ψ = 2"), each = 100)))
+
+ggplot(df_plot, aes(x = H, y = P, color = psi)) +
+geom_line(size = 1.2) +
+labs(x = "Housing Supply (Hˢ)", y = "Housing Price",
+title = "Housing Supply Function",
+color = "") +
+theme_minimal()
+```
+
+**Question #2**
+```{r}
+log_h <- seq(0, 25, length.out = 100)
+
+df_log <- data.frame(
+  log_H = rep(log_h, 2),
+  log_P = c(log_h / 0.5, log_h / 2),
+  psi = factor(rep(c("ψ = 0.5", "ψ = 2"), each = 100))
+)
+
+ggplot(df_log, aes(x = log_H, y = log_P, color = psi)) +
+  geom_line(size = 1.2) +
+  labs(x = "log(Hˢ)", y = "log(P)",
+       title = "Housing Supply Function (Log Scale)",
+       color = "") +
+  theme_minimal()
+```
+
+
+
+
+
+**Question #3**
+
+*Any answer is acceptable here -- I just wanted them to think about this question *
+
+**Question #4**
+Generous partial credit for reasoning about something. The correct answer is that correlated demand shocks with income growth will have no impact on our estimates.
+
+
+**Question #5**
+The high level idea here is that our estimate will be biased down when supply shocks are more strongly correlated with income growth in low elasticity areas.
+
+**Question 6**
+
+(a): Reading in the Libraries -- done above!
+
+(b)
+```{r}
+df <- read.csv("msa_analysis_data.csv")
+head(df)
+```
+
+(c)
+```{r}
+df <- df %>% filter(!is.na(elasticity), !is.na(g_real_hpi), !is.na(g_housing_units))
+
+```
+
+(d)
+```{r}
+df$cbsa_code <- as.character(df$cbsa_code)
+```
+
+**Question #7**
+
+(a)
+```{r}
+# Download MSA shapefiles
+options(tigris_use_cache = TRUE)
+msas <- core_based_statistical_areas(year = 2020)
+```
+
+
+(b)
+```{r}
+# Merge
+merged <- msas %>%
+  left_join(df, by = c("GEOID" = "cbsa_code"))
+```
+
+(c)
+```{r}
+ggplot(merged) +
+  geom_sf(aes(fill = elasticity), color = NA) +
+  scale_fill_viridis_c(name = "Saiz Elasticity", trans = "log", na.value = "white") +
+  coord_sf(xlim = c(-125, -66), ylim = c(24, 50)) +
+  labs(title = "Housing Supply Elasticity by MSA") +
+  theme_minimal()
+```
+
+**Question #8**
+
+(a)
+```{r}
+p1 <- ggplot(df, aes(x = elasticity, y = g_real_hpi)) +
+  geom_point() +
+  labs(x = "Saiz Elasticity", y = "Real House Price Growth (%)") +
+  theme_minimal()
+
+p2 <- ggplot(df, aes(x = elasticity, y = g_housing_units)) +
+  geom_point() +
+  labs(x = "Saiz Elasticity", y = "Housing Unit Growth (%)") +
+  theme_minimal()
+
+p1 + p2
+```
+
+(b)
+```{r}
+ggplot(df, aes(x = g_real_income, y = g_real_hpi, color = factor(elastic_saiz))) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(x = "Real Income Growth (%)", 
+       y = "Real House Price Growth (%)",
+       color = "Elastic") +
+  scale_color_manual(values = c("0" = "red", "1" = "blue"),
+                     labels = c("0" = "Inelastic", "1" = "Elastic")) +
+  theme_minimal()
+```
+
+**Question #9**
+
+(a)
+```{r}
+price_reg <- lm(g_real_hpi ~ g_real_income * elastic_saiz, data = df)
+summary(price_reg)
+```
+
+(b)
+```{r}
+quantity_reg <- lm(g_housing_units ~ g_real_income * elastic_saiz, data = df)
+summary(quantity_reg)
+```
+
+
+**Question 10**: Explore!
+
+Here's what I did. Students are free to do what they want.
+```{r}
+# --- IV separately by elasticity group ---
+df_inelastic <- df %>% filter(elastic_saiz == 0)
+df_elastic   <- df %>% filter(elastic_saiz == 1)
+
+iv_inelastic <- ivreg(g_housing_units ~ g_real_hpi | g_real_income, data = df_inelastic)
+iv_elastic   <- ivreg(g_housing_units ~ g_real_hpi | g_real_income, data = df_elastic)
+
+
+# --- Compare elasticities ---
+cat("Supply elasticity (inelastic cities):", coef(iv_inelastic)["g_real_hpi"], "\n")
+cat("Supply elasticity (elastic cities):  ", coef(iv_elastic)["g_real_hpi"], "\n")
+```
+```
